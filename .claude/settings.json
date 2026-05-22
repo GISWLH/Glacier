@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"from pathlib import Path; p=Path\\(r'E:/Glacier/data/prepared/gee_uploads_slim'\\); z=sorted\\(p.glob\\('*.zip'\\)\\); print\\(len\\(z\\)\\); print\\('\\\\n'.join\\(f.name for f in z\\)\\)\")",
+      "Bash(python -m py_compile \"E:/Glacier/src/build_gee_upload_zip.py\")",
+      "Bash(python \"E:/Glacier/src/build_gee_upload_zip.py\" --region-key central_asia)",
+      "Bash(python -c 'import pandas as pd, subprocess, sys; p=r'\\\\''E:/Glacier/data/prepared/region_batches/region_manifest.csv'\\\\''; df=pd.read_csv\\(p\\); keys=df['\\\\''glambie_region_key'\\\\''].astype\\(str\\).tolist\\(\\); *)",
+      "Bash(python -c \"from pathlib import Path; p=Path\\(r'E:/Glacier/data/prepared/gee_uploads_slim'\\); z=sorted\\(p.glob\\('*.zip'\\)\\); print\\(f'zip_count={len\\(z\\)}'\\); print\\(f'root={p}'\\);\")",
+      "Bash(python -c \"import geopandas as gpd; p=r'E:/Glacier/data/prepared/gee_uploads_slim/13_central_asia/13_central_asia.shp'; gdf=gpd.read_file\\(p\\); print\\(','.join\\(gdf.columns\\)\\)\")",
+      "Bash(python -m py_compile \"E:/Glacier/src/submit_gee_batch_region_year.py\" \"E:/Glacier/src/build_sgl_incremental_runlist.py\")",
+      "Bash(python \"E:/Glacier/src/build_sgl_incremental_runlist.py\")",
+      "Bash(python \"E:/Glacier/src/submit_gee_batch_region_year.py\" --region central_asia --year 2000 --runlist-csv \"E:/Glacier/data/prepared/execution_plan/sgl_incremental_runlist.csv\" --status-filter all --max-tasks 2 --lake-type-filter SGL --dry-run)",
+      "Bash(python \"E:/Glacier/src/submit_gee_batch_region_year.py\" --region greenland_periphery --year 2000 --runlist-csv \"E:/Glacier/data/prepared/execution_plan/sgl_incremental_runlist.csv\" --status-filter all --max-tasks 2 --lake-type-filter SGL --dry-run)",
+      "Bash(python \"E:/Glacier/src/submit_gee_batch_region_year.py\" --region central_asia --year 2000 --runlist-csv \"E:/Glacier/data/prepared/execution_plan/sgl_incremental_runlist.csv\" --status-filter all --max-tasks 2 --lake-type-filter SGL)",
+      "Bash(python \"E:/Glacier/src/submit_gee_batch_region_year.py\" --region greenland_periphery --year 2000 --runlist-csv \"E:/Glacier/data/prepared/execution_plan/sgl_incremental_runlist.csv\" --status-filter all --max-tasks 1 --lake-type-filter SGL)",
+      "Bash(conda run *)",
+      "Bash(\"D:/miniconda3/envs/gee/python.exe\" -c \"import ee; print\\('ee_ok'\\)\")",
+      "Bash(\"D:/miniconda3/envs/gee/python.exe\" \"E:/Glacier/src/submit_gee_batch_region_year.py\" --region central_asia --year 2000 --runlist-csv \"E:/Glacier/data/prepared/execution_plan/sgl_incremental_runlist.csv\" --status-filter all --max-tasks 2 --lake-type-filter SGL --dry-run)",
+      "Bash(\"D:/miniconda3/envs/gee/python.exe\" \"E:/Glacier/src/submit_gee_batch_region_year.py\" --region central_asia --year 2000 --runlist-csv \"E:/Glacier/data/prepared/execution_plan/sgl_incremental_runlist.csv\" --status-filter all --max-tasks 2 --lake-type-filter SGL)",
+      "Bash(\"D:/miniconda3/envs/gee/python.exe\" \"E:/Glacier/src/submit_gee_batch_region_year.py\" --region greenland_periphery --year 2000 --runlist-csv \"E:/Glacier/data/prepared/execution_plan/sgl_incremental_runlist.csv\" --status-filter all --max-tasks 1 --lake-type-filter SGL)",
+      "Bash(python -c \"from pathlib import Path; p=Path\\(r'E:/Glacier/data/interim/annual_area_raw'\\); files=sorted\\([f.name for f in p.glob\\('*sgl*.csv'\\)]\\); print\\('\\\\n'.join\\(files[-20:]\\)\\); print\\(f'count={len\\(files\\)}'\\)\")",
+      "Bash(python \"E:/Glacier/src/qc_annual_area_exports.py\" --input-dir \"E:/Glacier/data/interim/annual_area_raw\" --pattern \"*sgl*.csv\" --tag \"sgl_anchor_2000\")",
+      "Bash(python -c \"import pandas as pd; df=pd.read_csv\\(r'E:/Glacier/data/interim/annual_area_qc/sgl_anchor_2000_qc_full.csv'\\); cols=['__source_file','glambie_region_key','year','lake_type','harmonized_class','image_count','baseline_valid_area_fraction','annual_area_to_baseline_ratio','qc_usable']; print\\(df[cols].head\\(12\\).to_string\\(index=False\\)\\); print\\('\\\\nclass_counts='\\); print\\(df['harmonized_class'].value_counts\\(dropna=False\\).to_string\\(\\)\\)\")",
+      "Bash(python -c \"import pandas as pd; df=pd.read_csv\\(r'E:/Glacier/data/prepared/execution_plan/sgl_incremental_runlist.csv'\\); sub=df[df['glambie_region_key'].isin\\(['central_asia','greenland_periphery']\\)]; print\\(sub.groupby\\('glambie_region_key'\\).size\\(\\).to_string\\(\\)\\); print\\('total=', len\\(sub\\)\\)\")",
+      "Bash(python -c \"import pandas as pd; df=pd.read_csv\\(r'E:/Glacier/data/prepared/execution_plan/sgl_incremental_runlist.csv'\\); rem=df[~df['glambie_region_key'].isin\\(['central_asia','greenland_periphery']\\)]; s=rem.groupby\\('glambie_region_key'\\).size\\(\\).sort_values\\(\\); print\\(s.to_string\\(\\)\\); print\\('total=', int\\(s.sum\\(\\)\\)\\)\")",
+      "Bash(python -c \"import pandas as pd; m=pd.read_csv\\(r'E:/Glacier/data/prepared/region_batches/region_manifest.csv'\\); cols=['glambie_region_key','supraglacial_count']; print\\(m[m['glambie_region_key'].isin\\(['alaska','western_canada_us','arctic_canada_north','arctic_canada_south','iceland','scandinavia','russian_arctic','north_asia','central_europe','caucasus_middle_east','south_asia_west','south_asia_east','low_latitudes','southern_andes','new_zealand']\\)][cols].sort_values\\('supraglacial_count'\\).to_string\\(index=False\\)\\)\")",
+      "Bash(python -c 'import pandas as pd; df=pd.read_csv\\(r'\\\\''E:/Glacier/data/prepared/execution_plan/sgl_incremental_runlist.csv'\\\\''\\); regs_small=['\\\\''arctic_canada_north'\\\\'','\\\\''arctic_canada_south'\\\\'','\\\\''caucasus_middle_east'\\\\'','\\\\''central_europe'\\\\'','\\\\''low_latitudes'\\\\'','\\\\''iceland'\\\\'','\\\\''new_zealand'\\\\'','\\\\''north_asia'\\\\'','\\\\''southern_andes'\\\\'','\\\\''russian_arctic'\\\\'','\\\\''scandinavia'\\\\'']; regs_med=['\\\\''western_canada_us'\\\\'','\\\\''south_asia_west'\\\\'']; *)",
+      "Bash(python -c \"import pandas as pd; df=pd.read_csv\\(r'E:/Glacier/data/prepared/execution_plan/sgl_incremental_runlist.csv'\\); print\\(df.groupby\\('glambie_region_key'\\).size\\(\\).sort_index\\(\\).to_string\\(\\)\\); print\\('total=', len\\(df\\)\\)\")",
+      "Bash(python \"E:/Glacier/src/qc_annual_area_exports.py\" --input-dir \"E:/Glacier/data/interim/annual_area_raw\" --pattern \"*sgl*.csv\" --tag \"sgl_incremental_all\")",
+      "Bash(python \"E:/Glacier/src/merge_sgl_into_formal_chain.py\" --regions alaska)",
+      "Bash(python \"E:/Glacier/src/merge_sgl_into_formal_chain.py\")",
+      "Bash(python \"E:/Glacier/src/build_central_asia_paper_package.py\")",
+      "Bash(python \"E:/Glacier/src/plot_central_asia_2000_2024_final_figures.py\")",
+      "Bash(python \"E:/Glacier/src/build_greenland_paper_package.py\")",
+      "Bash(python \"E:/Glacier/src/plot_greenland_key_years_final_figures.py\")",
+      "Bash(python \"E:/Glacier/src/plot_global_class_region_composite_figure.py\")"
+    ]
+  }
+}

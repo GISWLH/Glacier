@@ -1,0 +1,23 @@
+# Large project data and generated artifacts
+data/
+logs/
+checkpoints/
+models/
+figures/
+
+# Notebook checkpoints and caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment files
+.env
+.venv/
+venv/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+

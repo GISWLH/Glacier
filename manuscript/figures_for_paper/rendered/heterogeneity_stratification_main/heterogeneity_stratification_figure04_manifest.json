@@ -1,0 +1,29 @@
+{
+  "panel_a_source": "E:\\Glacier\\manuscript\\figures_for_paper\\heterogeneity_stratification_figure04_panel_a_source.csv",
+  "panel_b_source": "E:\\Glacier\\manuscript\\figures_for_paper\\heterogeneity_stratification_figure04_panel_b_source.csv",
+  "panel_c_source": "E:\\Glacier\\manuscript\\figures_for_paper\\heterogeneity_stratification_figure04_panel_c_source.csv",
+  "analysis_inputs": [
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_anomaly_robustness_v1\\glambie_anomaly_robustness_v1_stratified_regions.csv",
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_anomaly_robustness_v1\\glambie_anomaly_robustness_v1_stratum_tests.csv",
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_anomaly_robustness_v1\\glambie_anomaly_robustness_v1_stratum_inventory.csv",
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_anomaly_robustness_v1\\glambie_anomaly_robustness_v1_robustness_tests.csv"
+  ],
+  "figure_style": "Nature-style heterogeneity figure with region ranking, stratum summary, and robustness stability panels",
+  "nature_specs_applied": {
+    "width_mm": 183,
+    "font_family": "Arial",
+    "body_text_pt": "5-7",
+    "panel_label_pt": 8,
+    "vector_text": true,
+    "pdf_fonttype": 42,
+    "line_width_pt_range": "0.25-1",
+    "color_palette": "Okabe-Ito"
+  },
+  "source_notes": {
+    "panel_a": "Regionwise primary anomaly correlations and strata",
+    "panel_b": "Pooled primary anomaly correlations by stratum",
+    "panel_c": "Primary anomaly correlations across robustness subsets"
+  },
+  "pdf": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\heterogeneity_stratification_main\\heterogeneity_stratification_figure04.pdf",
+  "png": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\heterogeneity_stratification_main\\heterogeneity_stratification_figure04.png"
+}

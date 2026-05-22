@@ -1,0 +1,409 @@
+region_key,region_name,year,focal_variable,focal_label,x_residual,y_residual,x_raw,y_raw
+alaska,Alaska,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.6861977647308999,-0.43212879696024553,1.2442519763779978,-0.8433076471922986
+alaska,Alaska,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.11110184167497339,-0.9645513171493746,0.4280400094362184,-1.029676407921249
+alaska,Alaska,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.09405497204682309,-1.0509326553673963,0.1788794731894656,-1.2500645342380283
+alaska,Alaska,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.17846513299491218,0.8225794345593037,0.0484349589300603,0.7470936548427575
+alaska,Alaska,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2731822138232044,0.22670857182445592,-0.8559671792951308,1.001188914850965
+alaska,Alaska,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.08490168457237038,0.775763633005111,-0.1357936960630269,0.9503562004508715
+alaska,Alaska,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.10355713784339049,-0.12719240649717373,0.3459249809245034,-0.4917615237530704
+alaska,Alaska,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.11332366609418423,0.025736562024921944,0.1591846481983748,0.2526323758130129
+alaska,Alaska,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5383444810580914,0.12442323431630026,1.1600811602766206,-0.426713733097339
+alaska,Alaska,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.09894972278634195,1.245485250054413,-0.3383271634246206,1.4738513993232674
+alaska,Alaska,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.4118139111973327,0.9923813779736368,-0.1326754183524995,1.1298506216444255
+alaska,Alaska,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2091770295721012,0.941390737333837,0.1967778743606852,0.3410775223572697
+alaska,Alaska,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.9645403004008634,-1.7865335987432227,1.3871884274114374,-2.31672156163067
+alaska,Alaska,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2412066963030522,-0.7407841073615299,-0.6912735803474696,-0.2228540765758762
+alaska,Alaska,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.4031434724979464,0.38108592499745675,-0.4247567061128422,0.1557697340627976
+alaska,Alaska,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.13594502156130783,-0.2623911525250058,-0.1476615820755759,-0.4339913295165048
+alaska,Alaska,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.08174096881998288,0.42385547956263947,-0.3805811142344247,0.6529525388291382
+alaska,Alaska,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.19703738271419405,-0.03142321419532337,-0.274601895616578,-0.1587929238554354
+alaska,Alaska,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.5030074698055698,0.8608342996897045,-0.5954228043731421,1.3149878261407522
+alaska,Alaska,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.36630442085469894,0.37076412452940666,-1.0425317119993505,1.3382895452715735
+alaska,Alaska,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.11946398124682257,0.38335347542559584,0.126582001257384,0.2595588086232229
+alaska,Alaska,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3694604064013836,0.1062788465832404,0.3458526230652147,0.0483842972881322
+alaska,Alaska,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3826820427753229,-0.4510525485158205,-0.0748843893953309,-0.4023739166315241
+alaska,Alaska,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.27954489182083864,0.0646812984652759,-0.5267208921379717,0.206730482513308
+arctic_canada_north,Arctic Canada North,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.941228895432807,-0.03331991626777753,-0.1701266172430585,-0.6437584154551552
+arctic_canada_north,Arctic Canada North,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.24263152520031103,-0.8618162465506783,0.0308029620658893,-1.050460951654747
+arctic_canada_north,Arctic Canada North,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.17481161123855354,-0.8391496404428155,0.314833896026022,-1.0104809729865163
+arctic_canada_north,Arctic Canada North,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.1863891334016078,-0.05280305286722625,0.1890574017817011,-0.40398115102328
+arctic_canada_north,Arctic Canada North,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.12821143353234132,-0.6366105029051009,0.3824697553680356,-1.1515645971612618
+arctic_canada_north,Arctic Canada North,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.0031686010529114843,0.9032225586012447,0.0281871921773969,0.8786069746693466
+arctic_canada_north,Arctic Canada North,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3958910443786853,-0.3045368374656698,0.1540907043887026,-0.0438392361865058
+arctic_canada_north,Arctic Canada North,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.06225380414396581,1.048461326592711,-0.2790953506597053,1.44981747200804
+arctic_canada_north,Arctic Canada North,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.4303119181925884,1.058686861601118,-0.2741978490000896,0.9887525044600416
+arctic_canada_north,Arctic Canada North,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.045460299822358954,0.9464936816668746,-0.1371026239195723,1.0775071338268345
+arctic_canada_north,Arctic Canada North,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.2572046741917279,2.0079058846661884,0.0003551402591805,2.2075318092876133
+arctic_canada_north,Arctic Canada North,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.12982084979392539,0.8554772433233367,-0.50884096720261,1.3092207869372905
+arctic_canada_north,Arctic Canada North,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.08081341478125476,-0.14004144599170462,-0.4093996766023401,0.1978998306902576
+arctic_canada_north,Arctic Canada North,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.5345786946469511,-0.48787135626524136,0.3697381603769794,-1.174269508271281
+arctic_canada_north,Arctic Canada North,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.13127675854083132,1.4843005161866063,0.1144284422603792,1.2587368860554358
+arctic_canada_north,Arctic Canada North,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.056448016479210134,-0.8657907609021153,-0.2151498067048433,-0.6003022738907715
+arctic_canada_north,Arctic Canada North,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3939696135094245,-0.5510744350966801,0.0594178998090258,-0.4076727918639402
+arctic_canada_north,Arctic Canada North,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.03133956227048318,-0.6818989934476929,0.3602344250904717,-1.0429243460799755
+arctic_canada_north,Arctic Canada North,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.08577412346923019,-0.8101816638452649,0.4363109063440026,-1.2756914293768196
+arctic_canada_north,Arctic Canada North,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5591915586303693,-1.3775370725596172,-0.2770618417676078,-0.7124965444831208
+arctic_canada_north,Arctic Canada North,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.0657545868713601,-0.6305094969104625,-0.2355487679057749,-0.3187099501371986
+arctic_canada_north,Arctic Canada North,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.15371151111648843,-0.920186876114201,0.271380686610159,-1.0433639409679487
+arctic_canada_north,Arctic Canada North,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.4161467554645868,0.27727452437061295,-0.0705008734381961,0.7681692650722464
+arctic_canada_north,Arctic Canada North,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5050616436912492,0.3716892650712398,-0.1342831981141478,0.9015908255483978
+arctic_canada_south,Arctic Canada South,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.1817045482183777,0.3137180876781522,-0.2110281735629231,0.2864987545107378
+arctic_canada_south,Arctic Canada South,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.12113048411145622,-1.580227845626796,0.0287581247534297,-1.4470799574627065
+arctic_canada_south,Arctic Canada South,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.4070683692628157,-0.21404470598076447,0.4324958573011574,-0.2645418463966735
+arctic_canada_south,Arctic Canada South,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.354084052723858,0.8366799044257276,0.3613096434203635,0.7600122866216369
+arctic_canada_south,Arctic Canada South,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.22772590771180184,0.29558464147983,0.5339416395583705,0.0534658877753273
+arctic_canada_south,Arctic Canada South,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.20631771147788158,0.3449966678579607,-0.0268157578823193,0.1568016280537323
+arctic_canada_south,Arctic Canada South,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.31796015520534004,0.6288592392328591,0.1484448019569271,0.7444529039482666
+arctic_canada_south,Arctic Canada South,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.4845656665235649,-1.1378286869282788,-0.2481374163184666,-1.1973255620254657
+arctic_canada_south,Arctic Canada South,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.44099420920352406,0.4639385165954761,-0.3478095949956606,0.3656898556418128
+arctic_canada_south,Arctic Canada South,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.24910234477002655,0.6159666570467942,-0.3407615137863367,0.8299809316356397
+arctic_canada_south,Arctic Canada South,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3875501723955042,-0.2585061728401644,-0.171349849874681,0.226756518472757
+arctic_canada_south,Arctic Canada South,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.5000185592134776,0.12099762848670653,-0.4636407157080882,0.0814774250573049
+arctic_canada_south,Arctic Canada South,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.08526124178898559,-1.3451854477057275,-0.3855248392994217,-1.1396923521381803
+arctic_canada_south,Arctic Canada South,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.17939777089706743,-1.2377142760046853,0.3374746377395652,-1.7260254432990976
+arctic_canada_south,Arctic Canada South,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.16863663352922761,0.5731377327777326,0.2120447245037915,0.5815957802169827
+arctic_canada_south,Arctic Canada South,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.36414992733015683,0.3447694077718706,-0.1182450039186178,0.2130608351136881
+arctic_canada_south,Arctic Canada South,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.17731206023406265,0.8002703009541765,-0.1548050676499781,1.196762991567586
+arctic_canada_south,Arctic Canada South,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.01726121173559214,0.5645677617875765,0.4034151192726551,0.3009810668567588
+arctic_canada_south,Arctic Canada South,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.1316449637336375,-0.415522357984276,0.5410978832909661,-0.7929257123921999
+arctic_canada_south,Arctic Canada South,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.029337246595114497,1.187923605752594,-0.6895416671956498,1.7693884220892653
+arctic_canada_south,Arctic Canada South,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.09638156137447706,0.7122853865232252,-0.3087548747886359,1.0087659384562078
+arctic_canada_south,Arctic Canada South,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.2833265422250462,0.43595379753432895,0.6090210093306905,0.1976440658069893
+arctic_canada_south,Arctic Canada South,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.22883605047131667,0.2645361127172792,-0.0994937597044903,0.5508513144062605
+arctic_canada_south,Arctic Canada South,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.005305815947005375,0.11014659018749975,-0.0420952064426473,0.0668406277917641
+caucasus_middle_east,Caucasus and Middle East,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.6247489229512008,1.743689015806183,-0.5710501783081375,1.910736138362064
+caucasus_middle_east,Caucasus and Middle East,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.10462148714533391,0.018225524782270075,0.0304265469610721,0.1040042574336284
+caucasus_middle_east,Caucasus and Middle East,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.6609262376883138,-1.9595837647572907,0.9172690956355998,-2.317162497986866
+caucasus_middle_east,Caucasus and Middle East,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3047189010442861,-0.8492370865794798,0.932924316495539,-1.143207243771929
+caucasus_middle_east,Caucasus and Middle East,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.6684322920242294,-0.34862402327986325,1.1302666688887606,-0.7031225456152452
+caucasus_middle_east,Caucasus and Middle East,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5694173632591103,-0.4604134756694864,0.7959959616518342,-0.6406369458276134
+caucasus_middle_east,Caucasus and Middle East,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.055590887582698256,0.22616253335389352,-0.2515068660057248,0.5034977087960738
+caucasus_middle_east,Caucasus and Middle East,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.5089953811063676,0.3968297090195096,-0.6756594426110228,0.4800199382817745
+caucasus_middle_east,Caucasus and Middle East,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.05219033144615698,0.09731831642137861,0.1802651442190191,-0.063492543483786
+caucasus_middle_east,Caucasus and Middle East,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3003224313045011,0.16102353371046596,0.2655112366609146,-0.5623461522327318
+caucasus_middle_east,Caucasus and Middle East,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.6256168107063813,0.8222125108944109,-0.0882286157952788,1.305847938555333
+caucasus_middle_east,Caucasus and Middle East,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.07200925193010871,1.0649889831473165,0.025576066236901,1.035610546921889
+caucasus_middle_east,Caucasus and Middle East,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.7281885869547107,0.6163358809759875,-0.8930183605926946,0.7792593900586835
+caucasus_middle_east,Caucasus and Middle East,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.1682605521477037,-0.1984320638127599,0.4096174766573471,-0.9704913035708036
+caucasus_middle_east,Caucasus and Middle East,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.37191810988471713,-0.2558339284048363,-0.4896949650267231,-0.3382260845000815
+caucasus_middle_east,Caucasus and Middle East,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.17457865611981072,0.02653692887496817,-0.6900063125071246,0.5922912969253418
+caucasus_middle_east,Caucasus and Middle East,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.14802992197862322,0.4866569333852361,-0.0499419574411349,0.3123696045935374
+caucasus_middle_east,Caucasus and Middle East,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3766968091022501,0.08027522535408105,-0.0971216247179199,0.6231335033624058
+caucasus_middle_east,Caucasus and Middle East,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3309036696389901,0.6181362907321903,-0.0085936340059974,0.8986282039570483
+caucasus_middle_east,Caucasus and Middle East,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.06927773878784729,-0.7325369325079004,-0.1821003718076733,-0.7436975883779867
+caucasus_middle_east,Caucasus and Middle East,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.6542273433231706,0.5904063411220934,-0.7104045037863344,0.9743303205182606
+caucasus_middle_east,Caucasus and Middle East,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.19818334555773384,-0.12929185462810325,0.2455686582245628,-0.1061094719147477
+caucasus_middle_east,Caucasus and Middle East,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.08983938603634103,0.22625434093719046,-0.1875573485874996,0.3611826780783302
+caucasus_middle_east,Caucasus and Middle East,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.09704301243993135,-0.353731901616222,-0.0385369904382831,-0.0069182967320372
+central_asia,Central Asia,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.1977587447355827,-0.07160314135051149,0.2782967811988037,-0.278041964263179
+central_asia,Central Asia,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2435297967360559,0.2805881283627638,-0.072666980141468,0.1125790665203156
+central_asia,Central Asia,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.16115233100846754,-0.4653411870732702,0.0004646736929559,-0.5781346392280842
+central_asia,Central Asia,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3151607394875098,-1.7493700310561329,0.4645318773906546,-1.8619498067061324
+central_asia,Central Asia,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.13264451254462806,-0.17068807113190776,0.3845980316328853,-0.3171872938030499
+central_asia,Central Asia,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.26835954865975337,0.5186560149383432,0.2836276272827932,0.5522712309352001
+central_asia,Central Asia,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.26989999564285166,1.0249992373941859,-0.2976869658674665,1.1946567554824288
+central_asia,Central Asia,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.17156848915481412,1.166254344323523,-0.2183936357916528,1.1740634427314816
+central_asia,Central Asia,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.44217088485771033,0.7545114785045594,-0.4268089434011587,0.7194481848149882
+central_asia,Central Asia,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.4370849909677239,0.7881896431165498,0.6909769650347496,0.7117033118962541
+central_asia,Central Asia,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.01147201291388238,0.3533950235973218,-0.0032101971041209,0.3208449785164654
+central_asia,Central Asia,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.30694362476436393,1.478982157484075,0.3140984045428697,1.504306884556433
+central_asia,Central Asia,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.04530580983810653,-1.8055942340846252,-0.0389107219172044,-1.74964214097106
+central_asia,Central Asia,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.04561629190593389,0.7859465638171546,0.0203304786608368,0.8146072656160857
+central_asia,Central Asia,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.027638686374879456,-1.7617087615391496,0.1566216271541156,-1.817507522548707
+central_asia,Central Asia,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.31561557587547107,0.9585129062826024,-0.1923336644586917,1.0151859071334028
+central_asia,Central Asia,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.37604746042607984,-0.13876201084034287,0.1809552369386261,-0.0422594153882767
+central_asia,Central Asia,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.03835713930804047,-0.49789921170522666,-0.026318645043271,-0.413586037271032
+central_asia,Central Asia,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.1618451472163063,-0.7373535730714802,-0.3054844497607468,-0.6702616148630642
+central_asia,Central Asia,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.19351583172701659,-1.757659355949528,-0.2182006979433403,-1.70310740092415
+central_asia,Central Asia,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3718010923872048,-0.5319870627640882,0.3134188581606988,-0.5430758096242703
+central_asia,Central Asia,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.17171653297457776,-0.27632243422819913,-0.0261003109996773,-0.1449476010032178
+central_asia,Central Asia,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2627596775682709,1.1787800978179526,-0.635301729888802,1.5735066014026295
+central_asia,Central Asia,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.43323783782509284,0.21140614068717528,-0.6265036193723892,0.360594093089585
+central_europe,Central Europe,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5509424047090097,1.572512591783507,0.7834886260791154,1.26804054245105
+central_europe,Central Europe,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.6579070300559323,0.3345553556368759,1.251601176388748,-0.298936920042552
+central_europe,Central Europe,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3586508568298759,-1.147217257599459,0.7010142193576816,-1.456942655736113
+central_europe,Central Europe,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.41112632060194554,0.11259190312541656,-0.9122355262256824,0.930255846750518
+central_europe,Central Europe,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.07861333149324196,0.6724939631243793,0.3618925633116459,0.6970316134324508
+central_europe,Central Europe,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.0846447594848945,-0.40163362168435784,0.1695760428304006,-0.5210269763962689
+central_europe,Central Europe,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.11718435444390915,-0.06594631855940539,-0.1074677961138454,0.0408527149713859
+central_europe,Central Europe,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.1532609906465307,0.7618413195076974,0.2713853519713035,0.3296837836353261
+central_europe,Central Europe,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.023114117887075458,0.4384311234859416,0.2988566068819098,0.1557548493438732
+central_europe,Central Europe,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.2739295279549483,1.1596210187963716,0.2538690188457446,1.3160022864126186
+central_europe,Central Europe,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.25433732400085063,0.45214369024426276,0.5284364525170213,0.1712949824082497
+central_europe,Central Europe,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.33155804238056,1.839464500617228,-0.2368670019271785,1.693827527457063
+central_europe,Central Europe,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3254018228132999,-1.184042252702497,-0.4092331301909206,-1.2611312773192809
+central_europe,Central Europe,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5259418133959738,-1.7458146998102786,0.7593595332286702,-1.7912466979813353
+central_europe,Central Europe,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.2863214955694209,-2.02119764687568,0.8748122903925191,-2.452919093155438
+central_europe,Central Europe,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.26158773126320534,-0.8329222795008893,-0.546308695283463,-0.4987912977789139
+central_europe,Central Europe,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.439319040223928,-0.007642568670350805,0.3049822514682929,0.0651779102387011
+central_europe,Central Europe,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.21994148882009085,-0.8967834663597515,-0.3721967832575799,-0.8813637735330109
+central_europe,Central Europe,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.10677611815329924,-0.8717754318347923,-0.3037957265319626,-0.332726172934065
+central_europe,Central Europe,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.4333561892676665,-0.2424901799082201,-0.0253240362721951,0.2037882548105179
+central_europe,Central Europe,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5200109050070563,0.28135717096709145,0.3310627411207825,0.3279523669040777
+central_europe,Central Europe,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.30300826552867977,-0.345456606142773,0.1448568676245811,-0.3965300823002007
+central_europe,Central Europe,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-2.066536298476941,0.25726937770931924,-2.591480799257846,0.7688700010390161
+central_europe,Central Europe,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.8409866111455713,0.30945490536528847,-1.530284246957743,0.7500306726065568
+greenland_periphery,Greenland Periphery,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.1062964276564495,-0.4318702719694369,-0.0169191944981665,-0.5903894844376814
+greenland_periphery,Greenland Periphery,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.036250516181939224,-0.5732761288154515,0.1041046454831584,-0.651641165832633
+greenland_periphery,Greenland Periphery,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.2771638729244589,-0.18954052211246986,0.3937253608818808,-0.3329217793131864
+greenland_periphery,Greenland Periphery,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,1.0813193252073747,-1.5525496982899978,0.690549253115337,-1.3155343136350557
+greenland_periphery,Greenland Periphery,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.04599737515280841,0.4015908410980651,0.1956638609209894,0.1959005357476624
+greenland_periphery,Greenland Periphery,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.7042992456691568,0.1293168839678479,-0.4146365974796421,-0.0825460089814714
+greenland_periphery,Greenland Periphery,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.26162329899961245,0.1813649296734695,0.3060619876912246,0.1566261877088337
+greenland_periphery,Greenland Periphery,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.17684854618908374,0.8394097301834325,-0.2028417246816472,0.7929771252474627
+greenland_periphery,Greenland Periphery,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.05488802917059166,1.005472300242504,0.0672240193233561,1.1109219772899497
+greenland_periphery,Greenland Periphery,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.4367025275361061,1.5510053460062716,-0.0909904149759232,1.464627929784347
+greenland_periphery,Greenland Periphery,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.22316795132700595,0.6368553746734785,-0.3302379139533299,1.1553596908163437
+greenland_periphery,Greenland Periphery,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.48668890944537974,0.8651450712785749,-0.4621251595441323,1.0211498001187744
+greenland_periphery,Greenland Periphery,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5081560790303874,0.9479485861578298,-0.1145353823317187,1.4335886626700605
+greenland_periphery,Greenland Periphery,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3111924745193955,1.678232000533583,-0.0291558879108845,1.42315163982943
+greenland_periphery,Greenland Periphery,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.6396134132019182,-1.4503387327213937,0.4793631726809647,-1.2686260332992572
+greenland_periphery,Greenland Periphery,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.1174076617447112,-1.4212278060660368,0.3257884002330087,-1.3792294837038093
+greenland_periphery,Greenland Periphery,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.06434088089422038,-1.5563808439508056,-0.244498989996797,-1.0789913763654568
+greenland_periphery,Greenland Periphery,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3999404176931043,-1.1154834718819184,0.5472416475540441,-1.232673833841634
+greenland_periphery,Greenland Periphery,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.20809836969966605,-0.9888157840502596,0.6047744350975683,-1.4084760500835714
+greenland_periphery,Greenland Periphery,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.12399184858352913,-1.2276347509613805,-0.5248801560622287,-0.5900660818836222
+greenland_periphery,Greenland Periphery,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.22639067596233858,-0.5171777391038009,-0.0780697919030139,-0.7585286217240949
+greenland_periphery,Greenland Periphery,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3878782245915606,-0.41684120807859115,-0.2699333708234095,-0.6268722636264744
+greenland_periphery,Greenland Periphery,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.0011641963810870293,0.6078134957033081,-0.1875411279545752,0.522596322130586
+greenland_periphery,Greenland Periphery,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.8278323529052778,1.1961403091687184,-0.7481310708660625,1.0368883506393305
+iceland,Iceland,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3666578711317952,-0.48215389259012986,-0.3209598530948557,-0.2531911129613904
+iceland,Iceland,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.28078608778590464,-0.9982712549208199,0.0629537448695601,-1.1810156100607907
+iceland,Iceland,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.23897973477635132,-0.8790363292230761,0.1891216402130825,-0.808402850909273
+iceland,Iceland,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.17982525366760393,-0.9681874138681127,-0.4351363350292755,-0.8495021141331723
+iceland,Iceland,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.4261233095371535,-1.2519869410962046,-0.6950512092942108,-0.9721880756259302
+iceland,Iceland,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.9511159730004357,0.18597641330876372,-0.6507018432540866,-0.1680627302165579
+iceland,Iceland,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.23355128241701395,0.35235013872526977,0.1392588080954152,0.4485885801296192
+iceland,Iceland,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2650975148857132,0.4802112194885523,-0.1827100941941437,0.5062532530662504
+iceland,Iceland,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.16737013798546,0.8539906383825115,-0.2972050088204151,0.8463581573210064
+iceland,Iceland,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.36063454683101126,1.7508865549110633,0.5072242804239521,1.7232094960079882
+iceland,Iceland,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-1.7860054364007192,0.6121628912709235,-2.1143502963624625,1.0099858342668535
+iceland,Iceland,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.4413387050543988,1.8678896301297903,0.0064295656443947,1.663966041326344
+iceland,Iceland,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.03984175762878053,1.6262766611509587,0.1362205266611561,1.6259712426984765
+iceland,Iceland,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3768248689106374,2.413548673087932,0.6078991167744364,2.182406212871756
+iceland,Iceland,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.7763531782260805,-1.1330170612777755,0.4651737053964795,-1.0583507020247322
+iceland,Iceland,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,1.0941839052287827,-1.0052261024556726,1.4560029126900504,-1.282267666692951
+iceland,Iceland,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.12095026709898826,-0.9680697077496911,-0.0748057447762557,-0.7879995837305102
+iceland,Iceland,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.7262118726948836,-0.5225694146407645,0.5811327095548264,-0.6220956879800351
+iceland,Iceland,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.4502039308349951,-0.8941278669185935,0.6551513612338011,-1.0474277453376692
+iceland,Iceland,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.13838958277245844,-0.8210137022057573,-0.2053093873451817,-0.6625528423206897
+iceland,Iceland,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.16733317289404756,-0.0914174886549124,-0.1143567748211326,-0.3080934281095677
+iceland,Iceland,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.006492986991216032,-0.7391685787336524,-0.4540272184659316,-0.4310132713820465
+iceland,Iceland,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.9040557861520298,0.45907112344371703,0.9798377990221468,0.408420645738235
+iceland,Iceland,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.06557158343508734,-0.033720464029396824,-0.2417924051213505,0.2295354981630096
+low_latitudes,Low Latitudes,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.39710351725685233,1.3828357603402366,0.5785340144254496,1.1560876016210786
+low_latitudes,Low Latitudes,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.005948580953155702,1.41457152429699,0.2883945020627879,1.161028465089759
+low_latitudes,Low Latitudes,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.41646098755399596,-2.9708420144831265,-0.1402788415825001,-3.365914898549536
+low_latitudes,Low Latitudes,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.44388693733060225,0.36263277621898954,-0.2777276070502076,0.2579335977235975
+low_latitudes,Low Latitudes,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-1.0051308587082313,0.6209571556359125,-0.6799321263961873,0.1993429777060147
+low_latitudes,Low Latitudes,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.8338821593344411,0.7088491595529749,-0.8330211730052974,0.8184653590279493
+low_latitudes,Low Latitudes,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.06134389149465429,0.6975502064444755,0.1239899678348251,0.6529091224736165
+low_latitudes,Low Latitudes,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.4628540232600107,0.6970604388062744,0.5574141488151183,0.6738452432100781
+low_latitudes,Low Latitudes,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.9162725348725945,0.3414754038335929,0.9260701539410764,0.436239890472573
+low_latitudes,Low Latitudes,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.36315487169511795,-0.06906258197595416,-0.456796943749777,0.0604628998358946
+low_latitudes,Low Latitudes,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2163009645480608,-0.00620417112609023,-0.4686119410021119,0.3698412719467375
+low_latitudes,Low Latitudes,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.33704899007274103,-0.03534040813235434,0.3599273804076833,-0.0504259514346209
+low_latitudes,Low Latitudes,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.31867847770132235,-0.852139573227918,0.4115857903814564,-0.861833926183782
+low_latitudes,Low Latitudes,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.009672736215681571,-0.3354679058067596,0.143077403353997,-0.5419430904799876
+low_latitudes,Low Latitudes,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3204643194922633,-0.5517753554719507,0.2983143930321622,-0.6251985694870843
+low_latitudes,Low Latitudes,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.31702690479584283,-0.17199927532758427,-0.4542360998982148,-0.0481243438562995
+low_latitudes,Low Latitudes,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.7268125138680471,-0.3277919146608288,-0.8240689781359414,-0.1950254201586602
+low_latitudes,Low Latitudes,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3393906192676838,-0.9246433525874863,0.0764474473743074,-0.7082649290045511
+low_latitudes,Low Latitudes,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.2350599181861721,-1.524642412802167,0.3661659443346674,-1.6929158704162688
+low_latitudes,Low Latitudes,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.08300190363206568,-0.5551442974972995,-0.0742705320081704,-0.3021153445512597
+low_latitudes,Low Latitudes,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.37717402348801443,-0.5502885168991413,0.1067822934000465,-0.232235537047192
+low_latitudes,Low Latitudes,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5376120822496432,-0.24562649843818202,0.4745139387204836,-0.2379744373256864
+low_latitudes,Low Latitudes,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.525477200773099,0.33925514302138615,0.4240066321761134,0.5023801927338705
+low_latitudes,Low Latitudes,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.5851011486502596,0.42624016385460295,-0.9262797674317678,0.8420289647916509
+new_zealand,New Zealand,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.8857307344766628,-0.8704553827307733,1.0506646904153625,-0.8274258221721386
+new_zealand,New Zealand,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3403618043159989,-0.3361964381576138,-0.008437766264569,0.0981542658931937
+new_zealand,New Zealand,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2132537372003777,0.22705492385531315,-0.0997026244387839,0.1944911791976724
+new_zealand,New Zealand,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.9319221510511722,-0.1350495749941329,-0.5911680894513764,0.350605563483998
+new_zealand,New Zealand,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.05709979190167369,1.3986906931156065,0.3959235664047609,0.5346941088344224
+new_zealand,New Zealand,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,1.128902835452484,-1.1410834881405372,1.1586620928726656,-0.9136391505629422
+new_zealand,New Zealand,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,1.5043780434696516,1.398384619722246,1.864021488549776,0.915205768860364
+new_zealand,New Zealand,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.2625874515642454,0.25320041529349935,0.3113565774632938,0.7583567453734995
+new_zealand,New Zealand,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-1.3175034410190338,-1.529053280815329,-1.424245454851992,-1.0544261782010755
+new_zealand,New Zealand,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.6924915731738535,0.05415913970791314,0.8493267233806725,-0.3123885271006419
+new_zealand,New Zealand,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.33265180768531466,0.9954965537382847,-0.6969089971130886,0.3222292706994845
+new_zealand,New Zealand,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-1.1429318884525668,0.6503661378171494,-1.116829332251183,0.1048218257798499
+new_zealand,New Zealand,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.35899906072711474,-0.48707484142461344,0.6842302782819181,-0.1633262332320027
+new_zealand,New Zealand,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,1.1902873051178333,-1.8598053600000717,1.0176801628980283,-1.4238244353374283
+new_zealand,New Zealand,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5578870437653847,1.0963085340735892,0.7235566467046298,1.1848630398870237
+new_zealand,New Zealand,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.783192872484528,0.684659635691909,0.7807543874308351,0.7501783644658916
+new_zealand,New Zealand,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.14795150904579435,1.0238356442391758,-0.6261254813322696,1.0084472373066846
+new_zealand,New Zealand,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.12604894656525784,0.5451794131520588,0.3250806064294591,0.4323629718972414
+new_zealand,New Zealand,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-1.1376692491284244,-2.7855246874229933,-1.4602348109443,-3.3395117887367194
+new_zealand,New Zealand,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.8718988171225348,-0.1141086828311951,-1.2715000357684128,-0.2904331143595434
+new_zealand,New Zealand,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.6837360307966249,1.0796848897852278,-0.7465811577162749,0.8936840531826085
+new_zealand,New Zealand,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.8531404945527319,1.023521679740363,0.8785657183696982,1.0095496420518968
+new_zealand,New Zealand,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.8029211185955695,-0.18832440604616107,-1.32682628534589,0.8659940196212232
+new_zealand,New Zealand,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.36374501503467055,-0.2604495652751096,-0.6712629037229605,0.0228875798305389
+north_asia,North Asia,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.17519377742510694,1.228679121476758,0.2056803798844557,1.2796710162521625
+north_asia,North Asia,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.1471106269483208,0.3675133595898123,-0.0474789789983651,0.3041321672191816
+north_asia,North Asia,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.1396501451038657,-0.16284388268892597,-0.2401162860539482,-0.0472246433616879
+north_asia,North Asia,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.0724913601434013,-2.316645093352888,0.0307318027766897,-2.4255965552137058
+north_asia,North Asia,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.1405410014993571,0.21957607429964837,0.3274858528682925,0.0837985088377441
+north_asia,North Asia,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.43557441110570105,-1.3422565388001677,0.3944213124268845,-1.3158684656972242
+north_asia,North Asia,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.17843235082533096,1.3535221760038207,-0.0177004220937524,1.2266180224116097
+north_asia,North Asia,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.12781574138366555,1.010742094924981,-0.0703723778841562,1.2077424256114353
+north_asia,North Asia,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.07581847189566988,0.32746702161008845,-0.1445834231153479,0.4024719998964099
+north_asia,North Asia,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3262340612724228,1.2793602398341237,0.7742878212581097,0.8980429161290544
+north_asia,North Asia,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.03307531504964011,-0.3721324574366696,0.0386974679136969,-0.3342130735239416
+north_asia,North Asia,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3278728273303343,0.9514196803121162,-0.3221226082405884,1.065104816117983
+north_asia,North Asia,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.02147730406438436,-0.7681519547893692,-0.3072091237098013,-0.5689126656713422
+north_asia,North Asia,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.13176853678009146,-1.502396780633077,0.1901030447902575,-1.7600782497905745
+north_asia,North Asia,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.11440572544183453,-0.5762979849892994,0.2478238503676376,-0.7160815650943908
+north_asia,North Asia,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2875767932959328,0.009664740475727643,-0.2445962026707593,-4.5029968286567536e-05
+north_asia,North Asia,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.6263429606447944,0.9432613250595401,0.1026834704096785,1.3873196587152812
+north_asia,North Asia,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.26560824803709737,-0.3203386959476414,-0.3908993334251543,-0.2307701837248963
+north_asia,North Asia,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.08762467351784226,-0.9822677924804568,-0.0466367179236062,-0.91552091348138
+north_asia,North Asia,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.416706407731115,-0.24605245485219573,0.2196620698974051,-0.1631027272143701
+north_asia,North Asia,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.030823262893241554,-1.114622951912819,0.1126766524068308,-1.3650244953411166
+north_asia,North Asia,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.05515189138723529,0.2087431029140875,0.0223624110669208,0.2621177178966728
+north_asia,North Asia,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.21865574784650038,0.17242828675957234,-0.348603447653624,0.311709346456978
+north_asia,North Asia,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.29896601916166377,-0.04884620843356138,-0.4862972142977532,0.1313682140509119
+russian_arctic,Russian Arctic,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.1061202129884875,1.5630590650930556,0.4807357263920069,1.3838550935841685
+russian_arctic,Russian Arctic,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.04153835913151119,0.788093484184353,0.1180503687767093,0.7730175815673219
+russian_arctic,Russian Arctic,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.49910381528053305,-0.1363513698110601,0.1680272063591286,-0.7615819345925787
+russian_arctic,Russian Arctic,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.210824550621652,0.1234921072651198,0.1416184550602122,-0.1878782421633238
+russian_arctic,Russian Arctic,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2015152829878908,-0.7966681835965067,-0.180310597051753,-0.6038838375945402
+russian_arctic,Russian Arctic,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.05671118373529113,-1.3079658543201187,0.0368987236674318,-1.5006734997869555
+russian_arctic,Russian Arctic,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3026901062250694,1.2365849402592606,0.1998321761449482,0.8846073780484577
+russian_arctic,Russian Arctic,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.07783979828709119,-0.8157259757000258,0.0013289904252257,-0.9384709965071568
+russian_arctic,Russian Arctic,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.35854199855513325,-0.20484278703789474,0.3663616539863722,-0.2369145209107158
+russian_arctic,Russian Arctic,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.32564481308340915,0.6250503717093403,0.3808566055809381,0.4540692838418877
+russian_arctic,Russian Arctic,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.20849078162459905,1.800145253656912,0.3514903403109239,1.2727228546129452
+russian_arctic,Russian Arctic,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.07577956496078228,1.6853430008246382,-0.2428309741990368,1.984872229115049
+russian_arctic,Russian Arctic,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.30671725885082407,0.26174305204513837,0.1509275418672357,0.4099521074973888
+russian_arctic,Russian Arctic,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.14254262218068486,0.14736781530312243,-0.1564019997827078,0.5076099578337995
+russian_arctic,Russian Arctic,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3344285364386887,-0.8097159741176843,0.3477883389814079,-1.3267056414343872
+russian_arctic,Russian Arctic,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.026273516426685718,-1.328772312775362,-0.0588199069769945,-1.1531310938650128
+russian_arctic,Russian Arctic,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.4257473203059872,-1.3813336672262158,-0.4471591451600299,-0.7730794900548451
+russian_arctic,Russian Arctic,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.03464391913585732,-1.432069542445856,0.1332622378663633,-1.4221651342899873
+russian_arctic,Russian Arctic,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.20140962070753593,-1.185641197646436,-0.0763920134809402,-1.11220036001792
+russian_arctic,Russian Arctic,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.14619861837860237,-1.0250351761954122,-0.2291746541438959,-0.8302009296630192
+russian_arctic,Russian Arctic,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.04847402993071637,-0.5400237395070895,-0.8793625945623034,0.212245130895236
+russian_arctic,Russian Arctic,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.45260774666113013,-0.2952270201699461,0.2301916330916633,-0.2275753658029936
+russian_arctic,Russian Arctic,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.28269523987751105,1.2837397419032452,-0.4774194771057918,1.4240061404010889
+russian_arctic,Russian Arctic,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.15858787143757525,0.3589508012142151,-0.3594986360471132,0.779833936764184
+scandinavia,Scandinavia,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.36356298869002623,-0.07215896146546591,0.8686825495645039,-0.4256149221724607
+scandinavia,Scandinavia,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.45413639418986296,0.7091926264195382,-0.1643502236854047,0.5880652772927176
+scandinavia,Scandinavia,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3205017086003694,-0.011370676757634368,-0.7885898278992304,0.5823214658306476
+scandinavia,Scandinavia,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.7210538018950967,-0.05780479223877871,-0.8568569118275408,0.0916002402470513
+scandinavia,Scandinavia,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.18986880432745715,0.2418979056884611,0.3528805484289407,0.0503749980519962
+scandinavia,Scandinavia,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.04157878987795119,-1.4873731197089621,0.2295213482950647,-1.7804410083363689
+scandinavia,Scandinavia,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.6722007561641472,0.8234221856425407,-1.2191847738159378,1.4996170041101966
+scandinavia,Scandinavia,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3749790294783063,-0.01798907452349774,0.6576754223103694,-0.273286922865058
+scandinavia,Scandinavia,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.43854099486358744,-1.020584325003383,0.6599737380291557,-0.901210919464629
+scandinavia,Scandinavia,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.09314039194380033,-0.6795877118515662,-0.0599317811029113,-0.8636728222324274
+scandinavia,Scandinavia,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.6404881904966999,1.9313151052766424,-0.3897377762608923,1.7735996336106283
+scandinavia,Scandinavia,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3754219824122782,1.109033605201912,-0.5168872028592425,1.098286362483058
+scandinavia,Scandinavia,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.4347807080402408,-1.143493949080483,1.1483395748688272,-1.7133952770350735
+scandinavia,Scandinavia,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.44515698270807214,0.10506514058256952,-0.5756187612900415,0.2012862079129858
+scandinavia,Scandinavia,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.0020226179359873475,-0.7467226409581629,-0.409399309709762,-0.2278184832350048
+scandinavia,Scandinavia,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.849714299795644,-0.4643940663313876,1.2101541428823546,-0.6525637643446291
+scandinavia,Scandinavia,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.36351118312580444,0.6483291966523927,0.1616153663257823,0.7027712461769517
+scandinavia,Scandinavia,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.2920793268860133,-0.345018235652177,0.571901897052087,-0.4888209218204149
+scandinavia,Scandinavia,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.6107179796190267,0.14080028034811576,-0.9171036201732808,0.0691620487435504
+scandinavia,Scandinavia,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.15297431572978648,1.3982918076634026,0.0702586779557555,1.4005024059991569
+scandinavia,Scandinavia,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.772382663078252,-1.902819680359557,0.7596305203684314,-1.865496469625452
+scandinavia,Scandinavia,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.03614391300885589,0.7009459801582629,-0.2882057949368103,1.163518411713573
+scandinavia,Scandinavia,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.01014265965607783,0.5680145529248843,0.0524938964696005,0.4912847063475706
+scandinavia,Scandinavia,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.014581129407338578,0.25833040566799126,-0.5572616989898179,0.5633868754763875
+south_asia_east,South Asia East,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.27580018213201213,1.2032061806412269,0.3703041519358629,1.024243700657196
+south_asia_east,South Asia East,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.14682120908617907,0.06743413075234242,-0.0231193448317246,0.2730638295983285
+south_asia_east,South Asia East,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2083162871817698,-1.4796290633373679,0.0516163605404104,-1.6143126111453756
+south_asia_east,South Asia East,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.09427742793047447,-0.8982735988656326,-0.0325142791786439,-0.9886926466301812
+south_asia_east,South Asia East,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.29119171133032246,1.0330115867882692,-0.0887143238389105,0.9836918585876584
+south_asia_east,South Asia East,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.02173681564882736,0.521475973051865,0.1229331934930835,0.8238201777587951
+south_asia_east,South Asia East,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2832650610738109,1.1982403880806127,-0.2140055010706578,1.4895478608806565
+south_asia_east,South Asia East,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.184004186565633,0.07680105888403094,0.1791503111377119,0.0146633004553317
+south_asia_east,South Asia East,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.07757675206591483,0.1891416643839329,0.141805557398882,0.0570768774990097
+south_asia_east,South Asia East,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.12555659815631792,0.7874710250247485,0.0910416924603169,1.0345022527956345
+south_asia_east,South Asia East,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.24977873154691319,-0.672545953578024,0.197846911480409,-0.8867262115709816
+south_asia_east,South Asia East,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.41115404865883254,0.8793420945158251,0.5855248848102277,0.7711203680615664
+south_asia_east,South Asia East,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.2031939194691626,-1.5126936192730467,-0.1331432089320272,-1.6197062211018871
+south_asia_east,South Asia East,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.16973124173541682,-0.43642339170222744,0.1858786374830723,-0.3823740117668189
+south_asia_east,South Asia East,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.029212197488577056,-1.1155555680407596,0.0063984564325227,-1.1216169355651793
+south_asia_east,South Asia East,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.09737290737321569,0.7820934949179372,0.0573867077630096,0.8432350660893674
+south_asia_east,South Asia East,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3254597515628679,-0.8018479315382689,0.253058255122485,-0.7719909640430177
+south_asia_east,South Asia East,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.685304583124327,-1.5116106122350532,-0.723885854959587,-1.4122944699368831
+south_asia_east,South Asia East,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.42238627105435367,-1.009042699501106,0.1942546288172745,-0.978679685335304
+south_asia_east,South Asia East,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.06615071127854047,-1.0480669039753812,-0.1009331534688381,-1.0006000081524662
+south_asia_east,South Asia East,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.4130636557678162,0.13304152750591763,0.1035713686499903,0.0339444636718222
+south_asia_east,South Asia East,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.42626446256340533,-0.17977324909280726,0.2172958494369599,-0.2811919343219694
+south_asia_east,South Asia East,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.410709828668336,1.1894141373757183,-0.6435998676685797,1.328766892937984
+south_asia_east,South Asia East,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.5866968534536016,1.0695066450680095,-0.7981514330132513,1.2433601809967645
+south_asia_west,South Asia West,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5396338882166318,1.3277535464443468,0.3814170314336787,1.3635328020090518
+south_asia_west,South Asia West,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.25206721178919667,0.48806320520642493,0.0368436645709898,0.7121168661525848
+south_asia_west,South Asia West,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.1106064379370244,-0.824579413671089,0.1053734295025302,-0.9868956357407388
+south_asia_west,South Asia West,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3408948826930368,-3.853900932319217,-0.2198435148142335,-3.811459320945728
+south_asia_west,South Asia West,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.4251598550553676,0.9018681926449449,-0.1713284828073717,0.8691438270926899
+south_asia_west,South Asia West,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.09825905466828316,0.35454478011072754,0.3228555229687028,0.3486412920620285
+south_asia_west,South Asia West,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3731347094807815,0.2668055931316357,-0.5395342470323697,0.2683390614753878
+south_asia_west,South Asia West,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.09587454075999702,-0.5284564824014932,-0.4615459873589448,-0.2265548148215597
+south_asia_west,South Asia West,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.06864675057945832,0.5822734684778363,-0.2885757744340572,0.7980542340392793
+south_asia_west,South Asia West,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.08510536076920622,1.9595649923705827,0.4772385856095401,1.638364585425037
+south_asia_west,South Asia West,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.11111808248885519,0.7519486342322362,0.4416741044700246,0.075562630566086
+south_asia_west,South Asia West,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5142997810091662,0.5189779353754279,0.4123752680599949,0.672645753594827
+south_asia_west,South Asia West,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.42558011812676455,-1.0091919244697207,-0.0689290832465954,-1.22561274402539
+south_asia_west,South Asia West,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.0956497768281184,0.33072361736331873,-0.2094490366537384,0.4652795032578065
+south_asia_west,South Asia West,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.057059037036820665,0.16010559204295532,0.1544519198709187,0.0808877215802183
+south_asia_west,South Asia West,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.24590440322248647,-0.0009084933055762412,0.1477514348574081,-0.4072244101501531
+south_asia_west,South Asia West,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.07803772494845335,-0.6332984439951713,-0.17199493214584,-0.3789778099986488
+south_asia_west,South Asia West,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.29390415940838394,-0.4307379751508962,0.1021375873913503,-0.3275389852004223
+south_asia_west,South Asia West,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.1703674103127351,-0.25546253304819266,0.0506819528461125,-0.15112940595651
+south_asia_west,South Asia West,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.15225882201737706,-0.11969555618910024,0.3170157134754679,-0.1614968778314364
+south_asia_west,South Asia West,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.5225585526341969,-0.10087331401448521,0.3562377894888701,0.0561148973521594
+south_asia_west,South Asia West,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.19491207549952805,-0.4596161418089816,-0.1415817055685188,-0.1465694021828451
+south_asia_west,South Asia West,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.4252510219445884,-0.0552338462797036,-0.9401534431389852,0.0982395292471194
+south_asia_west,South Asia West,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.04368629641854846,-0.1257643302142259,-0.0931177973449342,0.0195806881010339
+southern_andes,Southern Andes,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.6869933656894271,-0.912905317031053,0.9759559244173344,-0.780102023488217
+southern_andes,Southern Andes,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.11880999120537389,0.5649917061510528,0.4445296161069015,-0.2890002782349797
+southern_andes,Southern Andes,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.45158994501454236,0.8386013507143265,0.7728416611287766,0.6618559091032857
+southern_andes,Southern Andes,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.041292128088671734,-1.755363251149178,-0.0125799739470604,-1.7576540497808848
+southern_andes,Southern Andes,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,1.395202887716395,0.411274388946651,1.0206320523372407,0.8284677112973762
+southern_andes,Southern Andes,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.7239519907542553,1.1086605824636482,-0.8001361647165101,1.2566289535774593
+southern_andes,Southern Andes,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.1752731965119479,1.0370933057415768,0.0399231629905917,0.8609379726615177
+southern_andes,Southern Andes,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.47029516101567964,-0.6104830605906868,-0.2570765184517657,-0.6866312052143321
+southern_andes,Southern Andes,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.2824066743926023,-0.8103370010714297,0.0701576234757662,-0.455965707819121
+southern_andes,Southern Andes,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,1.2988208395021172,-0.5099186656534047,1.1403027588054635,-1.0585772350029146
+southern_andes,Southern Andes,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.9834548985370064,1.0835320346288375,-0.7680840957008238,0.6406575933373128
+southern_andes,Southern Andes,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-1.2951544135599824,1.594782407050234,-1.1719373267622233,1.131615627605252
+southern_andes,Southern Andes,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.09010177957775245,-0.48827687870121006,-0.016549354581232,-0.5188438238960704
+southern_andes,Southern Andes,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,1.522014886929282,-0.36635407584619095,1.185081438208316,0.5427777332897754
+southern_andes,Southern Andes,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.7476931142208835,-0.7090473955428497,1.0937333944241885,-0.9469878389641792
+southern_andes,Southern Andes,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.3610147097109909,-0.17237704329052533,-0.3992796967241044,0.0227494376686177
+southern_andes,Southern Andes,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-1.5002482024064032,0.052547755583511324,-1.438930195037802,0.7325950717107137
+southern_andes,Southern Andes,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3151344022435434,-0.0876695011124258,0.1226639189325663,0.0842517923071392
+southern_andes,Southern Andes,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.46624661666314393,0.40487661548272125,-0.5099708302228295,-0.2576138804869128
+southern_andes,Southern Andes,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.13224326422682603,-0.734783631020985,-0.0752863883978105,-0.6809107357915781
+southern_andes,Southern Andes,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.2603882826682318,0.669323398556086,-0.0715788497574977,1.0863290862332398
+southern_andes,Southern Andes,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3912291752643853,1.3729556252694082,0.0650029749551756,2.159254314095433
+southern_andes,Southern Andes,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.6659295890213381,0.3933569536837194,-0.5479156957654258,0.5217130475411234
+southern_andes,Southern Andes,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.9156240077967002,-0.5773508855281613,-0.8614994357172389,-0.9022842394460946
+western_canada_us,Western Canada and USA,2000,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.6109282853817216,-1.881648706812279,1.1749088735156914,-2.368859139409703
+western_canada_us,Western Canada and USA,2001,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.3831029106916668,0.00274650344007904,0.579696987031771,-0.2381525427286939
+western_canada_us,Western Canada and USA,2002,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.45057166773635837,0.1836809180529074,0.8393527950371267,-0.0734332180511483
+western_canada_us,Western Canada and USA,2003,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.46248611674054263,0.633496754071271,-0.4992531476502022,0.7674950285409012
+western_canada_us,Western Canada and USA,2004,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.6901062845143842,0.9824708059199718,-0.4883165580572912,0.6727312352412133
+western_canada_us,Western Canada and USA,2005,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-1.2188302824830635,1.1091451995721031,-0.7936466461494422,0.6769703203812625
+western_canada_us,Western Canada and USA,2006,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.11757906092176984,0.7067773999528876,0.1010039537929402,0.9253411924449346
+western_canada_us,Western Canada and USA,2007,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.582207560881471,0.16100457393935683,0.8221657073365258,-0.0353746240971897
+western_canada_us,Western Canada and USA,2008,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.6440017764661823,0.8955545612321352,0.9384943156752558,0.7132058772088721
+western_canada_us,Western Canada and USA,2009,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.014734940699868193,1.0289611282309457,-0.2392499408724112,1.3393361480458723
+western_canada_us,Western Canada and USA,2010,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.8393001235073587,0.6801350538253972,1.1465930034008849,0.465665224338014
+western_canada_us,Western Canada and USA,2011,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,1.2846097581402451,-0.1949265960101103,1.5894107616267374,-0.5996119430237647
+western_canada_us,Western Canada and USA,2012,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,1.0964781645909993,-2.3511673440989065,0.7740593213886761,-1.8467799759696253
+western_canada_us,Western Canada and USA,2013,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.17471110479699498,-0.4892636688126385,-0.5080108978642892,-0.2214713520543584
+western_canada_us,Western Canada and USA,2014,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.37185313963997524,-0.11717195424828108,-0.6960337984635463,0.2687710841323985
+western_canada_us,Western Canada and USA,2015,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-1.6255226961767293,-0.4508450804235101,-1.474361163191547,-0.6968872835523334
+western_canada_us,Western Canada and USA,2016,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.12154563369342758,0.02325598336367407,0.0266202049381627,-0.1292741483503757
+western_canada_us,Western Canada and USA,2017,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.6513291821539049,-0.39831592195562165,0.3280342607006723,0.0075453406172045
+western_canada_us,Western Canada and USA,2018,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.07882383548822228,0.2954599671334986,0.0206749082476442,0.4528232553683526
+western_canada_us,Western Canada and USA,2019,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.395841242521049,0.11130476333626094,-0.2751506065119659,-0.1897359830090164
+western_canada_us,Western Canada and USA,2020,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.02207676827128771,-0.3206685399799828,-0.1868505232366395,-0.2646082451226234
+western_canada_us,Western Canada and USA,2021,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-0.5837520419192782,-0.4497453742171217,-0.977282991272474,-0.2187652793143243
+western_canada_us,Western Canada and USA,2022,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,0.48350150421642213,0.6276778431521219,-0.2812913972095349,1.4183609350482456
+western_canada_us,Western Canada and USA,2023,glambie_combined_mwe_anomaly,Glacier mass-balance anomaly,-1.570443460119443,1.1429174944634424,-1.921567422212743,1.5036776710127924

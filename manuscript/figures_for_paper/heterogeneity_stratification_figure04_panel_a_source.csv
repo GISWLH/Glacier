@@ -1,0 +1,18 @@
+region_key,region_name,estimate,p_value,stratum,label,significant
+caucasus_middle_east,Caucasus and Middle East,-0.7187859684489403,7.592949567294432e-05,core_negative,Caucasus/ME,True
+alaska,Alaska,-0.710628377500784,9.966855247779296e-05,core_negative,Alaska,True
+scandinavia,Scandinavia,-0.641355476326886,0.0007314438056715,core_negative,Scandinavia,True
+arctic_canada_north,Arctic Canada North,-0.5573641615194597,0.0046617687518672,core_negative,Arctic Can. N,True
+greenland_periphery,Greenland Periphery,-0.5484382048015835,0.0055220365096491,core_negative,Greenland,True
+western_canada_us,Western Canada and USA,-0.4177058382613459,0.042252940218759,core_negative,W. Can./US,True
+central_europe,Central Europe,-0.3287190658607973,0.1167951384526188,supporting_negative,Central Europe,False
+arctic_canada_south,Arctic Canada South,-0.2845664660911501,0.1777470442440098,supporting_negative,Arctic Can. S,False
+central_asia,Central Asia,-0.260266626792534,0.2193423827384091,supporting_negative,Central Asia,False
+southern_andes,Southern Andes,-0.2527736072694901,0.2333791565708399,supporting_negative,S. Andes,False
+iceland,Iceland,-0.0978028467280536,0.6493618677851459,supporting_negative,Iceland,False
+north_asia,North Asia,-0.0819346206963833,0.70349338339458,supporting_negative,North Asia,False
+south_asia_east,South Asia East,-0.0765984558219038,0.7220314472328113,supporting_negative,South Asia E,False
+low_latitudes,Low Latitudes,-0.049251552282408,0.8192263704203295,supporting_negative,Low Latitudes,False
+russian_arctic,Russian Arctic,-0.0385930915337434,0.8579063548902808,supporting_negative,Russian Arctic,False
+new_zealand,New Zealand,0.2034707450144495,0.340279617215442,weak_or_opposite,New Zealand,False
+south_asia_west,South Asia West,0.2307943558743361,0.277908132587344,weak_or_opposite,South Asia W,False

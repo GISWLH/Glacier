@@ -1,0 +1,19 @@
+{
+  "tag": "central_asia_2000_2024_final",
+  "year_summary_table_csv": "E:\\Glacier\\manuscript\\tables\\central_asia_2000_2024_final_year_summary_table.csv",
+  "trend_summary_table_csv": "E:\\Glacier\\manuscript\\tables\\central_asia_2000_2024_final_trend_summary_table.csv",
+  "class_trend_table_csv": "E:\\Glacier\\manuscript\\tables\\central_asia_2000_2024_final_class_trend_table.csv",
+  "figure_year_source_csv": "E:\\Glacier\\manuscript\\figures_for_paper\\central_asia_2000_2024_final_figure_year_source.csv",
+  "figure_anomaly_source_csv": "E:\\Glacier\\manuscript\\figures_for_paper\\central_asia_2000_2024_final_figure_anomaly_source.csv",
+  "figure_class_source_csv": "E:\\Glacier\\manuscript\\figures_for_paper\\central_asia_2000_2024_final_figure_class_source.csv",
+  "highlights": {
+    "largest_positive_area_anomaly_year": 2022,
+    "largest_positive_area_anomaly_km2": 46.47578149860243,
+    "largest_negative_area_anomaly_year": 2003,
+    "largest_negative_area_anomaly_km2": -56.76692114524855,
+    "largest_positive_ratio_anomaly_year": 2011,
+    "largest_positive_ratio_anomaly": 0.0934573823593161,
+    "largest_negative_ratio_anomaly_year": 2014,
+    "largest_negative_ratio_anomaly": -0.0768286001914021
+  }
+}

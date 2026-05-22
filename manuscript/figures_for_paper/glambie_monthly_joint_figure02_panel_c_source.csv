@@ -1,0 +1,409 @@
+region_key,region_name,year,focal_variable,focal_label,x_residual,y_residual,x_raw,y_raw
+alaska,Alaska,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5538447691154599,-0.36178976643563604,-1.369818557897907,-0.8433076471922986
+alaska,Alaska,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5160235076230398,-1.0446820490624855,-0.6805355572145588,-1.029676407921249
+alaska,Alaska,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5576206230355045,-1.196566520699018,-0.6738863038223029,-1.2500645342380283
+alaska,Alaska,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5388270273500129,0.6577028160446893,-0.5074932817316347,0.7470936548427575
+alaska,Alaska,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.8457287637385532,0.3329176498761448,1.6185618925047498,1.001188914850965
+alaska,Alaska,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.4583539288919964,0.8975650787997862,0.5349780741734813,0.9503562004508715
+alaska,Alaska,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3522495149605011,-0.17424839865744107,-0.7129894025186942,-0.4917615237530704
+alaska,Alaska,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.030489886334804962,0.050441806232756375,0.0357604194073921,0.2526323758130129
+alaska,Alaska,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.7597418347880859,0.1097929777937961,-1.5812136859433847,-0.426713733097339
+alaska,Alaska,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.36559470886725715,1.296676424239176,0.6046772624890213,1.4738513993232674
+alaska,Alaska,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.8134514364256402,0.7042064283439187,-0.4828326941685894,1.1298506216444255
+alaska,Alaska,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.8479239021940672,0.7016951419480071,-1.18121970070308,0.3410775223572697
+alaska,Alaska,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.10102951484196487,-1.542238817722266,-1.1720860787158598,-2.31672156163067
+alaska,Alaska,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6407922622808175,-0.6697485601747575,1.1992313498423934,-0.2228540765758762
+alaska,Alaska,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.20612376282436567,0.225669190295456,-0.1031425960824172,0.1557697340627976
+alaska,Alaska,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.05114015671344674,-0.3108569346613537,-0.0903903383358164,-0.4339913295165048
+alaska,Alaska,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.4892299035892339,0.5063313215835065,0.7235339253496935,0.6529525388291382
+alaska,Alaska,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.028090434528589697,-0.0797284003672547,0.0674688407678116,-0.1587929238554354
+alaska,Alaska,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.2031295308305821,0.6785218170067246,0.4484581679924266,1.3149878261407522
+alaska,Alaska,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.9416284497381584,0.47187939404237667,1.921301785602292,1.3382895452715735
+alaska,Alaska,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.07964964788543569,0.4333942157325739,-0.0990088954168308,0.2595588086232229
+alaska,Alaska,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.29863125332974466,0.27226454246212145,0.0020024739202577,0.0483842972881322
+alaska,Alaska,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.1162624183764107,-0.10591044212832734,0.9305969047313232,-0.4023739166315241
+alaska,Alaska,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.26763369581127106,0.04504353853771065,0.5680459957702233,0.206730482513308
+arctic_canada_north,Arctic Canada North,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-2.0255288103158278,-0.7276673967315643,-1.914498692374464,-0.6437584154551552
+arctic_canada_north,Arctic Canada North,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.658916220121043,-1.070165389579242,-0.6685446841886509,-1.050460951654747
+arctic_canada_north,Arctic Canada North,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.12963489446622578,-0.8187706789223776,-0.3924030177533331,-1.0104809729865163
+arctic_canada_north,Arctic Canada North,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.7985156402709027,-0.2756088222993901,-0.9699122116394584,-0.40398115102328
+arctic_canada_north,Arctic Canada North,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.9993887204089491,-0.8864920505639322,-1.3381906695032733,-1.1515645971612618
+arctic_canada_north,Arctic Canada North,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.04121672700018269,0.8952488644856827,-0.074722341841013,0.8786069746693466
+arctic_canada_north,Arctic Canada North,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6980772455097128,-0.04551867569802746,0.6290401965921486,-0.0438392361865058
+arctic_canada_north,Arctic Canada North,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.331370839389474,1.1024253620963922,0.6643369807602666,1.44981747200804
+arctic_canada_north,Arctic Canada North,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5742226526559028,0.8167630843818322,-0.3631741426187769,0.9887525044600416
+arctic_canada_north,Arctic Canada North,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.13176252735394794,0.9622413307516944,0.25164486131297,1.0775071338268345
+arctic_canada_north,Arctic Canada North,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6394544747561673,2.2160961134424366,0.6221037150432696,2.2075318092876133
+arctic_canada_north,Arctic Canada North,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5872625668955006,0.9457380010423131,1.018959723700283,1.3092207869372905
+arctic_canada_north,Arctic Canada North,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.948808217538978,0.08591216192083827,1.170411730986837,0.1978998306902576
+arctic_canada_north,Arctic Canada North,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.9977802384483132,-1.0641246056277827,-2.225686819091433,-1.174269508271281
+arctic_canada_north,Arctic Canada North,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5286558895601001,1.3346198649011694,-0.6356342926388288,1.2587368860554358
+arctic_canada_north,Arctic Canada North,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.23831413679259084,-0.8302010131644089,0.4664515648224938,-0.6003022738907715
+arctic_canada_north,Arctic Canada North,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.8828111703833601,-0.25293166034347914,0.742864669439778,-0.4076727918639402
+arctic_canada_north,Arctic Canada North,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.72432389969567,-0.8460225245467001,-1.0079793829065125,-1.0429243460799755
+arctic_canada_north,Arctic Canada North,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.9971668894368835,-1.047883773021688,-1.3310211939627514,-1.2756914293768196
+arctic_canada_north,Arctic Canada North,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.8909398183054882,-0.8174306484936165,2.057188345683712,-0.7124965444831208
+arctic_canada_north,Arctic Canada North,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5847554652359943,-0.4868550525294191,0.7784164085719666,-0.3187099501371986
+arctic_canada_north,Arctic Canada North,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.10609255538432419,-0.9005729426305635,-0.3187890017162729,-1.0433639409679487
+arctic_canada_north,Arctic Canada North,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.1519867711878085,0.6393133445155408,1.255741368031046,0.7681692650722464
+arctic_canada_north,Arctic Canada North,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.495899904415302,0.8320706710619761,1.5833968852899958,0.9015908255483978
+arctic_canada_south,Arctic Canada South,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.06208117635686109,0.2502850964934871,0.0319221609778979,0.2864987545107378
+arctic_canada_south,Arctic Canada South,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.24435464806118645,-1.4943724370800278,0.2543885072572613,-1.4470799574627065
+arctic_canada_south,Arctic Canada South,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.23056847299859468,-0.05229840935082708,-0.0911768802152481,-0.2645418463966735
+arctic_canada_south,Arctic Canada South,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.23193389626504102,0.984108351535069,-0.0707441830624937,0.7600122866216369
+arctic_canada_south,Arctic Canada South,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4011737144727609,0.2722674797795154,-0.7661402039478209,0.0534658877753273
+arctic_canada_south,Arctic Canada South,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4574392967537475,0.1899098884475663,-0.4812142140280186,0.1568016280537323
+arctic_canada_south,Arctic Canada South,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5231958735907933,0.8288476452097802,0.3974042508580342,0.7444529039482666
+arctic_canada_south,Arctic Canada South,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.7630248864194711,-1.4352412281921798,-0.5168056936137901,-1.1973255620254657
+arctic_canada_south,Arctic Canada South,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.459972207011041,0.2435936727602726,-0.2549657947911294,0.3656898556418128
+arctic_canada_south,Arctic Canada South,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.012194902875865443,0.5446565068794178,0.3018358997331074,0.8299809316356397
+arctic_canada_south,Arctic Canada South,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.2697167879567173,0.12091845309047397,1.3962224758081625,0.226756518472757
+arctic_canada_south,Arctic Canada South,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3977789796273129,-0.10227353769915312,-0.1063502159738498,0.0814774250573049
+arctic_canada_south,Arctic Canada South,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.49177792680245935,-1.2631334041281586,0.712104707805933,-1.1396923521381803
+arctic_canada_south,Arctic Canada South,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.0478055066404464,-1.5121039722533107,-1.3344196110121809,-1.7260254432990976
+arctic_canada_south,Arctic Canada South,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.0316441972643708,0.6264336010874539,-0.0913570496514288,0.5815957802169827
+arctic_canada_south,Arctic Canada South,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6935908694921437,0.09546720474247311,-0.5793153034147471,0.2130608351136881
+arctic_canada_south,Arctic Canada South,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.7095509382687026,1.0014760644510483,0.8909596098759578,1.196762991567586
+arctic_canada_south,Arctic Canada South,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6907434848433059,0.4210546508089743,-0.9383034562391512,0.3009810668567588
+arctic_canada_south,Arctic Canada South,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6475167205395974,-0.5182140860296987,-1.0534810174147888,-0.7929257123921999
+arctic_canada_south,Arctic Canada South,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.1730123213008437,1.431629107688946,1.6560967165128035,1.7693884220892653
+arctic_canada_south,Arctic Canada South,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.30996424370360504,0.7522432768131525,0.5920624278368716,1.0087659384562078
+arctic_canada_south,Arctic Canada South,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4010986007647149,0.4279851824490635,-0.8026286697928262,0.1976440658069893
+arctic_canada_south,Arctic Canada South,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.747210466888428,0.48803401314599404,0.8168371011032547,0.5508513144062605
+arctic_canada_south,Arctic Canada South,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.07149057269652538,0.12402942508976447,0.0370684353881878,0.0668406277917641
+caucasus_middle_east,Caucasus and Middle East,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5332774449793571,1.4569365018337945,-0.0160144586527888,1.910736138362064
+caucasus_middle_east,Caucasus and Middle East,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3312774764529054,-0.08173597584143574,-0.2271253057226303,0.1040042574336284
+caucasus_middle_east,Caucasus and Middle East,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.00650832952130076,-1.778723900989767,-0.736595171535944,-2.317162497986866
+caucasus_middle_east,Caucasus and Middle East,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.9523446130869102,-0.9696354716976847,-1.4386894284020038,-1.143207243771929
+caucasus_middle_east,Caucasus and Middle East,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.38950058686418243,-0.2479063354476354,-1.143952865465236,-0.7031225456152452
+caucasus_middle_east,Caucasus and Middle East,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.028204543018100825,-0.309445334227565,-0.5701461621255728,-0.6406369458276134
+caucasus_middle_east,Caucasus and Middle East,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5921274047414868,0.3685966773616639,0.7691286067026528,0.5034977087960738
+caucasus_middle_east,Caucasus and Middle East,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.03220497459210786,0.24955618690547465,0.3721447096750729,0.4800199382817745
+caucasus_middle_east,Caucasus and Middle East,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.45684433525062945,-0.015138606235477296,-0.5701184058341422,-0.063492543483786
+caucasus_middle_east,Caucasus and Middle East,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.1989861240403767,-0.17916433692554617,-1.5739679743670454,-0.5623461522327318
+caucasus_middle_east,Caucasus and Middle East,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.7214396438633615,1.3642519205301797,1.703799853220616,1.305847938555333
+caucasus_middle_east,Caucasus and Middle East,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.22796752291872568,0.9961968528175276,-0.2221110698156305,1.035610546921889
+caucasus_middle_east,Caucasus and Middle East,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.18974883306043683,0.3747997491316841,0.4166747931300438,0.7792593900586835
+caucasus_middle_east,Caucasus and Middle East,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.1288168582828804,-0.4871402318925499,-1.6273764593077438,-0.9704913035708036
+caucasus_middle_east,Caucasus and Middle East,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.01721971993747151,-0.3620903493099832,0.1747283244330262,-0.3382260845000815
+caucasus_middle_east,Caucasus and Middle East,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.8041849444007428,0.15101922990451655,1.3582921306450402,0.5922912969253418
+caucasus_middle_east,Caucasus and Middle East,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.26615018021107073,0.3887051719138581,-0.3106806594762688,0.3123696045935374
+caucasus_middle_east,Caucasus and Middle East,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.0965168531997425,0.41952831689931824,1.2615947313438092,0.6231335033624058
+caucasus_middle_east,Caucasus and Middle East,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.837090568790522,0.8890737537637268,0.8355572046966344,0.8986282039570483
+caucasus_middle_east,Caucasus and Middle East,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.16914789720788712,-0.7153321382436387,0.2079076860815618,-0.7436975883779867
+caucasus_middle_east,Caucasus and Middle East,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3660440681325581,0.3314227101194478,0.3338530968342308,0.9743303205182606
+caucasus_middle_east,Caucasus and Middle East,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.04251792194384632,-0.06551406603118004,-0.0903794191204649,-0.1061094719147477
+caucasus_middle_east,Caucasus and Middle East,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5723655620587206,0.3738908241604062,0.6239249091954111,0.3611826780783302
+caucasus_middle_east,Caucasus and Middle East,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.28970481414273513,-0.2647841112378912,0.4695513338674022,-0.0069182967320372
+central_asia,Central Asia,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.0012442369715198742,-0.016802134136216174,-0.2951606396031092,-0.278041964263179
+central_asia,Central Asia,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4679217811511688,0.11298960899629636,-0.4518116897511737,0.1125790665203156
+central_asia,Central Asia,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4005682019555946,-0.5957653779163538,-0.400032576428071,-0.5781346392280842
+central_asia,Central Asia,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.05892675488883081,-1.6751104032269566,-0.3755168381621758,-1.8619498067061324
+central_asia,Central Asia,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.371360700221956,-0.21382528651666965,-0.6002985796921743,-0.3171872938030499
+central_asia,Central Asia,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.14907076364384475,0.6246579174542553,-0.0201160767673687,0.5522712309352001
+central_asia,Central Asia,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.142453417548325,0.9199930024051282,0.1478349509766392,1.1946567554824288
+central_asia,Central Asia,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.025569645338971048,1.1134539342199679,0.0879426897692026,1.1740634427314816
+central_asia,Central Asia,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3198562971163972,0.5639190432189726,-0.0618054996954251,0.7194481848149882
+central_asia,Central Asia,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.17798457040811722,0.8705144679204233,-0.5618499782322877,0.7117033118962541
+central_asia,Central Asia,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.039989443434531625,0.3651425660490016,-0.0004563410372231,0.3208449785164654
+central_asia,Central Asia,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.19096238369254592,1.6046163369686828,-0.0089690768726637,1.504306884556433
+central_asia,Central Asia,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.04606310245587111,-1.827975534094108,0.0110519383297811,-1.74964214097106
+central_asia,Central Asia,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.07708380113195096,0.8150722985400156,0.0576495678295438,0.8146072656160857
+central_asia,Central Asia,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.2180836763802948,-1.8009003520481783,-0.3006026261954124,-1.817507522548707
+central_asia,Central Asia,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4474556654097973,0.7754292219418774,-0.2212826898976851,1.0151859071334028
+central_asia,Central Asia,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6120958178153098,0.09632755483841128,0.4368016805061256,-0.0422594153882767
+central_asia,Central Asia,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.14132404896691,-0.45698562832323525,0.1697222345456994,-0.413586037271032
+central_asia,Central Asia,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.15803589838325952,-0.7480604244622789,0.3165646357589873,-0.6702616148630642
+central_asia,Central Asia,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.08641187435335748,-1.8295721843933985,0.0720989467175385,-1.70310740092415
+central_asia,Central Asia,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.36141399450183387,-0.35187913242391383,0.099537667442914,-0.5430758096242703
+central_asia,Central Asia,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.4773063437401647,-0.12651266617172063,0.4633008666424145,-0.1449476010032178
+central_asia,Central Asia,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.49167297788450126,1.2118626704233924,0.9703951364878552,1.5735066014026295
+central_asia,Central Asia,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.06245597706230055,0.10534316226834672,0.4650022973280641,0.360594093089585
+central_europe,Central Europe,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.040152417367556814,1.7158213841159755,-0.657113741525702,1.26804054245105
+central_europe,Central Europe,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6191343347723566,0.383078062116744,-1.5751367495507784,-0.298936920042552
+central_europe,Central Europe,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.37546660868601434,-1.1289123590332388,-0.8789799424029763,-1.456942655736113
+central_europe,Central Europe,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5953106793960578,0.12700749024418312,1.4820073892192216,0.930255846750518
+central_europe,Central Europe,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4826637087010509,0.5905651252763979,-0.5593233201564694,0.6970316134324508
+central_europe,Central Europe,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5235060979472965,-0.5373495998347793,-0.5884335760393888,-0.5210269763962689
+central_europe,Central Europe,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.10517700623369865,-0.1208380604965382,0.0351643745126697,0.0408527149713859
+central_europe,Central Europe,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.8615857202486551,0.5346325153459381,-1.1168254563088649,0.3296837836353261
+central_europe,Central Europe,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.47671130412029533,0.34247555701762145,-0.7299642615658524,0.1557548493438732
+central_europe,Central Europe,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.20792556899892553,1.2797925055366182,0.1244255002588072,1.3160022864126186
+central_europe,Central Europe,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.31914124050683434,0.4537737497592992,-0.7255872470156763,0.1712949824082497
+central_europe,Central Europe,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.38517404807745215,1.6653537214173346,-0.2866025278850035,1.693827527457063
+central_europe,Central Europe,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.050656578137236646,-1.284648811278812,0.1103333108895441,-1.2611312773192809
+central_europe,Central Europe,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.08284279468494277,-1.6185638636448714,-0.5023110542708675,-1.7912466979813353
+central_europe,Central Europe,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.8767790002772489,-2.130448595235001,-1.442844366819668,-2.452919093155438
+central_europe,Central Europe,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.3324456104337004,-0.8336958315171599,0.75888888471545,-0.4987912977789139
+central_europe,Central Europe,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5420016400075851,0.22984853895918744,0.3015012140019895,0.0651779102387011
+central_europe,Central Europe,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.14029046564997832,-0.9273201413413565,0.3024970487739242,-0.8813637735330109
+central_europe,Central Europe,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.7970187116931549,-0.6712450624442925,1.1333426762734788,-0.332726172934065
+central_europe,Central Europe,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.1149170382987206,0.11633702625726632,1.173084952126926,0.2037882548105179
+central_europe,Central Europe,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.7014718933403281,0.5753312931048177,0.3944072034359234,0.3279523669040777
+central_europe,Central Europe,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5074057809353084,-0.15298078812465282,0.2740567436287371,-0.3965300823002007
+central_europe,Central Europe,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.43810543487578024,-0.406640857116912,1.3445189547727452,0.7688700010390161
+central_europe,Central Europe,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6983089058826861,0.22744159163116362,1.6288939909318536,0.7500306726065568
+greenland_periphery,Greenland Periphery,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.22328428238785267,-0.5091121376247147,-0.2838052799272299,-0.5903894844376814
+greenland_periphery,Greenland Periphery,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.09486666464481724,-0.5836435040365486,-0.1925065685331732,-0.651641165832633
+greenland_periphery,Greenland Periphery,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.019540888648543864,-0.1173044450569253,-0.3287925520430099,-0.3329217793131864
+greenland_periphery,Greenland Periphery,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.4397896148186629,-0.9453040350235649,0.9113896921388194,-1.3155343136350557
+greenland_periphery,Greenland Periphery,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.2307554387316898,0.36474175496033445,-0.4323717995847018,0.1959005357476624
+greenland_periphery,Greenland Periphery,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.9961164592586108,-0.27872414088667274,-0.7148924789787259,-0.0825460089814714
+greenland_periphery,Greenland Periphery,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.09500611746036867,0.27390387955862644,-0.1134702565934206,0.1566261877088337
+greenland_periphery,Greenland Periphery,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.06331315226998224,0.7770513769186023,0.0136792539154924,0.7929771252474627
+greenland_periphery,Greenland Periphery,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.005088534909661324,1.0217005058534794,0.0291325787619287,1.1109219772899497
+greenland_periphery,Greenland Periphery,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.9346876201980477,1.2299428957711578,-0.7506792520106012,1.464627929784347
+greenland_periphery,Greenland Periphery,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.1462906909784862,0.9444556831404035,1.4053692768735266,1.1553596908163437
+greenland_periphery,Greenland Periphery,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3849344660354119,0.6483068546643845,0.035332500506807,1.0211498001187744
+greenland_periphery,Greenland Periphery,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.4707041949083888,1.4037748728129333,1.5234858133741498,1.4335886626700605
+greenland_periphery,Greenland Periphery,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.7147611728119417,1.4389889790500132,-0.7258221848790987,1.42315163982943
+greenland_periphery,Greenland Periphery,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.71462549447906,-1.1205595251044085,0.4189093677664139,-1.2686260332992572
+greenland_periphery,Greenland Periphery,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3170388625627072,-1.4569061598178292,-0.399617768628941,-1.3792294837038093
+greenland_periphery,Greenland Periphery,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.25362033007534673,-1.5196820468154173,0.6372320265618003,-1.0789913763654568
+greenland_periphery,Greenland Periphery,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.0021119769436503955,-1.0047426091982383,-0.3741809731175496,-1.232673833841634
+greenland_periphery,Greenland Periphery,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5683093450900568,-1.0534222987574022,-1.0535728881239217,-1.4084760500835714
+greenland_periphery,Greenland Periphery,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6151595280463236,-1.1297783052308734,1.1735941204844589,-0.5900660818836222
+greenland_periphery,Greenland Periphery,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4070395908311605,-0.6669811766945597,-0.4512418751767648,-0.7585286217240949
+greenland_periphery,Greenland Periphery,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4606691219261432,-0.6226883934956688,-0.3718239590322754,-0.6268722636264744
+greenland_periphery,Greenland Periphery,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.3604391874123277,0.6848633226967822,0.3096324429915982,0.522596322130586
+greenland_periphery,Greenland Periphery,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6875186046353285,0.8202765630016415,-0.2649792367456007,1.0368883506393305
+iceland,Iceland,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3513858756305749,-0.6586909210951742,0.0373340184876465,-0.2531911129613904
+iceland,Iceland,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.8176405753751911,-1.2512132197763721,-0.8049862754020554,-1.1810156100607907
+iceland,Iceland,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.2488259755741885,-0.7597230257585936,0.1319473959413573,-0.808402850909273
+iceland,Iceland,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.3518690894552078,-0.9422447673491352,0.5701275027819115,-0.8495021141331723
+iceland,Iceland,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.19770870271102164,-1.3270550472658864,0.6946053653198998,-0.9721880756259302
+iceland,Iceland,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.1681209048704935,-0.32704874865920974,-0.8222204228083578,-0.1680627302165579
+iceland,Iceland,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.3266300973555883,0.48686770764170145,0.2359078331898372,0.4485885801296192
+iceland,Iceland,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3336329081080882,0.33549126235101767,-0.158355081685503,0.5062532530662504
+iceland,Iceland,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.13531167037197392,0.8368822972513967,0.2439182063296483,0.8463581573210064
+iceland,Iceland,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.031239097890692957,1.8436293881039267,-0.3186710953966765,1.7232094960079882
+iceland,Iceland,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6107489258771122,-0.01144736151657999,0.8842513287806577,1.0099858342668535
+iceland,Iceland,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.119310193528169,1.505918144180543,-1.0249487917911342,1.663966041326344
+iceland,Iceland,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.35725518209958074,1.5386025078766583,-0.3608224861121103,1.6259712426984765
+iceland,Iceland,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.16071024893120056,2.482964232791219,-0.6098692744637413,2.182406212871756
+iceland,Iceland,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.100903295276595,-0.6826132059312496,0.6547840066267714,-1.0583507020247322
+iceland,Iceland,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.07667607934539111,-0.6870350350325496,-0.8979733435006212,-1.282267666692951
+iceland,Iceland,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.4348928694005534,-0.8413635953272673,0.4886235135835024,-0.7879995837305102
+iceland,Iceland,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.7703276151378428,-0.15695296730043795,0.2187444065652171,-0.6220956879800351
+iceland,Iceland,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.06964838285710168,-0.784930222816482,-0.5107995535206138,-1.0474277453376692
+iceland,Iceland,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.02038770873821552,-0.8547996250901844,0.2189985442403692,-0.6625528423206897
+iceland,Iceland,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.1899626438380504,-0.1783381088060515,-0.246460257298982,-0.3080934281095677
+iceland,Iceland,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.8126884222799098,-0.5665096652148888,1.0674206768852237,-0.4310132713820465
+iceland,Iceland,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.4679563778107537,0.8088236203655621,-0.1915463412631144,0.408420645738235
+iceland,Iceland,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.2654770355490148,0.005184081912960631,0.4999901245108695,0.2295354981630096
+low_latitudes,Low Latitudes,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.053892422546012786,1.4807725723627767,-0.5083524407158291,1.1560876016210786
+low_latitudes,Low Latitudes,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5035754434775701,1.3081158109997346,-0.7257083470187071,1.161028465089759
+low_latitudes,Low Latitudes,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.7609717294091524,-3.249033294413905,-0.7987612030708,-3.365914898549536
+low_latitudes,Low Latitudes,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.598990368245154,0.11164898528744871,-0.4041868566542481,0.2579335977235975
+low_latitudes,Low Latitudes,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.2446637980029698,0.0766063737301457,-0.9124125449314544,0.1993429777060147
+low_latitudes,Low Latitudes,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5680568770267045,0.35696043922555837,0.054501917649615,0.8184653590279493
+low_latitudes,Low Latitudes,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.07142466452543139,0.6991345707987653,-0.1617557453826053,0.6529091224736165
+low_latitudes,Low Latitudes,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.13487567426448274,0.8536490313606135,-0.2123621998276967,0.6738452432100781
+low_latitudes,Low Latitudes,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5869712291439276,0.720144183987782,0.027730458239696,0.436239890472573
+low_latitudes,Low Latitudes,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.07679721903303016,-0.18569119254120192,0.2547280088966959,0.0604628998358946
+low_latitudes,Low Latitudes,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.29764569097142624,-0.0019595040786192786,0.7196760791674497,0.3698412719467375
+low_latitudes,Low Latitudes,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.18522409570522588,0.09736385771322864,-0.0647012974581766,-0.0504259514346209
+low_latitudes,Low Latitudes,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.04030059006756709,-0.7556100306955427,-0.2009001011858142,-0.861833926183782
+low_latitudes,Low Latitudes,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.2737319006847813,-0.39689378064410985,-0.4389869401422301,-0.5419430904799876
+low_latitudes,Low Latitudes,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.2645704626336228,-0.40661220727441283,-0.0102847154638481,-0.6251985694870843
+low_latitudes,Low Latitudes,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.03678636455291329,-0.2515261107593193,0.3380736343932842,-0.0481243438562995
+low_latitudes,Low Latitudes,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.31349441062049516,-0.5955114595965794,0.2638843145828033,-0.1950254201586602
+low_latitudes,Low Latitudes,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.7043443859552729,-0.6798604530611841,0.6443622368325852,-0.7082649290045511
+low_latitudes,Low Latitudes,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.0728050032173364,-1.4754504417326395,-0.372799161564314,-1.6929158704162688
+low_latitudes,Low Latitudes,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.33005070342092524,-0.4614079457508724,0.4560758145633277,-0.3021153445512597
+low_latitudes,Low Latitudes,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.7341197625602234,-0.28869497242139625,0.7206374659031298,-0.232235537047192
+low_latitudes,Low Latitudes,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.4794457117015239,0.005541803999083661,0.1202540959774101,-0.2379744373256864
+low_latitudes,Low Latitudes,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5291313066858989,0.5977425028460849,0.2906220588557748,0.5023801927338705
+low_latitudes,Low Latitudes,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.21493785912560914,0.31103071422714734,0.920665468353938,0.8420289647916509
+new_zealand,New Zealand,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.2786908430044231,-0.5663834085728915,-0.3124739785521235,-0.8274258221721386
+new_zealand,New Zealand,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.8931401248890645,-0.6217735156362083,-0.4085448552786594,0.0981542658931937
+new_zealand,New Zealand,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3522564258259623,0.0926337272307727,-0.2558304918938674,0.1944911791976724
+new_zealand,New Zealand,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.310251288399523,-0.6732911611235768,-0.3951257749975578,0.350605563483998
+new_zealand,New Zealand,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.8102627076831161,1.209016141199513,-1.4342967326828004,0.5346941088344224
+new_zealand,New Zealand,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6790539798736026,-0.6840135819543858,0.0681571228056618,-0.9136391505629422
+new_zealand,New Zealand,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.3744746303545816,1.893615365468156,-1.0182098952743104,0.915205768860364
+new_zealand,New Zealand,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.037719221913376594,0.333708195333595,0.1981222482079623,0.7583567453734995
+new_zealand,New Zealand,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.7227514873209688,-2.0475116471246153,0.4893607500398484,-1.0544261782010755
+new_zealand,New Zealand,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.20319659169562965,0.28873812637744967,-0.5438538815529199,-0.3123885271006419
+new_zealand,New Zealand,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5295899175017971,1.0174448266426284,0.3085066462371699,0.3222292706994845
+new_zealand,New Zealand,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.7608495062290226,0.17186958360295113,-0.3916788011661349,0.1048218257798499
+new_zealand,New Zealand,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4023964962568433,-0.47445461638062947,-0.4620536411245322,-0.1633262332320027
+new_zealand,New Zealand,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.0823510309719344,-1.299237466851083,0.5971716809116856,-1.4238244353374283
+new_zealand,New Zealand,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.05376739372019368,1.2616929424464196,-0.2864281804779676,1.1848630398870237
+new_zealand,New Zealand,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5238017518912071,1.0130706045127444,0.0344243846281937,0.7501783644658916
+new_zealand,New Zealand,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.8062760554052177,1.156109515514276,0.9329193010582592,1.0084472373066846
+new_zealand,New Zealand,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.27908146143963486,0.520031808176553,-0.4745546062870005,0.4323629718972414
+new_zealand,New Zealand,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.09866728715390805,-3.120427838003384,0.2975624300163151,-3.3395117887367194
+new_zealand,New Zealand,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.18896491717973668,-0.3139806948736316,0.6791944474805707,-0.2904331143595434
+new_zealand,New Zealand,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.31967806810077176,0.8225167429983811,0.002725564181226,0.8936840531826085
+new_zealand,New Zealand,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5254736862022208,1.3715802874201413,-0.0691002093027624,1.0095496420518968
+new_zealand,New Zealand,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.35406819954434265,-0.33373453014789045,1.670414205398595,0.8659940196212232
+new_zealand,New Zealand,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.3119066340405315,-0.2938028341614857,0.7735922676251317,0.0228875798305389
+north_asia,North Asia,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.05641571163337723,1.289100570674243,-0.0399217393090376,1.2796710162521625
+north_asia,North Asia,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.2788628894267378,0.2670862282576896,-0.2467340683343799,0.3041321672191816
+north_asia,North Asia,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.08686328308617258,-0.18270795760810032,0.2599140094450396,-0.0472246433616879
+north_asia,North Asia,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.23145499684607376,-2.386318781151186,-0.2814244348542285,-2.4255965552137058
+north_asia,North Asia,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.24442754151199175,0.20586350960580035,-0.4643601781745197,0.0837985088377441
+north_asia,North Asia,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.36803787111259295,-1.1431406245449114,0.0878745794712969,-1.3158684656972242
+north_asia,North Asia,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.40912993085647714,1.2164950126734684,-0.4067971353395272,1.2266180224116097
+north_asia,North Asia,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.4424835153948441,1.140970816333074,0.5036977943163441,1.2077424256114353
+north_asia,North Asia,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.07355352330462434,0.3223481239198452,0.1722405125639685,0.4024719998964099
+north_asia,North Asia,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5898412775923858,1.2427088220430798,-1.1327165592614374,0.8980429161290544
+north_asia,North Asia,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.009509603783537483,-0.36097030845938194,0.001693986389573,-0.3342130735239416
+north_asia,North Asia,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.23924738941870913,0.8096493429795443,0.0472242849490678,1.065104816117983
+north_asia,North Asia,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5076049259367332,-0.665113482517611,0.6793867124721444,-0.5689126656713422
+north_asia,North Asia,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6696800162783643,-1.6824848883495598,-0.8067220783025064,-1.7600782497905745
+north_asia,North Asia,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.7452871040145853,-0.7678277318853444,-0.815845796943389,-0.7160815650943908
+north_asia,North Asia,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.2709564699434514,-0.12780015069163925,-0.1014845520784666,-4.5029968286567536e-05
+north_asia,North Asia,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.366797544766034,1.4093744988060894,1.301144080474491,1.3873196587152812
+north_asia,North Asia,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.05190935727585985,-0.38244007081549236,0.2936083128319637,-0.2307701837248963
+north_asia,North Asia,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.1406495614549335,-1.0366226003587895,-0.0513135452216522,-0.91552091348138
+north_asia,North Asia,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6442443061778947,0.0071501206401807516,0.4324991382408116,-0.1631027272143701
+north_asia,North Asia,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.10875481719474017,-1.1294681376107492,-0.3243467774779827,-1.3650244953411166
+north_asia,North Asia,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.0952983260791879,0.24440825203607325,0.0875271357946738,0.2621177178966728
+north_asia,North Asia,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.087428731845028,0.13089901592128877,0.332922918668487,0.311709346456978
+north_asia,North Asia,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.13814529414258359,-0.10163515295439943,0.4719333996792825,0.1313682140509119
+russian_arctic,Russian Arctic,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6174684280738616,1.4597787177125914,-0.8643331376619166,1.3838550935841685
+russian_arctic,Russian Arctic,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.32592036895022447,0.7066777194811688,-0.3369426054348638,0.7730175815673219
+russian_arctic,Russian Arctic,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.53227479196439,-0.6028979773009615,-1.7163875459452032,-0.7615819345925787
+russian_arctic,Russian Arctic,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.7751929283980719,-0.10104558132456687,-0.9000467495696508,-0.1878782421633238
+russian_arctic,Russian Arctic,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.19132766774868876,-0.893307869680597,0.0642477590203096,-0.6038838375945402
+russian_arctic,Russian Arctic,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.19489760703521974,-1.365440696136238,-0.3128944042098582,-1.5006734997869555
+russian_arctic,Russian Arctic,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.1159896226765,0.9135599562645749,-1.223455986491122,0.8846073780484577
+russian_arctic,Russian Arctic,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.1883507082833799,-0.8776219022691008,-0.2418576363190145,-0.9384709965071568
+russian_arctic,Russian Arctic,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.229606584347833,-0.056684591684495717,-0.0449778686538153,-0.2369145209107158
+russian_arctic,Russian Arctic,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.13122984750727898,0.7430195693944771,-0.2232984054307877,0.4540692838418877
+russian_arctic,Russian Arctic,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.1449278035762938,1.4968848729698812,-1.4439019488569151,1.2727228546129452
+russian_arctic,Russian Arctic,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.23794274212825617,1.7155221610165556,0.5036499879154239,1.984872229115049
+russian_arctic,Russian Arctic,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.4867162162545432,0.45080049756512897,0.3897803195928209,0.4099521074973888
+russian_arctic,Russian Arctic,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6271113490288737,0.3212893124614743,0.8029931074028029,0.5076099578337995
+russian_arctic,Russian Arctic,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.4607694668077131,-1.215502617914279,-1.6810196545818796,-1.3267056414343872
+russian_arctic,Russian Arctic,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.028901011003727523,-1.3298136838489278,0.1609288934173532,-1.1531310938650128
+russian_arctic,Russian Arctic,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.876182891250592,-0.861193487581234,2.095863782952697,-0.7730794900548451
+russian_arctic,Russian Arctic,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.16227640891882097,-1.4573499393844438,-0.200429535133082,-1.4221651342899873
+russian_arctic,Russian Arctic,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.653521296557283,-0.9898174601975149,0.5875742653966471,-1.11220036001792
+russian_arctic,Russian Arctic,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.042044359998526404,-1.0563257615535488,0.2729536573199034,-0.8302009296630192
+russian_arctic,Russian Arctic,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.4662221722654074,-0.2386557894622502,2.0992169150304223,0.212245130895236
+russian_arctic,Russian Arctic,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.7175632178034028,-0.016385864607734085,0.4737802513170361,-0.2275753658029936
+russian_arctic,Russian Arctic,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.16672777484913825,1.2415730603088246,0.4625153837322433,1.4240061404010889
+russian_arctic,Russian Arctic,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.0456263394383019,0.6271341886800088,1.2760411551904485,0.779833936764184
+scandinavia,Scandinavia,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6751644564305216,-0.1168317940397069,-1.2295216460105731,-0.4256149221724607
+scandinavia,Scandinavia,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.8375625270497823,0.4041712158848691,-0.6603068689923308,0.5880652772927176
+scandinavia,Scandinavia,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6146481289959537,0.03218646296158589,1.280902255424729,0.5823214658306476
+scandinavia,Scandinavia,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.23847537690119502,-0.3078329401037888,0.3507014037209357,0.0916002402470513
+scandinavia,Scandinavia,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.16104527208520236,0.2596865729804489,-0.4503863837686177,0.0503749980519962
+scandinavia,Scandinavia,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.2977247703594421,-1.5398161232865846,-0.56139775237778,-1.7804410083363689
+scandinavia,Scandinavia,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5205472788962484,0.7497954222582903,1.4878732609825382,1.4996170041101966
+scandinavia,Scandinavia,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.2570774401254354,0.03023156563157664,-0.7272675614855624,-0.273286922865058
+scandinavia,Scandinavia,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.1341591275884255,-0.928450546068067,-0.3788518852578484,-0.901210919464629
+scandinavia,Scandinavia,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.10610536496453762,-0.7280483730564262,-0.1873996965990931,-0.8636728222324274
+scandinavia,Scandinavia,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.8851048575886931,1.5647000469870858,-0.6046806898789852,1.7735996336106283
+scandinavia,Scandinavia,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.018404320975716898,1.0094579136805437,0.2651968148728434,1.098286362483058
+scandinavia,Scandinavia,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.0004935098405783,-1.2383620163574258,-1.7754091710569917,-1.7133952770350735
+scandinavia,Scandinavia,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.05904060086641871,-0.030364774351916368,0.3079254600032683,0.2012862079129858
+scandinavia,Scandinavia,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.7201177670273066,-0.5927019364871606,1.114806090117589,-0.2278184832350048
+scandinavia,Scandinavia,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.09256752781699207,-0.24994726018454294,-0.8415214819474244,-0.6525637643446291
+scandinavia,Scandinavia,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6204984807843305,0.8817654523986183,0.4249332274563251,0.7027712461769517
+scandinavia,Scandinavia,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.31756822463296497,-0.33264278771206734,-0.6541679297525818,-0.4888209218204149
+scandinavia,Scandinavia,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.17793073352618555,0.010582891278415482,0.5568254592213959,0.0691620487435504
+scandinavia,Scandinavia,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.2597272395440252,1.4962283039998037,0.1560324027998456,1.4005024059991569
+scandinavia,Scandinavia,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5386795906328704,-1.574196098158184,0.0379245817862736,-1.865496469625452
+scandinavia,Scandinavia,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5942773542946864,0.8384789314198928,0.9154235106835644,1.163518411713573
+scandinavia,Scandinavia,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.06436197273737387,0.5569957306279647,-0.140731556594317,0.4912847063475706
+scandinavia,Scandinavia,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.0616201343102412,0.4902356979924334,1.3130981566527966,0.5633868754763875
+south_asia_east,South Asia East,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.024506716836868225,1.284521342044606,-0.3063686348211121,1.024243700657196
+south_asia_east,South Asia East,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.34934728713315644,-0.0480431739881117,-0.1321042854168501,0.2730638295983285
+south_asia_east,South Asia East,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6155583213769893,-1.669208356294708,-0.6090481169541735,-1.6143126111453756
+south_asia_east,South Asia East,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.16953866289634992,-0.9606642228728849,-0.1876611459552872,-0.9886926466301812
+south_asia_east,South Asia East,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.5705942585473961,0.8302304385638235,-0.4430453456342915,0.9836918585876584
+south_asia_east,South Asia East,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.20323515096901393,0.48384422636930036,-0.0288418149723104,0.8238201777587951
+south_asia_east,South Asia East,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3459238856041931,1.0458722042623256,0.0280881605691236,1.4895478608806565
+south_asia_east,South Asia East,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.13961246316793535,0.15751084670417792,-0.0379085318375498,0.0146633004553317
+south_asia_east,South Asia East,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.05534478664193748,0.19865406153005402,-0.2177378619777292,0.0570768774990097
+south_asia_east,South Asia East,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.12745443634124812,0.8494535063756812,0.2079900907766285,1.0345022527956345
+south_asia_east,South Asia East,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.28670710256190673,-0.5421232637946545,-0.0360362251245902,-0.8867262115709816
+south_asia_east,South Asia East,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.04230576670228592,0.9836406381066326,-0.4226680594570036,0.7711203680615664
+south_asia_east,South Asia East,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.2564602752054724,-1.6237773888527214,-0.2141926318488334,-1.6197062211018871
+south_asia_east,South Asia East,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.07953060176529313,-0.37254651303291725,-0.0095187738826778,-0.3823740117668189
+south_asia_east,South Asia East,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.08460041477405572,-1.141771207278498,-0.08460320915961,-1.1216169355651793
+south_asia_east,South Asia East,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.36130801793889133,0.6776845897454595,-0.281267525956006,0.8432350660893674
+south_asia_east,South Asia East,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.3530276793526276,-0.6363192655312684,0.1521993911338754,-0.7719909640430177
+south_asia_east,South Asia East,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3933016871998263,-1.7850151424851262,0.126823519446467,-1.4122944699368831
+south_asia_east,South Asia East,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.71163701859953,-0.7398075149825394,0.4626286772419314,-0.978679685335304
+south_asia_east,South Asia East,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.018486836742467927,-1.062340281978061,0.0879259101274785,-1.0006000081524662
+south_asia_east,South Asia East,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.8710712492857453,0.4339296140311205,0.5464186803079256,0.0339444636718222
+south_asia_east,South Asia East,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6904490433564802,0.08598323358093446,0.3448312835690488,-0.2811919343219694
+south_asia_east,South Asia East,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.1532095601899165,1.1090443892595219,0.5379672510339688,1.328766892937984
+south_asia_east,South Asia East,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.008174193210462866,0.9059645563686104,0.5161291987915622,1.2433601809967645
+south_asia_west,South Asia West,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6576272745367097,1.6177273366175968,0.3266723059089162,1.3635328020090518
+south_asia_west,South Asia West,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5551843820852139,0.6767475462206394,0.5539707744692457,0.7121168661525848
+south_asia_west,South Asia West,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4646850774237546,-0.9548282251259855,-0.5382183104851834,-0.9868956357407388
+south_asia_west,South Asia West,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4588173070977176,-4.046394492801854,-0.2254407952832888,-3.811459320945728
+south_asia_west,South Asia West,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.7586450441211445,0.6217775540143909,-0.535283888241255,0.8691438270926899
+south_asia_west,South Asia West,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.35594299711948035,0.30523495677476176,-0.4608571496287008,0.3486412920620285
+south_asia_west,South Asia West,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.0658270557772842,0.1780402709837481,0.3222726572279271,0.2683390614753878
+south_asia_west,South Asia West,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5990383795452972,-0.4263069324875304,0.9006187473471816,-0.2265548148215597
+south_asia_west,South Asia West,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.35034762584756785,0.6385480897858348,0.5583420149824163,0.7980542340392793
+south_asia_west,South Asia West,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.0862321666018653,1.7029287983630512,-1.3239871261067946,1.638364585425037
+south_asia_west,South Asia West,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.052252497371359,0.4954331564006791,-1.519604668663323,0.075562630566086
+south_asia_west,South Asia West,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5234005103503132,0.7731528548682561,0.2858110348852323,0.672645753594827
+south_asia_west,South Asia West,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.9356766261930318,-1.3273995579523032,-0.8510485746990186,-1.22561274402539
+south_asia_west,South Asia West,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.13966926445323902,0.33432826156358353,0.2979092312427802,0.4652795032578065
+south_asia_west,South Asia West,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.42824439639321693,0.05244525854420229,-0.4791024210188541,0.0808877215802183
+south_asia_west,South Asia West,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.8674987822087288,-0.25493391280094957,-1.0394943538764776,-0.4072244101501531
+south_asia_west,South Asia West,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5016301025503948,-0.5041002605822351,0.6415805546821689,-0.3789778099986488
+south_asia_west,South Asia West,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5502550633027792,-0.23157479727565358,0.4342255643937265,-0.3275389852004223
+south_asia_west,South Asia West,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.3315245549347298,-0.1373179090038816,0.2913674503848038,-0.15112940595651
+south_asia_west,South Asia West,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.20355135629004736,-0.12140244905551752,-0.3633847699602346,-0.1614968778314364
+south_asia_west,South Asia West,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6501154804716403,0.18277932343509584,0.4160572659872836,0.0561148973521594
+south_asia_west,South Asia West,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.7374158320113114,-0.24757560067029194,0.8492488615357603,-0.1465694021828451
+south_asia_west,South Asia West,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.6742616341427833,-0.02776589411893257,1.1081042873908271,0.0982395292471194
+south_asia_west,South Asia West,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.2752490908110712,-0.054633205164123996,0.3502413075248483,0.0195806881010339
+southern_andes,Southern Andes,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.09667231666789405,-0.7442115345641909,-0.5052161338031667,-0.780102023488217
+southern_andes,Southern Andes,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4533568998402364,0.5004384108007502,-1.1747362682054456,-0.2890002782349797
+southern_andes,Southern Andes,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.2859635561187467,0.9017475931488848,-0.7565779331640465,0.6618559091032857
+southern_andes,Southern Andes,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.08001735508082276,-1.7839262635519344,-0.0685868681681096,-1.7576540497808848
+southern_andes,Southern Andes,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.6022285774672254,1.139945230317603,0.9880120118546696,0.8284677112973762
+southern_andes,Southern Andes,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3527682368236905,0.8332994455233981,0.2311071332099459,1.2566289535774593
+southern_andes,Southern Andes,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.39070147962349144,1.1692935014515444,0.1530626339776537,0.8609379726615177
+southern_andes,Southern Andes,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.7081250940429019,-0.8921757337821448,-0.4806480944287825,-0.6866312052143321
+southern_andes,Southern Andes,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5576251908299581,-0.6127623170824947,0.6267984115967282,-0.455965707819121
+southern_andes,Southern Andes,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.2208192220451486,0.11030161296530605,-0.0259042868979904,-1.0585772350029146
+southern_andes,Southern Andes,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.0209463227369522,0.5931811784947758,-0.7065470665840481,0.6406575933373128
+southern_andes,Southern Andes,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.0536275192143632,1.011462083790806,-0.5352933787844174,1.131615627605252
+southern_andes,Southern Andes,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.19461065751543585,-0.5548979106090985,-0.174969802649981,-0.5188438238960704
+southern_andes,Southern Andes,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.5698287085854852,0.3903315590193648,1.210339320962443,0.5427777332897754
+southern_andes,Southern Andes,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.12895576647112195,-0.530544934056802,-0.8429224832372322,-0.9469878389641792
+southern_andes,Southern Andes,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.1860122215455321,-0.31185926939467745,0.1840919635216034,0.0227494376686177
+southern_andes,Southern Andes,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.1813577425819135,-0.6147474128768886,0.2788190322254413,0.7325950717107137
+southern_andes,Southern Andes,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.5593283683911062,0.11929577568762934,0.4771563121321236,0.0842517923071392
+southern_andes,Southern Andes,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.16555381754500392,0.2407671976207557,-0.323295379201765,-0.2576138804869128
+southern_andes,Southern Andes,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.19941158607684484,-0.8140561464970018,-0.0908940694836992,-0.6809107357915781
+southern_andes,Southern Andes,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.7629025878070901,0.904890564653254,0.9030569344395972,1.0863290862332398
+southern_andes,Southern Andes,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.804897011188204,1.6536178621584527,1.1147885397552637,2.159254314095433
+southern_andes,Southern Andes,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6785358376061322,0.06406770581691901,-0.1674736988296112,0.5217130475411234
+southern_andes,Southern Andes,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6824162160701581,-0.9763287813005517,-0.3141668302372116,-0.9022842394460946
+western_canada_us,Western Canada and USA,2000,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.6082266522759001,-1.8437394396074693,-1.427566411333835,-2.368859139409703
+western_canada_us,Western Canada and USA,2001,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.09053785064138092,0.08895630535109872,-0.5471008303889509,-0.2381525427286939
+western_canada_us,Western Canada and USA,2002,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.40651239330276523,0.22066968501464332,-0.9396239685325884,-0.0734332180511483
+western_canada_us,Western Canada and USA,2003,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.25096178651439116,0.4520908959121394,0.144169063964922,0.7674950285409012
+western_canada_us,Western Canada and USA,2004,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.8116336193978706,0.617944199255586,-0.5990479391503332,0.6727312352412133
+western_canada_us,Western Canada and USA,2005,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.575245533256843,0.43490294689824127,-1.1179059121209924,0.6769703203812625
+western_canada_us,Western Canada and USA,2006,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.09094344401785326,0.7587226495241675,0.1550615873363821,0.9253411924449346
+western_canada_us,Western Canada and USA,2007,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.043378015670365366,0.3122426433177597,-0.606553331355661,-0.0353746240971897
+western_canada_us,Western Canada and USA,2008,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.1062638277735719,1.0503341023962545,-0.7066753298781769,0.7132058772088721
+western_canada_us,Western Canada and USA,2009,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.4614866741812719,1.132085869224622,0.6833248074820784,1.3393361480458723
+western_canada_us,Western Canada and USA,2010,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.003215403635453473,0.9122705438033439,-0.7515769767012621,0.465665224338014
+western_canada_us,Western Canada and USA,2011,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.32360068504611306,0.22878042072243576,-0.8615620721910506,-0.5996119430237647
+western_canada_us,Western Canada and USA,2012,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.2958539575263337,-1.7706383062072375,0.9368471706486884,-1.8467799759696253
+western_canada_us,Western Canada and USA,2013,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.48843688670131113,-0.43259548479998716,0.8155410030056292,-0.2214713520543584
+western_canada_us,Western Canada and USA,2014,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.3282879628786365,-0.14924474827127393,0.8687796324823243,0.2687710841323985
+western_canada_us,Western Canada and USA,2015,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-1.3476916374496457,-1.1883906927540915,-0.4597337589075696,-0.6968872835523334
+western_canada_us,Western Canada and USA,2016,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.3449681010631356,-0.08431130856237398,-0.3972586325490645,-0.1292741483503757
+western_canada_us,Western Canada and USA,2017,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.0090457478643322,-0.002106549291015468,0.8790523670012256,0.0075453406172045
+western_canada_us,Western Canada and USA,2018,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.14921311876728582,0.34922608640006164,0.200868816234335,0.4528232553683526
+western_canada_us,Western Canada and USA,2019,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4626290400485292,-0.0971590132815219,-0.4322892149401252,-0.1897359830090164
+western_canada_us,Western Canada and USA,2020,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.2924249300748409,-0.2639853106093342,0.3519856724599268,-0.2646082451226234
+western_canada_us,Western Canada and USA,2021,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,0.3319738107586737,-0.5394601850551475,0.9132406143004204,-0.2187652793143243
+western_canada_us,Western Canada and USA,2022,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,1.6936876843868913,1.1245703986328457,1.990806721908952,1.4183609350482456
+western_canada_us,Western Canada and USA,2023,warm_season_t2m_anomaly_c,Warm-season temperature anomaly,-0.4201218484445637,0.6196700551138659,0.907216921224757,1.5036776710127924

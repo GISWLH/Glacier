@@ -1,0 +1,1228 @@
+region_key,region_name,year,harmonized_class,total_annual_area_km2_anomaly_z,glambie_combined_mwe_anomaly
+alaska,Alaska,2000,proglacial_contacted,-0.6564918720033369,1.2442519763779978
+alaska,Alaska,2000,proglacial_detached,-1.5229856334688066,1.2442519763779978
+alaska,Alaska,2000,supraglacial,-2.0302248737266315,1.2442519763779978
+alaska,Alaska,2001,proglacial_contacted,-0.9710379003715202,0.4280400094362184
+alaska,Alaska,2001,proglacial_detached,-1.174681406640912,0.4280400094362184
+alaska,Alaska,2001,supraglacial,-1.038192977024084,0.4280400094362184
+alaska,Alaska,2002,proglacial_contacted,-1.3055744837542442,0.1788794731894656
+alaska,Alaska,2002,proglacial_detached,-0.9140546307765456,0.1788794731894656
+alaska,Alaska,2002,supraglacial,-1.6021178009155423,0.1788794731894656
+alaska,Alaska,2003,proglacial_contacted,0.6814563432572075,0.0484349589300603
+alaska,Alaska,2003,proglacial_detached,0.9456271869528386,0.0484349589300603
+alaska,Alaska,2003,supraglacial,0.6664592090138745,0.0484349589300603
+alaska,Alaska,2004,proglacial_contacted,0.8134541457840316,-0.8559671792951308
+alaska,Alaska,2004,proglacial_detached,1.6704774806359577,-0.8559671792951308
+alaska,Alaska,2004,supraglacial,0.5677577309380514,-0.8559671792951308
+alaska,Alaska,2005,proglacial_contacted,0.9506132898100778,-0.1357936960630269
+alaska,Alaska,2005,proglacial_detached,0.864422019217302,-0.1357936960630269
+alaska,Alaska,2005,supraglacial,0.3795702483535393,-0.1357936960630269
+alaska,Alaska,2006,proglacial_contacted,-0.5738326606868914,0.3459249809245034
+alaska,Alaska,2006,proglacial_detached,-0.1161444367158349,0.3459249809245034
+alaska,Alaska,2006,supraglacial,0.7695864561638502,0.3459249809245034
+alaska,Alaska,2007,proglacial_contacted,0.2696278072108778,0.1591846481983748
+alaska,Alaska,2007,proglacial_detached,0.1613782260992094,0.1591846481983748
+alaska,Alaska,2007,supraglacial,0.7727809182810175,0.1591846481983748
+alaska,Alaska,2008,proglacial_contacted,-0.2991426197562447,1.1600811602766206
+alaska,Alaska,2008,proglacial_detached,-0.9041704080107582,1.1600811602766206
+alaska,Alaska,2008,supraglacial,0.5634997159843186,1.1600811602766206
+alaska,Alaska,2009,proglacial_contacted,1.4675720415303406,-0.3383271634246206
+alaska,Alaska,2009,proglacial_detached,1.367570339575508,-0.3383271634246206
+alaska,Alaska,2009,supraglacial,1.3829529054115282,-0.3383271634246206
+alaska,Alaska,2010,proglacial_contacted,1.095817730307486,-0.1326754183524995
+alaska,Alaska,2010,proglacial_detached,1.166464192571154,-0.1326754183524995
+alaska,Alaska,2010,supraglacial,0.6530569569501551,-0.1326754183524995
+alaska,Alaska,2011,proglacial_contacted,0.3891838180797092,0.1967778743606852
+alaska,Alaska,2011,proglacial_detached,0.1161889295488554,0.1967778743606852
+alaska,Alaska,2011,supraglacial,1.4154985737434842,0.1967778743606852
+alaska,Alaska,2012,proglacial_contacted,-2.409583933251895,1.3871884274114374
+alaska,Alaska,2012,proglacial_detached,-1.7344686355548729,1.3871884274114374
+alaska,Alaska,2012,supraglacial,-1.275324861027269,1.3871884274114374
+alaska,Alaska,2013,proglacial_contacted,-0.2661063539119658,-0.6912735803474696
+alaska,Alaska,2013,proglacial_detached,-0.028143738658274,-0.6912735803474696
+alaska,Alaska,2013,supraglacial,-0.8842286976176498,-0.6912735803474696
+alaska,Alaska,2014,proglacial_contacted,0.181682027379292,-0.4247567061128422
+alaska,Alaska,2014,proglacial_detached,0.0371310701525242,-0.4247567061128422
+alaska,Alaska,2014,supraglacial,-0.0890475430050809,-0.4247567061128422
+alaska,Alaska,2015,proglacial_contacted,-0.5569764810490092,-0.1476615820755759
+alaska,Alaska,2015,proglacial_detached,0.101817954973293,-0.1476615820755759
+alaska,Alaska,2015,supraglacial,0.6891383764018808,-0.1476615820755759
+alaska,Alaska,2016,proglacial_contacted,0.7655280100942861,-0.3805811142344247
+alaska,Alaska,2016,proglacial_detached,0.1396539056200403,-0.3805811142344247
+alaska,Alaska,2016,supraglacial,0.6703381448124859,-0.3805811142344247
+alaska,Alaska,2017,proglacial_contacted,-0.0298757727835576,-0.274601895616578
+alaska,Alaska,2017,proglacial_detached,-0.6656228926256471,-0.274601895616578
+alaska,Alaska,2017,supraglacial,-0.2699479251346422,-0.274601895616578
+alaska,Alaska,2018,proglacial_contacted,1.290375865670977,-0.5954228043731421
+alaska,Alaska,2018,proglacial_detached,1.296988703300036,-0.5954228043731421
+alaska,Alaska,2018,supraglacial,0.7553005660950578,-0.5954228043731421
+alaska,Alaska,2019,proglacial_contacted,1.304933386073711,-1.0425317119993505
+alaska,Alaska,2019,proglacial_detached,1.353548308408252,-1.0425317119993505
+alaska,Alaska,2019,supraglacial,0.6347317224762379,-1.0425317119993505
+alaska,Alaska,2020,proglacial_contacted,0.3583171971214254,0.126582001257384
+alaska,Alaska,2020,proglacial_detached,-0.1627566898820629,0.126582001257384
+alaska,Alaska,2020,supraglacial,-0.3031878935071012,0.126582001257384
+alaska,Alaska,2021,proglacial_contacted,0.1894120307122001,0.3458526230652147
+alaska,Alaska,2021,proglacial_detached,-0.5258973444920509,0.3458526230652147
+alaska,Alaska,2021,supraglacial,0.5321742870494381,0.3458526230652147
+alaska,Alaska,2022,proglacial_contacted,-0.4746406788057332,-0.0748843893953309
+alaska,Alaska,2022,proglacial_detached,-0.0743659050105751,-0.0748843893953309
+alaska,Alaska,2022,supraglacial,-0.2380430349046591,-0.0748843893953309
+alaska,Alaska,2023,proglacial_contacted,0.0920810813549304,-0.5267208921379717
+alaska,Alaska,2023,proglacial_detached,0.6516155010416466,-0.5267208921379717
+alaska,Alaska,2023,supraglacial,-0.3741782405198824,-0.5267208921379717
+arctic_canada_north,Arctic Canada North,2000,proglacial_contacted,-0.5555658195738221,-0.1701266172430585
+arctic_canada_north,Arctic Canada North,2000,proglacial_detached,-0.9570166290109374,-0.1701266172430585
+arctic_canada_north,Arctic Canada North,2000,supraglacial,-0.5200133588398504,-0.1701266172430585
+arctic_canada_north,Arctic Canada North,2001,proglacial_contacted,-0.9399149429391054,0.0308029620658893
+arctic_canada_north,Arctic Canada North,2001,proglacial_detached,-1.4304625877678467,0.0308029620658893
+arctic_canada_north,Arctic Canada North,2001,supraglacial,-2.1405011441804183,0.0308029620658893
+arctic_canada_north,Arctic Canada North,2002,proglacial_contacted,-0.9851344760242972,0.314833896026022
+arctic_canada_north,Arctic Canada North,2002,proglacial_detached,-1.057615405798557,0.314833896026022
+arctic_canada_north,Arctic Canada North,2002,supraglacial,0.1859778729050671,0.314833896026022
+arctic_canada_north,Arctic Canada North,2003,proglacial_contacted,-0.4684895030899782,0.1890574017817011
+arctic_canada_north,Arctic Canada North,2003,proglacial_detached,-0.1293863909453878,0.1890574017817011
+arctic_canada_north,Arctic Canada North,2003,supraglacial,-0.1528837397987121,0.1890574017817011
+arctic_canada_north,Arctic Canada North,2004,proglacial_contacted,-1.2104512054733063,0.3824697553680356
+arctic_canada_north,Arctic Canada North,2004,proglacial_detached,-0.8602219838663412,0.3824697553680356
+arctic_canada_north,Arctic Canada North,2004,supraglacial,0.436847312975448,0.3824697553680356
+arctic_canada_north,Arctic Canada North,2005,proglacial_contacted,0.7704217949423222,0.0281871921773969
+arctic_canada_north,Arctic Canada North,2005,proglacial_detached,1.2582579776732168,0.0281871921773969
+arctic_canada_north,Arctic Canada North,2005,supraglacial,0.5771243437244801,0.0281871921773969
+arctic_canada_north,Arctic Canada North,2006,proglacial_contacted,-0.1095318978360503,0.1540907043887026
+arctic_canada_north,Arctic Canada North,2006,proglacial_detached,0.2166964142362214,0.1540907043887026
+arctic_canada_north,Arctic Canada North,2006,supraglacial,-0.2347217162415006,0.1540907043887026
+arctic_canada_north,Arctic Canada North,2007,proglacial_contacted,1.4100662541101343,-0.2790953506597053
+arctic_canada_north,Arctic Canada North,2007,proglacial_detached,1.530750797023589,-0.2790953506597053
+arctic_canada_north,Arctic Canada North,2007,supraglacial,1.2179230242285135,-0.2790953506597053
+arctic_canada_north,Arctic Canada North,2008,proglacial_contacted,0.8558915053643911,-0.2741978490000896
+arctic_canada_north,Arctic Canada North,2008,proglacial_detached,1.4596877635716117,-0.2741978490000896
+arctic_canada_north,Arctic Canada North,2008,supraglacial,1.19287514713495,-0.2741978490000896
+arctic_canada_north,Arctic Canada North,2009,proglacial_contacted,1.1302877267414004,-0.1371026239195723
+arctic_canada_north,Arctic Canada North,2009,proglacial_detached,0.8140175343536221,-0.1371026239195723
+arctic_canada_north,Arctic Canada North,2009,supraglacial,1.3091300212765424,-0.1371026239195723
+arctic_canada_north,Arctic Canada North,2010,proglacial_contacted,2.240240188234158,0.0003551402591805
+arctic_canada_north,Arctic Canada North,2010,proglacial_detached,1.9642296988611128,0.0003551402591805
+arctic_canada_north,Arctic Canada North,2010,proglacial_detached,1.9642296988611132,
+arctic_canada_north,Arctic Canada North,2010,supraglacial,1.8008090026542012,0.0003551402591805
+arctic_canada_north,Arctic Canada North,2011,proglacial_contacted,1.4414557559548018,-0.50884096720261
+arctic_canada_north,Arctic Canada North,2011,proglacial_detached,0.7213311138623288,-0.50884096720261
+arctic_canada_north,Arctic Canada North,2011,supraglacial,-1.3259336757443203,-0.50884096720261
+arctic_canada_north,Arctic Canada North,2012,proglacial_contacted,0.2629602673283871,-0.4093996766023401
+arctic_canada_north,Arctic Canada North,2012,proglacial_detached,-0.0681562028137795,-0.4093996766023401
+arctic_canada_north,Arctic Canada North,2012,supraglacial,-1.823020288299292,-0.4093996766023401
+arctic_canada_north,Arctic Canada North,2013,proglacial_contacted,-1.1588821305085977,0.3697381603769794
+arctic_canada_north,Arctic Canada North,2013,proglacial_detached,-1.173740295124161,0.3697381603769794
+arctic_canada_north,Arctic Canada North,2013,supraglacial,0.7655660489857902,0.3697381603769794
+arctic_canada_north,Arctic Canada North,2014,proglacial_contacted,1.1575137733626557,0.1144284422603792
+arctic_canada_north,Arctic Canada North,2014,proglacial_detached,1.591264246273519,0.1144284422603792
+arctic_canada_north,Arctic Canada North,2014,supraglacial,1.5587895685972053,0.1144284422603792
+arctic_canada_north,Arctic Canada North,2015,proglacial_contacted,-0.516278222778573,-0.2151498067048433
+arctic_canada_north,Arctic Canada North,2015,proglacial_detached,-0.8994309138551054,-0.2151498067048433
+arctic_canada_north,Arctic Canada North,2015,supraglacial,-0.5358743361829015,-0.2151498067048433
+arctic_canada_north,Arctic Canada North,2016,proglacial_contacted,-0.3254437582410608,0.0594178998090258
+arctic_canada_north,Arctic Canada North,2016,proglacial_detached,-0.7097547843717354,0.0594178998090258
+arctic_canada_north,Arctic Canada North,2016,supraglacial,-0.8194599921752279,0.0594178998090258
+arctic_canada_north,Arctic Canada North,2017,proglacial_contacted,-1.0859817200031483,0.3602344250904717
+arctic_canada_north,Arctic Canada North,2017,proglacial_detached,-0.819456746016223,0.3602344250904717
+arctic_canada_north,Arctic Canada North,2017,supraglacial,-1.087159070680186,0.3602344250904717
+arctic_canada_north,Arctic Canada North,2018,proglacial_contacted,-1.2992479331527051,0.4363109063440026
+arctic_canada_north,Arctic Canada North,2018,proglacial_detached,-1.1167917101249871,0.4363109063440026
+arctic_canada_north,Arctic Canada North,2018,supraglacial,-0.4019080719249324,0.4363109063440026
+arctic_canada_north,Arctic Canada North,2019,proglacial_contacted,-0.7691924563474689,-0.2770618417676078
+arctic_canada_north,Arctic Canada North,2019,proglacial_detached,-0.4525826427982529,-0.2770618417676078
+arctic_canada_north,Arctic Canada North,2019,supraglacial,-0.4076275887701944,-0.2770618417676078
+arctic_canada_north,Arctic Canada North,2020,proglacial_contacted,-0.3767719284259194,-0.2355487679057749
+arctic_canada_north,Arctic Canada North,2020,proglacial_detached,-0.0738889829934095,-0.2355487679057749
+arctic_canada_north,Arctic Canada North,2020,supraglacial,-0.1823315331734629,-0.2355487679057749
+arctic_canada_north,Arctic Canada North,2021,proglacial_contacted,-1.0688900435575022,0.271380686610159
+arctic_canada_north,Arctic Canada North,2021,proglacial_detached,-0.8887941729217768,0.271380686610159
+arctic_canada_north,Arctic Canada North,2021,supraglacial,-0.6036687968110045,0.271380686610159
+arctic_canada_north,Arctic Canada North,2022,proglacial_contacted,0.7564240086039782,-0.0705008734381961
+arctic_canada_north,Arctic Canada North,2022,proglacial_detached,0.7744250193678484,-0.0705008734381961
+arctic_canada_north,Arctic Canada North,2022,supraglacial,0.7686366416338752,-0.0705008734381961
+arctic_canada_north,Arctic Canada North,2023,proglacial_contacted,0.9947801046990482,-0.1342831981141478
+arctic_canada_north,Arctic Canada North,2023,proglacial_detached,0.4883841774338321,-0.1342831981141478
+arctic_canada_north,Arctic Canada North,2023,supraglacial,0.2601713324096881,-0.1342831981141478
+arctic_canada_south,Arctic Canada South,2000,proglacial_contacted,0.0656583088835606,-0.2110281735629231
+arctic_canada_south,Arctic Canada South,2000,proglacial_detached,0.5075883098621826,-0.2110281735629231
+arctic_canada_south,Arctic Canada South,2000,supraglacial,1.4362688342203416,-0.2110281735629231
+arctic_canada_south,Arctic Canada South,2001,proglacial_contacted,-1.4027390119002583,0.0287581247534297
+arctic_canada_south,Arctic Canada South,2001,proglacial_detached,-1.4396368047881378,0.0287581247534297
+arctic_canada_south,Arctic Canada South,2001,supraglacial,-1.5066840169842086,0.0287581247534297
+arctic_canada_south,Arctic Canada South,2002,proglacial_contacted,-0.3570999221955389,0.4324958573011574
+arctic_canada_south,Arctic Canada South,2002,proglacial_detached,-0.1575320776959073,0.4324958573011574
+arctic_canada_south,Arctic Canada South,2002,supraglacial,-0.1701571077198225,0.4324958573011574
+arctic_canada_south,Arctic Canada South,2003,proglacial_contacted,0.659830345362699,0.3613096434203635
+arctic_canada_south,Arctic Canada South,2003,proglacial_detached,0.8368048823319791,0.3613096434203635
+arctic_canada_south,Arctic Canada South,2003,supraglacial,0.5060222259751488,0.3613096434203635
+arctic_canada_south,Arctic Canada South,2004,proglacial_contacted,-0.256062110783407,0.5339416395583705
+arctic_canada_south,Arctic Canada South,2004,proglacial_detached,0.3763276478980829,0.5339416395583705
+arctic_canada_south,Arctic Canada South,2004,supraglacial,-0.8109756093253432,0.5339416395583705
+arctic_canada_south,Arctic Canada South,2005,proglacial_contacted,0.1764872438173426,-0.0268157578823193
+arctic_canada_south,Arctic Canada South,2005,proglacial_detached,0.1302920423152639,-0.0268157578823193
+arctic_canada_south,Arctic Canada South,2005,supraglacial,0.5204588553082983,-0.0268157578823193
+arctic_canada_south,Arctic Canada South,2006,proglacial_contacted,0.958730353473347,0.1484448019569271
+arctic_canada_south,Arctic Canada South,2006,proglacial_detached,0.4917941261516613,0.1484448019569271
+arctic_canada_south,Arctic Canada South,2006,supraglacial,1.311238700090134,0.1484448019569271
+arctic_canada_south,Arctic Canada South,2007,proglacial_contacted,-0.9362408076091882,-0.2481374163184666
+arctic_canada_south,Arctic Canada South,2007,proglacial_detached,-1.4266761196573268,-0.2481374163184666
+arctic_canada_south,Arctic Canada South,2007,supraglacial,-1.178892530919483,-0.2481374163184666
+arctic_canada_south,Arctic Canada South,2008,proglacial_contacted,0.174890504191441,-0.3478095949956606
+arctic_canada_south,Arctic Canada South,2008,proglacial_detached,0.5522966097772648,-0.3478095949956606
+arctic_canada_south,Arctic Canada South,2008,supraglacial,-0.8192459120371681,-0.3478095949956606
+arctic_canada_south,Arctic Canada South,2009,proglacial_contacted,0.7856615990402587,-0.3407615137863367
+arctic_canada_south,Arctic Canada South,2009,proglacial_detached,0.8455345227208217,-0.3407615137863367
+arctic_canada_south,Arctic Canada South,2009,supraglacial,-0.4894482643102312,-0.3407615137863367
+arctic_canada_south,Arctic Canada South,2010,proglacial_contacted,0.5672867415884301,-0.171349849874681
+arctic_canada_south,Arctic Canada South,2010,proglacial_detached,-0.139095769300961,-0.171349849874681
+arctic_canada_south,Arctic Canada South,2010,supraglacial,0.3186269339764126,-0.171349849874681
+arctic_canada_south,Arctic Canada South,2011,proglacial_contacted,0.3576143292096916,-0.4636407157080882
+arctic_canada_south,Arctic Canada South,2011,proglacial_detached,-0.2113734181953442,-0.4636407157080882
+arctic_canada_south,Arctic Canada South,2011,supraglacial,-0.3840149811190512,-0.4636407157080882
+arctic_canada_south,Arctic Canada South,2012,proglacial_contacted,-1.0470170698854568,-0.3855248392994217
+arctic_canada_south,Arctic Canada South,2012,proglacial_detached,-1.1944434791020486,-0.3855248392994217
+arctic_canada_south,Arctic Canada South,2012,supraglacial,-0.2295300960200544,-0.3855248392994217
+arctic_canada_south,Arctic Canada South,2013,proglacial_contacted,-1.4372467398695463,0.3374746377395652
+arctic_canada_south,Arctic Canada South,2013,proglacial_detached,-1.9647194810352049,0.3374746377395652
+arctic_canada_south,Arctic Canada South,2013,supraglacial,0.1350102211334125,0.3374746377395652
+arctic_canada_south,Arctic Canada South,2014,proglacial_contacted,0.4296025276257751,0.2120447245037915
+arctic_canada_south,Arctic Canada South,2014,proglacial_detached,0.7194208506153295,0.2120447245037915
+arctic_canada_south,Arctic Canada South,2014,supraglacial,0.2341857213333313,0.2120447245037915
+arctic_canada_south,Arctic Canada South,2015,proglacial_contacted,-0.0211699988259564,-0.1182450039186178
+arctic_canada_south,Arctic Canada South,2015,proglacial_detached,0.4509433149019138,-0.1182450039186178
+arctic_canada_south,Arctic Canada South,2015,supraglacial,0.0156006726224167,-0.1182450039186178
+arctic_canada_south,Arctic Canada South,2016,proglacial_contacted,1.1303171362268294,-0.1548050676499781
+arctic_canada_south,Arctic Canada South,2016,proglacial_detached,1.2218568944758883,-0.1548050676499781
+arctic_canada_south,Arctic Canada South,2016,supraglacial,1.450425357218094,-0.1548050676499781
+arctic_canada_south,Arctic Canada South,2017,proglacial_contacted,0.2522224887373123,0.4034151192726551
+arctic_canada_south,Arctic Canada South,2017,proglacial_detached,0.3409268351185802,0.4034151192726551
+arctic_canada_south,Arctic Canada South,2017,supraglacial,0.280159381188001,0.4034151192726551
+arctic_canada_south,Arctic Canada South,2018,proglacial_contacted,-0.6911169083982093,0.5410978832909661
+arctic_canada_south,Arctic Canada South,2018,proglacial_detached,-0.8701979770441445,0.5410978832909661
+arctic_canada_south,Arctic Canada South,2018,supraglacial,-1.0724104004569952,0.5410978832909661
+arctic_canada_south,Arctic Canada South,2019,proglacial_contacted,1.894555529828091,-0.6895416671956498
+arctic_canada_south,Arctic Canada South,2019,proglacial_detached,1.5720200245097615,-0.6895416671956498
+arctic_canada_south,Arctic Canada South,2019,supraglacial,1.171134751517593,-0.6895416671956498
+arctic_canada_south,Arctic Canada South,2020,proglacial_contacted,1.2609605575826204,-0.3087548747886359
+arctic_canada_south,Arctic Canada South,2020,proglacial_detached,0.7064527136480768,-0.3087548747886359
+arctic_canada_south,Arctic Canada South,2020,supraglacial,0.3206230714567302,-0.3087548747886359
+arctic_canada_south,Arctic Canada South,2021,proglacial_contacted,0.0617399405784838,0.6090210093306905
+arctic_canada_south,Arctic Canada South,2021,proglacial_detached,0.3329056720504388,0.6090210093306905
+arctic_canada_south,Arctic Canada South,2021,supraglacial,-0.8728037510549307,0.6090210093306905
+arctic_canada_south,Arctic Canada South,2022,proglacial_contacted,0.4952517326274797,-0.0994937597044903
+arctic_canada_south,Arctic Canada South,2022,proglacial_detached,0.5886560390568966,-0.0994937597044903
+arctic_canada_south,Arctic Canada South,2022,supraglacial,2.145267066127502,-0.0994937597044903
+arctic_canada_south,Arctic Canada South,2023,proglacial_contacted,-0.1455944051537942,-0.0420952064426473
+arctic_canada_south,Arctic Canada South,2023,proglacial_detached,0.2873023543334855,-0.0420952064426473
+arctic_canada_south,Arctic Canada South,2023,supraglacial,-0.1023430034937666,-0.0420952064426473
+caucasus_middle_east,Caucasus and Middle East,2000,proglacial_contacted,1.6654364236312642,-0.5710501783081375
+caucasus_middle_east,Caucasus and Middle East,2000,proglacial_detached,1.9686613483665736,-0.5710501783081375
+caucasus_middle_east,Caucasus and Middle East,2000,supraglacial,0.5535079150994396,-0.5710501783081375
+caucasus_middle_east,Caucasus and Middle East,2001,proglacial_contacted,0.0387364403031231,0.0304265469610721
+caucasus_middle_east,Caucasus and Middle East,2001,proglacial_detached,0.1334085964479036,0.0304265469610721
+caucasus_middle_east,Caucasus and Middle East,2001,supraglacial,0.6970853780678398,0.0304265469610721
+caucasus_middle_east,Caucasus and Middle East,2002,proglacial_contacted,-1.8514212000674133,0.9172690956355998
+caucasus_middle_east,Caucasus and Middle East,2002,proglacial_detached,-2.4724923699158907,0.9172690956355998
+caucasus_middle_east,Caucasus and Middle East,2002,supraglacial,-0.9736156436947154,0.9172690956355998
+caucasus_middle_east,Caucasus and Middle East,2003,proglacial_contacted,-1.117061886747268,0.932924316495539
+caucasus_middle_east,Caucasus and Middle East,2003,proglacial_detached,-1.116872811884276,0.932924316495539
+caucasus_middle_east,Caucasus and Middle East,2003,supraglacial,-1.1482575122623293,0.932924316495539
+caucasus_middle_east,Caucasus and Middle East,2004,proglacial_contacted,-0.1753120396508707,1.1302666688887606
+caucasus_middle_east,Caucasus and Middle East,2004,proglacial_detached,-0.9456836165909136,1.1302666688887606
+caucasus_middle_east,Caucasus and Middle East,2004,supraglacial,-0.843755503769885,1.1302666688887606
+caucasus_middle_east,Caucasus and Middle East,2005,proglacial_contacted,-0.8137519916551922,0.7959959616518342
+caucasus_middle_east,Caucasus and Middle East,2005,proglacial_detached,-0.5309347595079349,0.7959959616518342
+caucasus_middle_east,Caucasus and Middle East,2005,supraglacial,-0.879977498895224,0.7959959616518342
+caucasus_middle_east,Caucasus and Middle East,2006,proglacial_contacted,0.5194069150004682,-0.2515068660057248
+caucasus_middle_east,Caucasus and Middle East,2006,proglacial_detached,0.4780321710957102,-0.2515068660057248
+caucasus_middle_east,Caucasus and Middle East,2006,supraglacial,1.5581291609426169,-0.2515068660057248
+caucasus_middle_east,Caucasus and Middle East,2007,proglacial_contacted,0.6162656072234867,-0.6756594426110228
+caucasus_middle_east,Caucasus and Middle East,2007,proglacial_detached,0.3945182115098451,-0.6756594426110228
+caucasus_middle_east,Caucasus and Middle East,2007,supraglacial,1.3405687109574522,-0.6756594426110228
+caucasus_middle_east,Caucasus and Middle East,2008,proglacial_contacted,-0.3598031331387041,0.1802651442190191
+caucasus_middle_east,Caucasus and Middle East,2008,proglacial_detached,0.0885346966224771,0.1802651442190191
+caucasus_middle_east,Caucasus and Middle East,2008,supraglacial,0.38616595556681,0.1802651442190191
+caucasus_middle_east,Caucasus and Middle East,2009,proglacial_contacted,-0.4764889732653083,0.2655112366609146
+caucasus_middle_east,Caucasus and Middle East,2009,proglacial_detached,-0.586302960670566,0.2655112366609146
+caucasus_middle_east,Caucasus and Middle East,2009,supraglacial,-0.9532619888507556,0.2655112366609146
+caucasus_middle_east,Caucasus and Middle East,2010,proglacial_contacted,0.7682617767680878,-0.0882286157952788
+caucasus_middle_east,Caucasus and Middle East,2010,proglacial_detached,1.5324978316960824,-0.0882286157952788
+caucasus_middle_east,Caucasus and Middle East,2010,supraglacial,1.363663085394203,-0.0882286157952788
+caucasus_middle_east,Caucasus and Middle East,2011,proglacial_contacted,0.6675027019868381,0.025576066236901
+caucasus_middle_east,Caucasus and Middle East,2011,proglacial_detached,1.1859133856727262,0.025576066236901
+caucasus_middle_east,Caucasus and Middle East,2011,supraglacial,-0.2353678581997177,0.025576066236901
+caucasus_middle_east,Caucasus and Middle East,2012,proglacial_contacted,0.8543276630372777,-0.8930183605926946
+caucasus_middle_east,Caucasus and Middle East,2012,proglacial_detached,0.7143385393731193,-0.8930183605926946
+caucasus_middle_east,Caucasus and Middle East,2012,supraglacial,0.1586420901046561,-0.8930183605926946
+caucasus_middle_east,Caucasus and Middle East,2013,proglacial_contacted,-1.3790753630663128,0.4096174766573471
+caucasus_middle_east,Caucasus and Middle East,2013,proglacial_detached,-0.7303105094579844,0.4096174766573471
+caucasus_middle_east,Caucasus and Middle East,2013,supraglacial,-0.892526652917605,0.4096174766573471
+caucasus_middle_east,Caucasus and Middle East,2014,proglacial_contacted,-0.390445086616991,-0.4896949650267231
+caucasus_middle_east,Caucasus and Middle East,2014,proglacial_detached,-0.3001187721481857,-0.4896949650267231
+caucasus_middle_east,Caucasus and Middle East,2014,supraglacial,-0.8198845052963977,-0.4896949650267231
+caucasus_middle_east,Caucasus and Middle East,2015,proglacial_contacted,0.6846031902614044,-0.6900063125071246
+caucasus_middle_east,Caucasus and Middle East,2015,proglacial_detached,0.5251202412597619,-0.6900063125071246
+caucasus_middle_east,Caucasus and Middle East,2015,supraglacial,1.1119843784223131,-0.6900063125071246
+caucasus_middle_east,Caucasus and Middle East,2016,proglacial_contacted,0.2119214490078234,-0.0499419574411349
+caucasus_middle_east,Caucasus and Middle East,2016,proglacial_detached,0.3523535637317804,-0.0499419574411349
+caucasus_middle_east,Caucasus and Middle East,2016,supraglacial,-1.00221373615287,-0.0499419574411349
+caucasus_middle_east,Caucasus and Middle East,2017,proglacial_contacted,0.7245789200804423,-0.0971216247179199
+caucasus_middle_east,Caucasus and Middle East,2017,proglacial_detached,0.5502769134110097,-0.0971216247179199
+caucasus_middle_east,Caucasus and Middle East,2017,supraglacial,1.0363862995006603,-0.0971216247179199
+caucasus_middle_east,Caucasus and Middle East,2018,proglacial_contacted,1.0274921174411162,-0.0085936340059974
+caucasus_middle_east,Caucasus and Middle East,2018,proglacial_detached,0.8023752596870825,-0.0085936340059974
+caucasus_middle_east,Caucasus and Middle East,2018,supraglacial,-0.8634849962571179,-0.0085936340059974
+caucasus_middle_east,Caucasus and Middle East,2019,proglacial_contacted,-0.1425515811373499,-0.1821003718076733
+caucasus_middle_east,Caucasus and Middle East,2019,proglacial_detached,-1.0219370965381844,-0.1821003718076733
+caucasus_middle_east,Caucasus and Middle East,2019,supraglacial,-1.1425032627021314,-0.1821003718076733
+caucasus_middle_east,Caucasus and Middle East,2020,proglacial_contacted,1.5734125210379002,-0.7104045037863344
+caucasus_middle_east,Caucasus and Middle East,2020,proglacial_detached,0.6376906998766915,-0.7104045037863344
+caucasus_middle_east,Caucasus and Middle East,2020,supraglacial,1.6920869351721424,-0.7104045037863344
+caucasus_middle_east,Caucasus and Middle East,2021,proglacial_contacted,-0.1946844757729109,0.2455686582245628
+caucasus_middle_east,Caucasus and Middle East,2021,proglacial_detached,-0.0576498541638667,0.2455686582245628
+caucasus_middle_east,Caucasus and Middle East,2021,supraglacial,-0.1357589650804709,0.2455686582245628
+caucasus_middle_east,Caucasus and Middle East,2022,proglacial_contacted,0.4505083062304449,-0.1875573485874996
+caucasus_middle_east,Caucasus and Middle East,2022,proglacial_detached,0.3035179840835987,-0.1875573485874996
+caucasus_middle_east,Caucasus and Middle East,2022,supraglacial,0.955608216675384,-0.1875573485874996
+caucasus_middle_east,Caucasus and Middle East,2023,proglacial_contacted,-0.2284856104488684,-0.0385369904382831
+caucasus_middle_east,Caucasus and Middle East,2023,proglacial_detached,0.1053572996689479,-0.0385369904382831
+caucasus_middle_east,Caucasus and Middle East,2023,supraglacial,0.5524798897538534,-0.0385369904382831
+central_asia,Central Asia,2000,proglacial_contacted,-0.0277195560033414,0.2782967811988037
+central_asia,Central Asia,2000,proglacial_detached,-0.3977160012740537,0.2782967811988037
+central_asia,Central Asia,2000,supraglacial,-0.6950249779309299,0.2782967811988037
+central_asia,Central Asia,2001,proglacial_contacted,-0.0958764656241234,-0.072666980141468
+central_asia,Central Asia,2001,proglacial_detached,0.2142557043692117,-0.072666980141468
+central_asia,Central Asia,2001,supraglacial,-1.046929319267469,-0.072666980141468
+central_asia,Central Asia,2002,proglacial_contacted,-0.1924387266766721,0.0004646736929559
+central_asia,Central Asia,2002,proglacial_detached,-0.7599876589075021,0.0004646736929559
+central_asia,Central Asia,2002,supraglacial,-0.7066070439090114,0.0004646736929559
+central_asia,Central Asia,2003,proglacial_contacted,-2.044639541248578,0.4645318773906546
+central_asia,Central Asia,2003,proglacial_detached,-1.739576522135707,0.4645318773906546
+central_asia,Central Asia,2003,supraglacial,-1.7851945763607135,0.4645318773906546
+central_asia,Central Asia,2004,proglacial_contacted,-0.15762369241977,0.3845980316328853
+central_asia,Central Asia,2004,proglacial_detached,-0.3910968993674698,0.3845980316328853
+central_asia,Central Asia,2004,supraglacial,-0.4756208681930732,0.3845980316328853
+central_asia,Central Asia,2005,proglacial_contacted,0.0614661900935096,0.2836276272827932
+central_asia,Central Asia,2005,proglacial_detached,0.7867943655551487,0.2836276272827932
+central_asia,Central Asia,2005,supraglacial,-0.4814122260834869,0.2836276272827932
+central_asia,Central Asia,2006,proglacial_contacted,1.2789812927783435,-0.2976869658674665
+central_asia,Central Asia,2006,proglacial_detached,1.1324850016263104,-0.2976869658674665
+central_asia,Central Asia,2006,supraglacial,0.9828558143990628,-0.2976869658674665
+central_asia,Central Asia,2007,proglacial_contacted,1.363242536468033,-0.2183936357916528
+central_asia,Central Asia,2007,proglacial_detached,1.0601362722229548,-0.2183936357916528
+central_asia,Central Asia,2007,supraglacial,1.2952018780446155,-0.2183936357916528
+central_asia,Central Asia,2008,proglacial_contacted,0.7263948859666479,-0.4268089434011587
+central_asia,Central Asia,2008,proglacial_detached,0.7037898769565043,-0.4268089434011587
+central_asia,Central Asia,2008,supraglacial,1.3250005047958135,-0.4268089434011587
+central_asia,Central Asia,2009,proglacial_contacted,0.5959114778309366,0.6909769650347496
+central_asia,Central Asia,2009,proglacial_detached,0.7571682016032619,0.6909769650347496
+central_asia,Central Asia,2009,supraglacial,1.349297429492211,0.6909769650347496
+central_asia,Central Asia,2010,proglacial_contacted,0.184162714955725,-0.0032101971041209
+central_asia,Central Asia,2010,proglacial_detached,0.3833222275549204,-0.0032101971041209
+central_asia,Central Asia,2010,supraglacial,0.2748841262751966,-0.0032101971041209
+central_asia,Central Asia,2011,proglacial_contacted,1.3444757657975572,0.3140984045428697
+central_asia,Central Asia,2011,proglacial_detached,1.5582084855998952,0.3140984045428697
+central_asia,Central Asia,2011,supraglacial,1.427020127033744,0.3140984045428697
+central_asia,Central Asia,2012,proglacial_contacted,-1.8511643253921493,-0.0389107219172044
+central_asia,Central Asia,2012,proglacial_detached,-1.6695084453218096,-0.0389107219172044
+central_asia,Central Asia,2012,supraglacial,0.2981963216490937,-0.0389107219172044
+central_asia,Central Asia,2013,proglacial_contacted,0.51990191756738,0.0203304786608368
+central_asia,Central Asia,2013,proglacial_detached,0.9472327880689784,0.0203304786608368
+central_asia,Central Asia,2013,supraglacial,0.7191175364563664,0.0203304786608368
+central_asia,Central Asia,2014,proglacial_contacted,-1.481605001288525,0.1566216271541156
+central_asia,Central Asia,2014,proglacial_detached,-1.95358949996696,0.1566216271541156
+central_asia,Central Asia,2014,supraglacial,-0.7348510184567835,0.1566216271541156
+central_asia,Central Asia,2015,proglacial_contacted,1.1309702827578618,-0.1923336644586917
+central_asia,Central Asia,2015,proglacial_detached,0.9404259291710952,-0.1923336644586917
+central_asia,Central Asia,2015,supraglacial,0.5287648681150349,-0.1923336644586917
+central_asia,Central Asia,2016,proglacial_contacted,-0.0385951143819498,0.1809552369386261
+central_asia,Central Asia,2016,proglacial_detached,-0.0433633138281421,0.1809552369386261
+central_asia,Central Asia,2016,supraglacial,0.0928946101542317,0.1809552369386261
+central_asia,Central Asia,2017,proglacial_contacted,-0.4805325293416844,-0.026318645043271
+central_asia,Central Asia,2017,proglacial_detached,-0.3733016845421235,-0.026318645043271
+central_asia,Central Asia,2017,supraglacial,-0.0813686364469994,-0.026318645043271
+central_asia,Central Asia,2018,proglacial_contacted,-0.2931890323454503,-0.3054844497607468
+central_asia,Central Asia,2018,proglacial_detached,-0.846266442616965,-0.3054844497607468
+central_asia,Central Asia,2018,supraglacial,0.010375233417741,-0.3054844497607468
+central_asia,Central Asia,2019,proglacial_contacted,-1.9509158032197504,-0.2182006979433403
+central_asia,Central Asia,2019,proglacial_detached,-1.5510700053951312,-0.2182006979433403
+central_asia,Central Asia,2019,supraglacial,-0.1658961785878301,-0.2182006979433403
+central_asia,Central Asia,2020,proglacial_contacted,-0.3974575950988771,0.3134188581606988
+central_asia,Central Asia,2020,proglacial_detached,-0.6062231336996813,0.3134188581606988
+central_asia,Central Asia,2020,supraglacial,-0.4296200341850282,0.3134188581606988
+central_asia,Central Asia,2021,proglacial_contacted,-0.1960783125665663,-0.0261003109996773
+central_asia,Central Asia,2021,proglacial_detached,-0.1170802792163453,-0.0261003109996773
+central_asia,Central Asia,2021,supraglacial,0.3174210942366341,-0.0261003109996773
+central_asia,Central Asia,2022,proglacial_contacted,1.7210068910507517,-0.635301729888802
+central_asia,Central Asia,2022,proglacial_detached,1.4735136102147517,-0.635301729888802
+central_asia,Central Asia,2022,supraglacial,0.4266055272214978,-0.635301729888802
+central_asia,Central Asia,2023,proglacial_contacted,0.2665085916606002,-0.6265036193723892
+central_asia,Central Asia,2023,proglacial_detached,0.4012295710672858,-0.6265036193723892
+central_asia,Central Asia,2023,supraglacial,0.5123554948022473,-0.6265036193723892
+central_europe,Central Europe,2000,proglacial_contacted,0.9920109647606008,0.7834886260791154
+central_europe,Central Europe,2000,proglacial_detached,1.333467302098119,0.7834886260791154
+central_europe,Central Europe,2000,supraglacial,0.8558921127995094,0.7834886260791154
+central_europe,Central Europe,2001,proglacial_contacted,-0.4744890570533666,1.251601176388748
+central_europe,Central Europe,2001,proglacial_detached,-0.1967099163539566,1.251601176388748
+central_europe,Central Europe,2001,supraglacial,-0.0757075283296584,1.251601176388748
+central_europe,Central Europe,2002,proglacial_contacted,-1.5834183316612944,0.7010142193576816
+central_europe,Central Europe,2002,proglacial_detached,-1.3152100411962864,0.7010142193576816
+central_europe,Central Europe,2002,supraglacial,-0.3699386221054498,0.7010142193576816
+central_europe,Central Europe,2003,proglacial_contacted,0.6818980975895329,-0.9122355262256824
+central_europe,Central Europe,2003,proglacial_detached,1.0006757040180594,-0.9122355262256824
+central_europe,Central Europe,2003,supraglacial,-0.5964946503929471,-0.9122355262256824
+central_europe,Central Europe,2004,proglacial_contacted,0.6153056506228921,0.3618925633116459
+central_europe,Central Europe,2004,proglacial_detached,0.6987678504204968,0.3618925633116459
+central_europe,Central Europe,2004,supraglacial,-0.5577870360616383,0.3618925633116459
+central_europe,Central Europe,2005,proglacial_contacted,0.0151401097913886,0.1695760428304006
+central_europe,Central Europe,2005,proglacial_detached,-0.7546088224776794,0.1695760428304006
+central_europe,Central Europe,2005,supraglacial,-0.8926092417279475,0.1695760428304006
+central_europe,Central Europe,2006,proglacial_contacted,-0.6559056932753461,-0.1074677961138454
+central_europe,Central Europe,2006,proglacial_detached,0.3792850620598625,-0.1074677961138454
+central_europe,Central Europe,2006,supraglacial,-0.8257491567909085,-0.1074677961138454
+central_europe,Central Europe,2007,proglacial_contacted,0.1523165067650476,0.2713853519713035
+central_europe,Central Europe,2007,proglacial_detached,0.398326899683419,0.2713853519713035
+central_europe,Central Europe,2007,supraglacial,-0.6863161903062559,0.2713853519713035
+central_europe,Central Europe,2008,proglacial_contacted,0.3267176732442523,0.2988566068819098
+central_europe,Central Europe,2008,proglacial_detached,0.063623349742808,0.2988566068819098
+central_europe,Central Europe,2008,supraglacial,0.1586412107706994,0.2988566068819098
+central_europe,Central Europe,2009,proglacial_contacted,1.4936876821017229,0.2538690188457446
+central_europe,Central Europe,2009,proglacial_detached,1.1569599087512967,0.2538690188457446
+central_europe,Central Europe,2009,supraglacial,1.1071888090330808,0.2538690188457446
+central_europe,Central Europe,2010,proglacial_contacted,0.4074438360965067,0.5284364525170213
+central_europe,Central Europe,2010,proglacial_detached,0.0464393039911175,0.5284364525170213
+central_europe,Central Europe,2010,supraglacial,-0.5829053037100802,0.5284364525170213
+central_europe,Central Europe,2011,proglacial_contacted,1.9674697431520347,-0.2368670019271785
+central_europe,Central Europe,2011,proglacial_detached,1.467149462557262,-0.2368670019271785
+central_europe,Central Europe,2011,supraglacial,2.261114664265835,-0.2368670019271785
+central_europe,Central Europe,2012,proglacial_contacted,-0.8086946868101017,-0.4092331301909206
+central_europe,Central Europe,2012,proglacial_detached,-1.4131892384846687,-0.4092331301909206
+central_europe,Central Europe,2012,supraglacial,0.6121229249437723,-0.4092331301909206
+central_europe,Central Europe,2013,proglacial_contacted,-2.243371615855861,0.7593595332286702
+central_europe,Central Europe,2013,proglacial_detached,-1.4719592959179315,0.7593595332286702
+central_europe,Central Europe,2013,supraglacial,0.0655817737205002,0.7593595332286702
+central_europe,Central Europe,2014,proglacial_contacted,-2.041700943429894,0.8748122903925191
+central_europe,Central Europe,2014,proglacial_detached,-2.519470225155396,0.8748122903925191
+central_europe,Central Europe,2014,supraglacial,-0.2392117017755413,0.8748122903925191
+central_europe,Central Europe,2015,proglacial_contacted,-0.1992754263708014,-0.546308695283463
+central_europe,Central Europe,2015,proglacial_detached,-0.6178843921170523,-0.546308695283463
+central_europe,Central Europe,2015,supraglacial,-0.4921410862105427,-0.546308695283463
+central_europe,Central Europe,2016,proglacial_contacted,0.339186917212078,0.3049822514682929
+central_europe,Central Europe,2016,proglacial_detached,-0.0723699925433235,0.3049822514682929
+central_europe,Central Europe,2016,supraglacial,0.6453499422114864,0.3049822514682929
+central_europe,Central Europe,2017,proglacial_contacted,-0.2556040156429986,-0.3721967832575799
+central_europe,Central Europe,2017,proglacial_detached,-1.1389913766238258,-0.3721967832575799
+central_europe,Central Europe,2017,supraglacial,0.7064618437405549,-0.3721967832575799
+central_europe,Central Europe,2018,proglacial_contacted,-0.0230511134041523,-0.3037957265319626
+central_europe,Central Europe,2018,proglacial_detached,-0.4658929295351519,-0.3037957265319626
+central_europe,Central Europe,2018,supraglacial,0.2863232768577406,-0.3037957265319626
+central_europe,Central Europe,2019,proglacial_contacted,0.5620306599758043,-0.0253240362721951
+central_europe,Central Europe,2019,proglacial_detached,0.0174544223489741,-0.0253240362721951
+central_europe,Central Europe,2019,supraglacial,1.5335422174733486,-0.0253240362721951
+central_europe,Central Europe,2020,proglacial_contacted,0.1073716914841767,0.3310627411207825
+central_europe,Central Europe,2020,proglacial_detached,0.4178191566829501,0.3310627411207825
+central_europe,Central Europe,2020,supraglacial,1.1162283128332595,0.3310627411207825
+central_europe,Central Europe,2021,proglacial_contacted,-1.3700224728626815,0.1448568676245811
+central_europe,Central Europe,2021,proglacial_detached,0.1011929412049008,0.1448568676245811
+central_europe,Central Europe,2021,supraglacial,-2.960250918046142,0.1448568676245811
+central_europe,Central Europe,2022,proglacial_contacted,0.6981490861047986,-2.591480799257846
+central_europe,Central Europe,2022,proglacial_detached,0.761286069407931,-2.591480799257846
+central_europe,Central Europe,2022,supraglacial,0.0630335554090742,-2.591480799257846
+central_europe,Central Europe,2023,proglacial_contacted,0.6094377214034713,-1.530284246957743
+central_europe,Central Europe,2023,proglacial_detached,0.7776430089605195,-1.530284246957743
+central_europe,Central Europe,2023,supraglacial,-0.3182303478653865,-1.530284246957743
+greenland_periphery,Greenland Periphery,2000,proglacial_contacted,-0.6921895233647911,-0.0169191944981665
+greenland_periphery,Greenland Periphery,2000,proglacial_detached,-0.5095086265484765,-0.0169191944981665
+greenland_periphery,Greenland Periphery,2000,supraglacial,-0.6000535500196125,-0.0169191944981665
+greenland_periphery,Greenland Periphery,2001,proglacial_contacted,-0.8760377936413005,0.1041046454831584
+greenland_periphery,Greenland Periphery,2001,proglacial_detached,-0.4876518505717779,0.1041046454831584
+greenland_periphery,Greenland Periphery,2001,supraglacial,-0.3235977710583154,0.1041046454831584
+greenland_periphery,Greenland Periphery,2002,proglacial_contacted,-0.4007407586569383,0.3937253608818808
+greenland_periphery,Greenland Periphery,2002,proglacial_detached,-0.2803678845183286,0.3937253608818808
+greenland_periphery,Greenland Periphery,2002,supraglacial,-0.6215053224770803,0.3937253608818808
+greenland_periphery,Greenland Periphery,2003,proglacial_contacted,-1.3790572261352272,0.690549253115337
+greenland_periphery,Greenland Periphery,2003,proglacial_detached,-1.2442265721394996,0.690549253115337
+greenland_periphery,Greenland Periphery,2003,supraglacial,-1.7233486476521631,0.690549253115337
+greenland_periphery,Greenland Periphery,2004,proglacial_contacted,-0.0272676403060051,0.1956638609209894
+greenland_periphery,Greenland Periphery,2004,proglacial_detached,0.340423409224822,0.1956638609209894
+greenland_periphery,Greenland Periphery,2004,supraglacial,-0.1033974966226548,0.1956638609209894
+greenland_periphery,Greenland Periphery,2005,proglacial_contacted,0.0641230972638683,-0.4146365974796421
+greenland_periphery,Greenland Periphery,2005,proglacial_detached,-0.1785448941435513,-0.4146365974796421
+greenland_periphery,Greenland Periphery,2005,supraglacial,-0.0743223470195676,-0.4146365974796421
+greenland_periphery,Greenland Periphery,2006,proglacial_contacted,0.4799277777662113,0.3060619876912246
+greenland_periphery,Greenland Periphery,2006,proglacial_detached,-0.0624327218102578,0.3060619876912246
+greenland_periphery,Greenland Periphery,2006,supraglacial,0.4096035483416366,0.3060619876912246
+greenland_periphery,Greenland Periphery,2007,proglacial_contacted,1.0354553342162258,-0.2028417246816472
+greenland_periphery,Greenland Periphery,2007,proglacial_detached,0.6138194308608599,-0.2028417246816472
+greenland_periphery,Greenland Periphery,2007,supraglacial,0.6245762528612444,-0.2028417246816472
+greenland_periphery,Greenland Periphery,2008,proglacial_contacted,1.0681734456475604,0.0672240193233561
+greenland_periphery,Greenland Periphery,2008,proglacial_detached,1.1149894463293084,0.0672240193233561
+greenland_periphery,Greenland Periphery,2008,supraglacial,0.9541351512082208,0.0672240193233561
+greenland_periphery,Greenland Periphery,2009,proglacial_contacted,1.437291112899313,-0.0909904149759232
+greenland_periphery,Greenland Periphery,2009,proglacial_detached,1.4506351238394424,-0.0909904149759232
+greenland_periphery,Greenland Periphery,2009,supraglacial,1.51372622909965,-0.0909904149759232
+greenland_periphery,Greenland Periphery,2010,proglacial_contacted,1.3965995005189002,-0.3302379139533299
+greenland_periphery,Greenland Periphery,2010,proglacial_detached,0.969054942248994,-0.3302379139533299
+greenland_periphery,Greenland Periphery,2010,supraglacial,0.7343242464464569,-0.3302379139533299
+greenland_periphery,Greenland Periphery,2011,proglacial_contacted,0.9168540620625972,-0.4621251595441323
+greenland_periphery,Greenland Periphery,2011,proglacial_detached,1.0682388068100517,-0.4621251595441323
+greenland_periphery,Greenland Periphery,2011,supraglacial,1.352548073270112,-0.4621251595441323
+greenland_periphery,Greenland Periphery,2012,proglacial_contacted,1.4639851150759973,-0.1145353823317187
+greenland_periphery,Greenland Periphery,2012,proglacial_detached,1.3817759010855233,-0.1145353823317187
+greenland_periphery,Greenland Periphery,2012,supraglacial,1.0208629033181686,-0.1145353823317187
+greenland_periphery,Greenland Periphery,2013,proglacial_contacted,1.3840193473414577,-0.0291558879108845
+greenland_periphery,Greenland Periphery,2013,proglacial_detached,1.417937888540333,-0.0291558879108845
+greenland_periphery,Greenland Periphery,2013,supraglacial,2.416452085298674,-0.0291558879108845
+greenland_periphery,Greenland Periphery,2014,proglacial_contacted,-1.3443334092759591,0.4793631726809647
+greenland_periphery,Greenland Periphery,2014,proglacial_detached,-1.1902244091972465,0.4793631726809647
+greenland_periphery,Greenland Periphery,2014,supraglacial,-1.671307236165893,0.4793631726809647
+greenland_periphery,Greenland Periphery,2015,proglacial_contacted,-1.3301320175902285,0.3257884002330087
+greenland_periphery,Greenland Periphery,2015,proglacial_detached,-1.3816279539857734,0.3257884002330087
+greenland_periphery,Greenland Periphery,2015,supraglacial,-0.2802439487233206,0.3257884002330087
+greenland_periphery,Greenland Periphery,2016,proglacial_contacted,-1.1913305438407362,-0.244498989996797
+greenland_periphery,Greenland Periphery,2016,proglacial_detached,-0.9803319065853752,-0.244498989996797
+greenland_periphery,Greenland Periphery,2016,supraglacial,-0.7910469848199191,-0.244498989996797
+greenland_periphery,Greenland Periphery,2017,proglacial_contacted,-1.1730549598238755,0.5472416475540441
+greenland_periphery,Greenland Periphery,2017,proglacial_detached,-1.2453135728430995,0.5472416475540441
+greenland_periphery,Greenland Periphery,2017,supraglacial,-1.105865688501762,0.5472416475540441
+greenland_periphery,Greenland Periphery,2018,proglacial_contacted,-0.7917277542615415,0.6047744350975683
+greenland_periphery,Greenland Periphery,2018,proglacial_detached,-1.7888027819190015,0.6047744350975683
+greenland_periphery,Greenland Periphery,2018,supraglacial,-1.1872906211621654,0.6047744350975683
+greenland_periphery,Greenland Periphery,2019,proglacial_contacted,-0.9094411573907116,-0.5248801560622287
+greenland_periphery,Greenland Periphery,2019,proglacial_detached,-0.3640894810798165,-0.5248801560622287
+greenland_periphery,Greenland Periphery,2019,supraglacial,-0.929606273384286,-0.5248801560622287
+greenland_periphery,Greenland Periphery,2020,proglacial_contacted,-0.6833893075696441,-0.0780697919030139
+greenland_periphery,Greenland Periphery,2020,proglacial_detached,-0.7919509882060873,-0.0780697919030139
+greenland_periphery,Greenland Periphery,2020,supraglacial,-0.6899023331264116,-0.0780697919030139
+greenland_periphery,Greenland Periphery,2021,proglacial_contacted,-0.6150555176721951,-0.2699333708234095
+greenland_periphery,Greenland Periphery,2021,proglacial_detached,-0.6209608433149035,-0.2699333708234095
+greenland_periphery,Greenland Periphery,2021,supraglacial,-0.228419256720089,-0.2699333708234095
+greenland_periphery,Greenland Periphery,2022,proglacial_contacted,0.5078470501824173,-0.1875411279545752
+greenland_periphery,Greenland Periphery,2022,proglacial_detached,0.5209348567695229,-0.1875411279545752
+greenland_periphery,Greenland Periphery,2022,supraglacial,0.2349355999582159,-0.1875411279545752
+greenland_periphery,Greenland Periphery,2023,proglacial_contacted,0.7269710068522777,-0.7481310708660625
+greenland_periphery,Greenland Periphery,2023,proglacial_detached,1.220762087548116,-0.7481310708660625
+greenland_periphery,Greenland Periphery,2023,supraglacial,0.5813135452202081,-0.7481310708660625
+iceland,Iceland,2000,proglacial_contacted,-0.373376315670017,-0.3209598530948557
+iceland,Iceland,2000,proglacial_detached,0.7478504004920301,-0.3209598530948557
+iceland,Iceland,2000,supraglacial,0.059328516663729,-0.3209598530948557
+iceland,Iceland,2001,proglacial_contacted,-1.1269392233095823,0.0629537448695601
+iceland,Iceland,2001,proglacial_detached,-1.3751021780660997,0.0629537448695601
+iceland,Iceland,2001,supraglacial,0.3692933637443344,0.0629537448695601
+iceland,Iceland,2002,proglacial_contacted,-0.7786020895771306,0.1891216402130825
+iceland,Iceland,2002,proglacial_detached,-0.8841731220354957,0.1891216402130825
+iceland,Iceland,2002,supraglacial,-0.9219159077866472,0.1891216402130825
+iceland,Iceland,2003,proglacial_contacted,-0.91263902131214,-0.4351363350292755
+iceland,Iceland,2003,proglacial_detached,-0.1817997748368977,-0.4351363350292755
+iceland,Iceland,2003,supraglacial,-0.5249651369091864,-0.4351363350292755
+iceland,Iceland,2004,proglacial_contacted,-1.0476984660442912,-0.6950512092942108
+iceland,Iceland,2004,proglacial_detached,-0.1822999401529862,-0.6950512092942108
+iceland,Iceland,2004,supraglacial,-1.525154816297924,-0.6950512092942108
+iceland,Iceland,2005,proglacial_contacted,-0.245090638988452,-0.6507018432540866
+iceland,Iceland,2005,proglacial_detached,0.4746609641753053,-0.6507018432540866
+iceland,Iceland,2005,supraglacial,-0.7795804814896363,-0.6507018432540866
+iceland,Iceland,2006,proglacial_contacted,0.3638698268605841,0.1392588080954152
+iceland,Iceland,2006,proglacial_detached,1.0301013923796685,0.1392588080954152
+iceland,Iceland,2006,supraglacial,0.642931192189039,0.1392588080954152
+iceland,Iceland,2007,proglacial_contacted,0.6305350348819263,-0.1827100941941437
+iceland,Iceland,2007,proglacial_detached,-0.5772930045342355,-0.1827100941941437
+iceland,Iceland,2007,supraglacial,-0.6393943163106728,-0.1827100941941437
+iceland,Iceland,2008,proglacial_contacted,0.925543302806237,-0.2972050088204151
+iceland,Iceland,2008,proglacial_detached,0.0523019866961452,-0.2972050088204151
+iceland,Iceland,2008,supraglacial,0.0340521508842368,-0.2972050088204151
+iceland,Iceland,2009,proglacial_contacted,1.7333643235160678,0.5072242804239521
+iceland,Iceland,2009,proglacial_detached,1.3017650238275655,0.5072242804239521
+iceland,Iceland,2009,supraglacial,1.389595671978968,0.5072242804239521
+iceland,Iceland,2010,proglacial_contacted,1.0764001778130423,-2.1143502963624625
+iceland,Iceland,2010,proglacial_detached,0.2845852201534556,-2.1143502963624625
+iceland,Iceland,2010,supraglacial,0.8590136342664095,-2.1143502963624625
+iceland,Iceland,2011,proglacial_contacted,1.656685622800055,0.0064295656443947
+iceland,Iceland,2011,proglacial_detached,1.3921987958690527,0.0064295656443947
+iceland,Iceland,2011,supraglacial,2.354960487700277,0.0064295656443947
+iceland,Iceland,2012,proglacial_contacted,1.5663718973715366,0.1362205266611561
+iceland,Iceland,2012,proglacial_detached,1.7756802994526062,0.1362205266611561
+iceland,Iceland,2012,supraglacial,1.9054497039471483,0.1362205266611561
+iceland,Iceland,2013,proglacial_contacted,2.2340289303723,0.6078991167744364
+iceland,Iceland,2013,proglacial_detached,1.341966400962979,0.6078991167744364
+iceland,Iceland,2013,supraglacial,1.703210530339342,0.6078991167744364
+iceland,Iceland,2014,proglacial_contacted,-0.9597202453396152,0.4651737053964795
+iceland,Iceland,2014,proglacial_detached,-1.6292367043420306,0.4651737053964795
+iceland,Iceland,2014,supraglacial,-0.5060702034276481,0.4651737053964795
+iceland,Iceland,2015,proglacial_contacted,-1.1797770915798234,1.4560029126900504
+iceland,Iceland,2015,proglacial_detached,-1.8393726472063736,1.4560029126900504
+iceland,Iceland,2015,supraglacial,-0.9394382817968256,1.4560029126900504
+iceland,Iceland,2016,proglacial_contacted,-0.7419319462192489,-0.0748057447762557
+iceland,Iceland,2016,proglacial_detached,-0.996514599944076,-0.0748057447762557
+iceland,Iceland,2016,supraglacial,-1.1544411705441586,-0.0748057447762557
+iceland,Iceland,2017,proglacial_contacted,-0.5859109816959858,0.5811327095548264
+iceland,Iceland,2017,proglacial_detached,-0.7852549922004785,0.5811327095548264
+iceland,Iceland,2017,supraglacial,-1.0515392770890497,0.5811327095548264
+iceland,Iceland,2018,proglacial_contacted,-1.0139758251488469,0.6551513612338011
+iceland,Iceland,2018,proglacial_detached,-1.1047731594837318,0.6551513612338011
+iceland,Iceland,2018,supraglacial,-0.8811354903786971,0.6551513612338011
+iceland,Iceland,2019,proglacial_contacted,-0.6540965767591366,-0.2053093873451817
+iceland,Iceland,2019,proglacial_detached,-0.59831218664118,-0.2053093873451817
+iceland,Iceland,2019,supraglacial,-0.7115297645758235,-0.2053093873451817
+iceland,Iceland,2020,proglacial_contacted,-0.2940477220925336,-0.1143567748211326
+iceland,Iceland,2020,proglacial_detached,-0.3582401860144966,-0.1143567748211326
+iceland,Iceland,2020,supraglacial,-0.168215187295489,-0.1143567748211326
+iceland,Iceland,2021,proglacial_contacted,-0.4728404165982969,-0.4540272184659316
+iceland,Iceland,2021,proglacial_detached,-0.014754174692782,-0.4540272184659316
+iceland,Iceland,2021,supraglacial,-0.302610000440093,-0.4540272184659316
+iceland,Iceland,2022,proglacial_contacted,0.4199901630952987,0.9798377990221468
+iceland,Iceland,2022,proglacial_detached,0.2360366657787017,0.9798377990221468
+iceland,Iceland,2022,supraglacial,0.4012046547885088,0.9798377990221468
+iceland,Iceland,2023,proglacial_contacted,0.0918821955587553,-0.2417924051213505
+iceland,Iceland,2023,proglacial_detached,1.2732348009402743,-0.2417924051213505
+iceland,Iceland,2023,supraglacial,0.1053885582236705,-0.2417924051213505
+low_latitudes,Low Latitudes,2000,proglacial_contacted,0.7554828910143178,0.5785340144254496
+low_latitudes,Low Latitudes,2000,proglacial_detached,1.2085841463951883,0.5785340144254496
+low_latitudes,Low Latitudes,2000,supraglacial,-0.0401551351018935,0.5785340144254496
+low_latitudes,Low Latitudes,2001,proglacial_contacted,0.3459284579155783,0.2883945020627879
+low_latitudes,Low Latitudes,2001,proglacial_detached,1.2790647153817387,0.2883945020627879
+low_latitudes,Low Latitudes,2001,supraglacial,-0.4183362849084865,0.2883945020627879
+low_latitudes,Low Latitudes,2002,proglacial_contacted,-2.926452719303114,-0.1402788415825001
+low_latitudes,Low Latitudes,2002,proglacial_detached,-3.4037406068320566,-0.1402788415825001
+low_latitudes,Low Latitudes,2002,supraglacial,-2.4627272788313324,-0.1402788415825001
+low_latitudes,Low Latitudes,2003,proglacial_contacted,0.0873009058073003,-0.2777276070502076
+low_latitudes,Low Latitudes,2003,proglacial_detached,0.2825030271925748,-0.2777276070502076
+low_latitudes,Low Latitudes,2003,supraglacial,-0.2776446895784575,-0.2777276070502076
+low_latitudes,Low Latitudes,2004,proglacial_contacted,0.5727753493437375,-0.6799321263961873
+low_latitudes,Low Latitudes,2004,proglacial_detached,0.1383761172196298,-0.6799321263961873
+low_latitudes,Low Latitudes,2004,supraglacial,-0.6707730710976321,-0.6799321263961873
+low_latitudes,Low Latitudes,2005,proglacial_contacted,0.910363740552542,-0.8330211730052974
+low_latitudes,Low Latitudes,2005,proglacial_detached,0.7962131713805698,-0.8330211730052974
+low_latitudes,Low Latitudes,2005,supraglacial,0.7779927139688206,-0.8330211730052974
+low_latitudes,Low Latitudes,2006,proglacial_contacted,0.5124996042334041,0.1239899678348251
+low_latitudes,Low Latitudes,2006,proglacial_detached,0.6689751310813951,0.1239899678348251
+low_latitudes,Low Latitudes,2006,supraglacial,0.7118381701649698,0.1239899678348251
+low_latitudes,Low Latitudes,2007,proglacial_contacted,0.9890010744250644,0.5574141488151183
+low_latitudes,Low Latitudes,2007,proglacial_detached,0.617629172748588,0.5574141488151183
+low_latitudes,Low Latitudes,2007,supraglacial,0.5655499445854649,0.5574141488151183
+low_latitudes,Low Latitudes,2008,proglacial_contacted,0.8223778445736257,0.9260701539410764
+low_latitudes,Low Latitudes,2008,proglacial_detached,0.3710307423694808,0.9260701539410764
+low_latitudes,Low Latitudes,2008,supraglacial,0.7087534355370043,0.9260701539410764
+low_latitudes,Low Latitudes,2009,proglacial_contacted,0.5082303538698237,-0.456796943749777
+low_latitudes,Low Latitudes,2009,proglacial_detached,-0.0109576970725554,-0.456796943749777
+low_latitudes,Low Latitudes,2009,supraglacial,0.1180374036304041,-0.456796943749777
+low_latitudes,Low Latitudes,2010,proglacial_contacted,0.7055035404192029,-0.4686119410021119
+low_latitudes,Low Latitudes,2010,proglacial_detached,0.3132445298175119,-0.4686119410021119
+low_latitudes,Low Latitudes,2010,supraglacial,1.2191397280579954,-0.4686119410021119
+low_latitudes,Low Latitudes,2011,proglacial_contacted,0.1659703849742479,0.3599273804076833
+low_latitudes,Low Latitudes,2011,proglacial_detached,-0.0841916152489457,0.3599273804076833
+low_latitudes,Low Latitudes,2011,supraglacial,0.7258357227117139,0.3599273804076833
+low_latitudes,Low Latitudes,2012,proglacial_contacted,-0.5979843914679498,0.4115857903814564
+low_latitudes,Low Latitudes,2012,proglacial_detached,-0.8954637153166731,0.4115857903814564
+low_latitudes,Low Latitudes,2012,supraglacial,0.6244497630244763,0.4115857903814564
+low_latitudes,Low Latitudes,2013,proglacial_contacted,-0.9662145746160076,0.143077403353997
+low_latitudes,Low Latitudes,2013,proglacial_detached,-0.4697041575058101,0.143077403353997
+low_latitudes,Low Latitudes,2013,supraglacial,-0.5118313763464608,0.143077403353997
+low_latitudes,Low Latitudes,2014,proglacial_contacted,-0.9531433233921603,0.2983143930321622
+low_latitudes,Low Latitudes,2014,proglacial_detached,-0.5674171993539687,0.2983143930321622
+low_latitudes,Low Latitudes,2014,supraglacial,-0.3756576807667822,0.2983143930321622
+low_latitudes,Low Latitudes,2015,proglacial_contacted,-0.3877243308415947,-0.4542360998982148
+low_latitudes,Low Latitudes,2015,proglacial_detached,0.0060644970003653,-0.4542360998982148
+low_latitudes,Low Latitudes,2015,supraglacial,0.2530784192636607,-0.4542360998982148
+low_latitudes,Low Latitudes,2016,proglacial_contacted,-0.176384874369144,-0.8240689781359414
+low_latitudes,Low Latitudes,2016,proglacial_detached,-0.1961375620472328,-0.8240689781359414
+low_latitudes,Low Latitudes,2016,supraglacial,0.4628664125458808,-0.8240689781359414
+low_latitudes,Low Latitudes,2017,proglacial_contacted,-0.651296478789304,0.0764474473743074
+low_latitudes,Low Latitudes,2017,proglacial_detached,-0.7106064033836111,0.0764474473743074
+low_latitudes,Low Latitudes,2017,supraglacial,0.3171658340247423,0.0764474473743074
+low_latitudes,Low Latitudes,2018,proglacial_contacted,-2.1127623686256323,0.3661659443346674
+low_latitudes,Low Latitudes,2018,proglacial_detached,-1.6105335178724751,0.3661659443346674
+low_latitudes,Low Latitudes,2018,supraglacial,-1.154598688701339,0.3661659443346674
+low_latitudes,Low Latitudes,2019,proglacial_contacted,-0.3918672647411707,-0.0742705320081704
+low_latitudes,Low Latitudes,2019,proglacial_detached,-0.2850674529506253,-0.0742705320081704
+low_latitudes,Low Latitudes,2019,supraglacial,0.6254467049450655,-0.0742705320081704
+low_latitudes,Low Latitudes,2020,proglacial_contacted,-0.3125162684870015,0.1067822934000465
+low_latitudes,Low Latitudes,2020,proglacial_detached,-0.2173446413322644,0.1067822934000465
+low_latitudes,Low Latitudes,2020,supraglacial,0.7028619059022959,0.1067822934000465
+low_latitudes,Low Latitudes,2021,proglacial_contacted,-0.2235081148463891,0.4745139387204836
+low_latitudes,Low Latitudes,2021,proglacial_detached,-0.2380214521247001,0.4745139387204836
+low_latitudes,Low Latitudes,2021,supraglacial,0.0563541119181208,0.4745139387204836
+low_latitudes,Low Latitudes,2022,proglacial_contacted,0.5386073521770663,0.4240066321761134
+low_latitudes,Low Latitudes,2022,proglacial_detached,0.4919148663058773,0.4240066321761134
+low_latitudes,Low Latitudes,2022,supraglacial,0.4799403605158462,0.4240066321761134
+low_latitudes,Low Latitudes,2023,proglacial_contacted,1.1286671217157682,-0.9262797674317678
+low_latitudes,Low Latitudes,2023,proglacial_detached,0.7887407921962034,-0.9262797674317678
+low_latitudes,Low Latitudes,2023,supraglacial,0.7402183416503678,-0.9262797674317678
+new_zealand,New Zealand,2000,proglacial_contacted,-0.4247000004101138,1.0506646904153625
+new_zealand,New Zealand,2000,proglacial_detached,-1.491796297629147,1.0506646904153625
+new_zealand,New Zealand,2000,supraglacial,-0.7625318481166885,1.0506646904153625
+new_zealand,New Zealand,2001,proglacial_contacted,-0.3070458046330888,-0.008437766264569
+new_zealand,New Zealand,2001,proglacial_detached,0.9113319810561792,-0.008437766264569
+new_zealand,New Zealand,2001,supraglacial,-0.0732708740383172,-0.008437766264569
+new_zealand,New Zealand,2002,proglacial_contacted,-0.1735774221141967,-0.0997026244387839
+new_zealand,New Zealand,2002,proglacial_detached,0.9123928618154976,-0.0997026244387839
+new_zealand,New Zealand,2002,supraglacial,0.0993310558697465,-0.0997026244387839
+new_zealand,New Zealand,2003,proglacial_contacted,0.5171961233555414,-0.5911680894513764
+new_zealand,New Zealand,2003,proglacial_detached,-0.0607672484161768,-0.5911680894513764
+new_zealand,New Zealand,2003,supraglacial,-0.8763162587866281,-0.5911680894513764
+new_zealand,New Zealand,2004,proglacial_contacted,0.6574088382353105,0.3959235664047609
+new_zealand,New Zealand,2004,proglacial_detached,0.1771884593336011,0.3959235664047609
+new_zealand,New Zealand,2004,supraglacial,-0.1118862630832336,0.3959235664047609
+new_zealand,New Zealand,2005,proglacial_contacted,-0.9022625500885588,1.1586620928726656
+new_zealand,New Zealand,2005,proglacial_detached,-0.7569549201627986,1.1586620928726656
+new_zealand,New Zealand,2005,supraglacial,-0.1478249305646635,1.1586620928726656
+new_zealand,New Zealand,2006,proglacial_contacted,0.937067056545616,1.864021488549776
+new_zealand,New Zealand,2006,proglacial_detached,0.6899224126620898,1.864021488549776
+new_zealand,New Zealand,2006,supraglacial,1.082109077266234,1.864021488549776
+new_zealand,New Zealand,2007,proglacial_contacted,0.5468175198733815,0.3113565774632938
+new_zealand,New Zealand,2007,proglacial_detached,1.0435283312604895,0.3113565774632938
+new_zealand,New Zealand,2007,supraglacial,0.7679553817331405,0.3113565774632938
+new_zealand,New Zealand,2008,proglacial_contacted,-1.4378710019636805,-1.424245454851992
+new_zealand,New Zealand,2008,proglacial_detached,-0.0587979765533475,-1.424245454851992
+new_zealand,New Zealand,2008,supraglacial,-1.1446143595798608,-1.424245454851992
+new_zealand,New Zealand,2009,proglacial_contacted,-0.3367987457552943,0.8493267233806725
+new_zealand,New Zealand,2009,proglacial_detached,-0.2006704012704267,0.8493267233806725
+new_zealand,New Zealand,2009,supraglacial,0.1675330933762171,0.8493267233806725
+new_zealand,New Zealand,2010,proglacial_contacted,0.695866728768114,-0.6969089971130886
+new_zealand,New Zealand,2010,proglacial_detached,-0.5089485866949384,-0.6969089971130886
+new_zealand,New Zealand,2010,supraglacial,0.7283601301965126,-0.6969089971130886
+new_zealand,New Zealand,2011,proglacial_contacted,-0.1256027712280346,-1.116829332251183
+new_zealand,New Zealand,2011,proglacial_detached,0.5575927982145938,-1.116829332251183
+new_zealand,New Zealand,2011,supraglacial,0.0905344967492338,-1.116829332251183
+new_zealand,New Zealand,2012,proglacial_contacted,0.0093414736683981,0.6842302782819181
+new_zealand,New Zealand,2012,proglacial_detached,-0.4859002678956076,0.6842302782819181
+new_zealand,New Zealand,2012,supraglacial,-0.4907763145003671,0.6842302782819181
+new_zealand,New Zealand,2013,proglacial_contacted,-0.8004836066392453,1.0176801628980283
+new_zealand,New Zealand,2013,proglacial_detached,-2.423931993944316,1.0176801628980283
+new_zealand,New Zealand,2013,supraglacial,-0.1653165896237262,1.0176801628980283
+new_zealand,New Zealand,2014,proglacial_contacted,1.39179645035525,0.7235566467046298
+new_zealand,New Zealand,2014,proglacial_detached,0.5261879148662653,0.7235566467046298
+new_zealand,New Zealand,2014,supraglacial,1.5095127688543968,0.7235566467046298
+new_zealand,New Zealand,2015,proglacial_contacted,0.8050417010369177,0.7807543874308351
+new_zealand,New Zealand,2015,proglacial_detached,0.4896125178061174,0.7807543874308351
+new_zealand,New Zealand,2015,supraglacial,-0.2193808580437536,0.7807543874308351
+new_zealand,New Zealand,2016,proglacial_contacted,0.8306316851436261,-0.6261254813322696
+new_zealand,New Zealand,2016,proglacial_detached,1.1750429217280745,-0.6261254813322696
+new_zealand,New Zealand,2016,supraglacial,0.910126640209896,-0.6261254813322696
+new_zealand,New Zealand,2017,proglacial_contacted,0.2814401914094626,0.3250806064294591
+new_zealand,New Zealand,2017,proglacial_detached,0.6572386758106237,0.3250806064294591
+new_zealand,New Zealand,2017,supraglacial,0.0569969233653174,0.3250806064294591
+new_zealand,New Zealand,2018,proglacial_contacted,-3.328525778557072,-1.4602348109443
+new_zealand,New Zealand,2018,proglacial_detached,-2.7039379869981914,-1.4602348109443
+new_zealand,New Zealand,2018,supraglacial,-1.7659325655722586,-1.4602348109443
+new_zealand,New Zealand,2019,proglacial_contacted,-0.2421829976416972,-1.2715000357684128
+new_zealand,New Zealand,2019,proglacial_detached,-0.3323294446961307,-1.2715000357684128
+new_zealand,New Zealand,2019,supraglacial,-0.0510087123859165,-1.2715000357684128
+new_zealand,New Zealand,2020,proglacial_contacted,0.7429008862076275,-0.7465811577162749
+new_zealand,New Zealand,2020,proglacial_detached,1.0273564933445614,-0.7465811577162749
+new_zealand,New Zealand,2020,supraglacial,1.2925743129663985,-0.7465811577162749
+new_zealand,New Zealand,2021,proglacial_contacted,1.2072786662536703,0.8785657183696982
+new_zealand,New Zealand,2021,proglacial_detached,0.404336279267905,0.8785657183696982
+new_zealand,New Zealand,2021,supraglacial,1.2315541785856774,0.8785657183696982
+new_zealand,New Zealand,2022,proglacial_contacted,0.8205230096499025,-1.32682628534589
+new_zealand,New Zealand,2022,proglacial_detached,0.7887497979195962,-1.32682628534589
+new_zealand,New Zealand,2022,supraglacial,1.4641180149554236,-1.32682628534589
+new_zealand,New Zealand,2023,proglacial_contacted,-0.1449044635117043,-0.6712629037229605
+new_zealand,New Zealand,2023,proglacial_detached,0.3631215266965542,-0.6712629037229605
+new_zealand,New Zealand,2023,supraglacial,-0.8920603563427295,-0.6712629037229605
+north_asia,North Asia,2000,proglacial_contacted,1.839777061921132,0.2056803798844557
+north_asia,North Asia,2000,proglacial_detached,1.0656800494256846,0.2056803798844557
+north_asia,North Asia,2000,supraglacial,-0.7246499462083056,0.2056803798844557
+north_asia,North Asia,2001,proglacial_contacted,0.7361147106270728,-0.0474789789983651
+north_asia,North Asia,2001,proglacial_detached,0.1858030053781128,-0.0474789789983651
+north_asia,North Asia,2001,supraglacial,-1.3887876132360586,-0.0474789789983651
+north_asia,North Asia,2002,proglacial_contacted,-1.6570215906717145,-0.2401162860539482
+north_asia,North Asia,2002,proglacial_detached,0.3194300398429439,-0.2401162860539482
+north_asia,North Asia,2002,supraglacial,-1.378601852683787,-0.2401162860539482
+north_asia,North Asia,2003,proglacial_contacted,-1.839714416563649,0.0307318027766897
+north_asia,North Asia,2003,proglacial_detached,-2.391928075491492,0.0307318027766897
+north_asia,North Asia,2003,supraglacial,-0.7515206991527897,0.0307318027766897
+north_asia,North Asia,2004,proglacial_contacted,-0.4142953292379565,0.3274858528682925
+north_asia,North Asia,2004,proglacial_detached,0.1905143357172842,0.3274858528682925
+north_asia,North Asia,2004,supraglacial,0.1763851645880966,0.3274858528682925
+north_asia,North Asia,2005,proglacial_contacted,0.4717878643879304,0.3944213124268845
+north_asia,North Asia,2005,proglacial_detached,-1.62942661424803,0.3944213124268845
+north_asia,North Asia,2005,supraglacial,-0.6772804964525292,0.3944213124268845
+north_asia,North Asia,2006,proglacial_contacted,0.7545355458381868,-0.0177004220937524
+north_asia,North Asia,2006,proglacial_detached,1.2492809182670157,-0.0177004220937524
+north_asia,North Asia,2006,supraglacial,0.3545043818185294,-0.0177004220937524
+north_asia,North Asia,2007,proglacial_contacted,0.5621586727999297,-0.0703723778841562
+north_asia,North Asia,2007,proglacial_detached,1.270865853560259,-0.0703723778841562
+north_asia,North Asia,2007,supraglacial,1.5687042115770746,-0.0703723778841562
+north_asia,North Asia,2008,proglacial_contacted,-0.2161977434200642,-0.1445834231153479
+north_asia,North Asia,2008,proglacial_detached,0.5146082033824027,-0.1445834231153479
+north_asia,North Asia,2008,supraglacial,0.2530140195613995,-0.1445834231153479
+north_asia,North Asia,2009,proglacial_contacted,0.4493811297902227,0.7742878212581097
+north_asia,North Asia,2009,proglacial_detached,0.9378963444636778,0.7742878212581097
+north_asia,North Asia,2009,supraglacial,1.492681758800629,0.7742878212581097
+north_asia,North Asia,2010,proglacial_contacted,-0.7019576324714469,0.0386974679136969
+north_asia,North Asia,2010,proglacial_detached,-0.228328285346881,0.0386974679136969
+north_asia,North Asia,2010,supraglacial,1.142533530675483,0.0386974679136969
+north_asia,North Asia,2011,proglacial_contacted,0.8762753445661738,-0.3221226082405884
+north_asia,North Asia,2011,proglacial_detached,1.034870342380179,-0.3221226082405884
+north_asia,North Asia,2011,supraglacial,-0.4927473000439934,-0.3221226082405884
+north_asia,North Asia,2012,proglacial_contacted,0.1265006385289381,-0.3072091237098013
+north_asia,North Asia,2012,proglacial_detached,-0.6869880558932526,-0.3072091237098013
+north_asia,North Asia,2012,supraglacial,0.9105535623610672,-0.3072091237098013
+north_asia,North Asia,2013,proglacial_contacted,-0.4458530894300873,0.1901030447902575
+north_asia,North Asia,2013,proglacial_detached,-1.936367133881684,0.1901030447902575
+north_asia,North Asia,2013,supraglacial,0.2138125981721738,0.1901030447902575
+north_asia,North Asia,2014,proglacial_contacted,-1.1581329117262262,0.2478238503676376
+north_asia,North Asia,2014,proglacial_detached,-0.567297697056149,0.2478238503676376
+north_asia,North Asia,2014,supraglacial,1.5148453677497764,0.2478238503676376
+north_asia,North Asia,2015,proglacial_contacted,-0.1343151322691695,-0.2445962026707593
+north_asia,North Asia,2015,proglacial_detached,0.0302705577873311,-0.2445962026707593
+north_asia,North Asia,2015,supraglacial,0.431285506286946,-0.2445962026707593
+north_asia,North Asia,2016,proglacial_contacted,2.2126874077010013,0.1026834704096785
+north_asia,North Asia,2016,proglacial_detached,1.106079544518798,0.1026834704096785
+north_asia,North Asia,2016,supraglacial,1.677797763890069,0.1026834704096785
+north_asia,North Asia,2017,proglacial_contacted,-1.1292144685874397,-0.3908993334251543
+north_asia,North Asia,2017,proglacial_detached,-0.0121524176574768,-0.3908993334251543
+north_asia,North Asia,2017,supraglacial,0.2202615440977981,-0.3908993334251543
+north_asia,North Asia,2018,proglacial_contacted,-0.8550068863335307,-0.0466367179236062
+north_asia,North Asia,2018,proglacial_detached,-0.8665513272361891,-0.0466367179236062
+north_asia,North Asia,2018,supraglacial,-0.1831285901505198,-0.0466367179236062
+north_asia,North Asia,2019,proglacial_contacted,0.0091553718912399,0.2196620698974051
+north_asia,North Asia,2019,proglacial_detached,-0.1908334043234573,0.2196620698974051
+north_asia,North Asia,2019,supraglacial,-0.621105714987363,0.2196620698974051
+north_asia,North Asia,2020,proglacial_contacted,-1.4978324438322408,0.1126766524068308
+north_asia,North Asia,2020,proglacial_detached,-1.241660296900528,0.1126766524068308
+north_asia,North Asia,2020,supraglacial,-1.79935298720607,0.1126766524068308
+north_asia,North Asia,2021,proglacial_contacted,0.4613057949249001,0.0223624110669208
+north_asia,North Asia,2021,proglacial_detached,0.1992179180581484,0.0223624110669208
+north_asia,North Asia,2021,supraglacial,-0.148164448883705,0.0223624110669208
+north_asia,North Asia,2022,proglacial_contacted,0.7096958999495195,-0.348603447653624
+north_asia,North Asia,2022,proglacial_detached,0.2005366831692423,-0.348603447653624
+north_asia,North Asia,2022,supraglacial,0.349081337303161,-0.348603447653624
+north_asia,North Asia,2023,proglacial_contacted,-0.0071071693280302,-0.4862972142977532
+north_asia,North Asia,2023,proglacial_detached,0.1536431522114579,-0.4862972142977532
+north_asia,North Asia,2023,supraglacial,-0.4165150433052848,-0.4862972142977532
+russian_arctic,Russian Arctic,2000,proglacial_contacted,1.401988251778824,0.4807357263920069
+russian_arctic,Russian Arctic,2000,proglacial_detached,1.249203781757219,0.4807357263920069
+russian_arctic,Russian Arctic,2000,supraglacial,1.4908162928847144,0.4807357263920069
+russian_arctic,Russian Arctic,2001,proglacial_contacted,0.7852493565420647,0.1180503687767093
+russian_arctic,Russian Arctic,2001,proglacial_detached,0.690938527324047,0.1180503687767093
+russian_arctic,Russian Arctic,2001,supraglacial,0.4127739775409147,0.1180503687767093
+russian_arctic,Russian Arctic,2002,proglacial_contacted,-0.6095450135431519,0.1680272063591286
+russian_arctic,Russian Arctic,2002,proglacial_detached,-1.216313547486194,0.1680272063591286
+russian_arctic,Russian Arctic,2002,supraglacial,1.4948864814511742,0.1680272063591286
+russian_arctic,Russian Arctic,2003,proglacial_contacted,-0.1826112027606275,0.1416184550602122
+russian_arctic,Russian Arctic,2003,proglacial_detached,-0.1948251028985665,0.1416184550602122
+russian_arctic,Russian Arctic,2003,supraglacial,-0.2903486324291288,0.1416184550602122
+russian_arctic,Russian Arctic,2004,proglacial_contacted,-0.7395783050759707,-0.180310597051753
+russian_arctic,Russian Arctic,2004,proglacial_detached,-0.1280350471563152,-0.180310597051753
+russian_arctic,Russian Arctic,2004,supraglacial,0.061676437084789,-0.180310597051753
+russian_arctic,Russian Arctic,2005,proglacial_contacted,-1.4245212626112125,0.0368987236674318
+russian_arctic,Russian Arctic,2005,proglacial_detached,-1.6674075442802552,0.0368987236674318
+russian_arctic,Russian Arctic,2005,supraglacial,-0.4671973978163576,0.0368987236674318
+russian_arctic,Russian Arctic,2006,proglacial_contacted,0.8945216043942154,0.1998321761449482
+russian_arctic,Russian Arctic,2006,proglacial_detached,0.8040078869261904,0.1998321761449482
+russian_arctic,Russian Arctic,2006,supraglacial,-0.0664233344282674,0.1998321761449482
+russian_arctic,Russian Arctic,2007,proglacial_contacted,-0.8407413689210517,0.0013289904252257
+russian_arctic,Russian Arctic,2007,proglacial_detached,-1.2062930060867696,0.0013289904252257
+russian_arctic,Russian Arctic,2007,supraglacial,-1.0437194509382606,0.0013289904252257
+russian_arctic,Russian Arctic,2008,proglacial_contacted,-0.4003465871270379,0.3663616539863722
+russian_arctic,Russian Arctic,2008,proglacial_detached,0.3094609248185708,0.3663616539863722
+russian_arctic,Russian Arctic,2008,supraglacial,-0.8798692994448587,0.3663616539863722
+russian_arctic,Russian Arctic,2009,proglacial_contacted,0.4046065410552178,0.3808566055809381
+russian_arctic,Russian Arctic,2009,proglacial_detached,0.590759010263384,0.3808566055809381
+russian_arctic,Russian Arctic,2009,supraglacial,-0.394097655098269,0.3808566055809381
+russian_arctic,Russian Arctic,2010,proglacial_contacted,1.2252139598273886,0.3514903403109239
+russian_arctic,Russian Arctic,2010,proglacial_detached,1.3583929787485185,0.3514903403109239
+russian_arctic,Russian Arctic,2010,supraglacial,0.4392688217298362,0.3514903403109239
+russian_arctic,Russian Arctic,2011,proglacial_contacted,1.9372950350848697,-0.2428309741990368
+russian_arctic,Russian Arctic,2011,proglacial_detached,2.031931002876054,-0.2428309741990368
+russian_arctic,Russian Arctic,2011,supraglacial,0.4383754129515854,-0.2428309741990368
+russian_arctic,Russian Arctic,2012,proglacial_contacted,0.4018956895621773,0.1509275418672357
+russian_arctic,Russian Arctic,2012,proglacial_detached,0.4138938072838407,0.1509275418672357
+russian_arctic,Russian Arctic,2012,supraglacial,-0.8730840590214235,0.1509275418672357
+russian_arctic,Russian Arctic,2013,proglacial_contacted,0.4295218722672882,-0.1564019997827078
+russian_arctic,Russian Arctic,2013,proglacial_detached,0.7348156189929897,-0.1564019997827078
+russian_arctic,Russian Arctic,2013,supraglacial,0.5351298081394821,-0.1564019997827078
+russian_arctic,Russian Arctic,2014,proglacial_contacted,-1.174040224251336,0.3477883389814079
+russian_arctic,Russian Arctic,2014,proglacial_detached,-1.752671905095658,0.3477883389814079
+russian_arctic,Russian Arctic,2014,supraglacial,-1.326719692916018,0.3477883389814079
+russian_arctic,Russian Arctic,2015,proglacial_contacted,-1.0916461407601448,-0.0588199069769945
+russian_arctic,Russian Arctic,2015,proglacial_detached,-1.2909417369323597,-0.0588199069769945
+russian_arctic,Russian Arctic,2015,supraglacial,-1.069951305404529,-0.0588199069769945
+russian_arctic,Russian Arctic,2016,proglacial_contacted,-0.8432745549132499,-0.4471591451600299
+russian_arctic,Russian Arctic,2016,proglacial_detached,-0.5017999258349264,-0.4471591451600299
+russian_arctic,Russian Arctic,2016,supraglacial,0.3063802269162607,-0.4471591451600299
+russian_arctic,Russian Arctic,2017,proglacial_contacted,-1.536870455646458,0.1332622378663633
+russian_arctic,Russian Arctic,2017,proglacial_detached,-0.9702049365311982,0.1332622378663633
+russian_arctic,Russian Arctic,2017,supraglacial,-1.974292611697776,0.1332622378663633
+russian_arctic,Russian Arctic,2017,supraglacial,-1.9742926116977757,
+russian_arctic,Russian Arctic,2018,proglacial_contacted,-1.0842508940274944,-0.0763920134809402
+russian_arctic,Russian Arctic,2018,proglacial_detached,-1.1427803035826922,-0.0763920134809402
+russian_arctic,Russian Arctic,2018,supraglacial,-0.929148685442495,-0.0763920134809402
+russian_arctic,Russian Arctic,2019,proglacial_contacted,-0.9052895765366984,-0.2291746541438959
+russian_arctic,Russian Arctic,2019,proglacial_detached,-0.5398334007141657,-0.2291746541438959
+russian_arctic,Russian Arctic,2019,supraglacial,-0.0609027319437442,-0.2291746541438959
+russian_arctic,Russian Arctic,2020,proglacial_contacted,0.2349786332227501,-0.8793625945623034
+russian_arctic,Russian Arctic,2020,proglacial_detached,0.1264670762621144,-0.8793625945623034
+russian_arctic,Russian Arctic,2020,supraglacial,1.8718088957141008,-0.8793625945623034
+russian_arctic,Russian Arctic,2021,proglacial_contacted,-0.2822404171679891,0.2301916330916633
+russian_arctic,Russian Arctic,2021,proglacial_detached,-0.0367340304746536,0.2301916330916633
+russian_arctic,Russian Arctic,2021,supraglacial,-0.8868525007667902,0.2301916330916633
+russian_arctic,Russian Arctic,2022,proglacial_contacted,1.6248079481460025,-0.4774194771057918
+russian_arctic,Russian Arctic,2022,proglacial_detached,0.6909192577460677,-0.4774194771057918
+russian_arctic,Russian Arctic,2022,supraglacial,0.3593765185921208,-0.4774194771057918
+russian_arctic,Russian Arctic,2023,proglacial_contacted,0.7948355186462737,-0.3594986360471132
+russian_arctic,Russian Arctic,2023,proglacial_detached,0.6883422926465252,-0.3594986360471132
+russian_arctic,Russian Arctic,2023,supraglacial,1.8495490416036893,-0.3594986360471132
+scandinavia,Scandinavia,2000,proglacial_contacted,-1.3902207082461575,0.8686825495645039
+scandinavia,Scandinavia,2000,proglacial_detached,-0.2048355475103767,0.8686825495645039
+scandinavia,Scandinavia,2000,supraglacial,1.3633593133961264,0.8686825495645039
+scandinavia,Scandinavia,2001,proglacial_contacted,0.705269761447903,-0.1643502236854047
+scandinavia,Scandinavia,2001,proglacial_detached,0.5524139882058994,-0.1643502236854047
+scandinavia,Scandinavia,2001,supraglacial,-0.2708855388296784,-0.1643502236854047
+scandinavia,Scandinavia,2002,proglacial_contacted,0.8245348325767429,-0.7885898278992304
+scandinavia,Scandinavia,2002,proglacial_detached,0.5190602094689922,-0.7885898278992304
+scandinavia,Scandinavia,2002,supraglacial,-0.2638617736001239,-0.7885898278992304
+scandinavia,Scandinavia,2003,proglacial_contacted,-0.0790217661286559,-0.8568569118275408
+scandinavia,Scandinavia,2003,proglacial_detached,0.127906252813973,-0.8568569118275408
+scandinavia,Scandinavia,2003,supraglacial,-0.4775402171016397,-0.8568569118275408
+scandinavia,Scandinavia,2004,proglacial_contacted,-0.4741085074990308,0.3528805484289407
+scandinavia,Scandinavia,2004,proglacial_detached,0.1657821756986312,0.3528805484289407
+scandinavia,Scandinavia,2004,supraglacial,-0.2938183954553282,0.3528805484289407
+scandinavia,Scandinavia,2005,proglacial_contacted,-1.4185799290346468,0.2295213482950647
+scandinavia,Scandinavia,2005,proglacial_detached,-1.8313401219429577,0.2295213482950647
+scandinavia,Scandinavia,2005,supraglacial,-0.6205301425743041,0.2295213482950647
+scandinavia,Scandinavia,2006,proglacial_contacted,1.3395760302372908,-1.2191847738159378
+scandinavia,Scandinavia,2006,proglacial_detached,1.510409594446074,-1.2191847738159378
+scandinavia,Scandinavia,2006,supraglacial,1.0782970504232685,-1.2191847738159378
+scandinavia,Scandinavia,2007,proglacial_contacted,-0.0055400379991061,0.6576754223103694
+scandinavia,Scandinavia,2007,proglacial_detached,-0.3281281651198305,0.6576754223103694
+scandinavia,Scandinavia,2007,supraglacial,-0.7060852122673307,0.6576754223103694
+scandinavia,Scandinavia,2008,proglacial_contacted,-0.4474008824092705,0.6599737380291557
+scandinavia,Scandinavia,2008,proglacial_detached,-0.9869552113571196,0.6599737380291557
+scandinavia,Scandinavia,2008,supraglacial,-0.3181896896187415,0.6599737380291557
+scandinavia,Scandinavia,2009,proglacial_contacted,-0.3940983133213676,-0.0599317811029113
+scandinavia,Scandinavia,2009,proglacial_detached,-0.9535285148419576,-0.0599317811029113
+scandinavia,Scandinavia,2009,supraglacial,-0.9066200584744466,-0.0599317811029113
+scandinavia,Scandinavia,2010,proglacial_contacted,1.9300611235208207,-0.3897377762608923
+scandinavia,Scandinavia,2010,proglacial_contacted,1.9300611235208212,
+scandinavia,Scandinavia,2010,proglacial_detached,1.709740625379381,-0.3897377762608923
+scandinavia,Scandinavia,2010,supraglacial,0.7037032448744639,-0.3897377762608923
+scandinavia,Scandinavia,2011,proglacial_contacted,1.0418297785169428,-0.5168872028592425
+scandinavia,Scandinavia,2011,proglacial_detached,1.0927263347506926,-0.5168872028592425
+scandinavia,Scandinavia,2011,supraglacial,0.6734461871522701,-0.5168872028592425
+scandinavia,Scandinavia,2012,proglacial_contacted,-1.2749467271343438,1.1483395748688272
+scandinavia,Scandinavia,2012,proglacial_detached,-1.7823709282266356,1.1483395748688272
+scandinavia,Scandinavia,2012,supraglacial,-0.9584572876226596,1.1483395748688272
+scandinavia,Scandinavia,2013,proglacial_contacted,0.3925632222308589,-0.5756187612900415
+scandinavia,Scandinavia,2013,proglacial_detached,0.1555832804324675,-0.5756187612900415
+scandinavia,Scandinavia,2013,supraglacial,0.337140524227405,-0.5756187612900415
+scandinavia,Scandinavia,2014,proglacial_contacted,-0.4399302197199871,-0.409399309709762
+scandinavia,Scandinavia,2014,proglacial_detached,-0.1770615828879241,-0.409399309709762
+scandinavia,Scandinavia,2014,supraglacial,-1.0879282684799516,-0.409399309709762
+scandinavia,Scandinavia,2015,proglacial_contacted,-0.5742495876391672,1.2101541428823546
+scandinavia,Scandinavia,2015,proglacial_detached,-0.6591820370680763,1.2101541428823546
+scandinavia,Scandinavia,2015,supraglacial,-0.1539597829671328,1.2101541428823546
+scandinavia,Scandinavia,2016,proglacial_contacted,0.7829798984776939,0.1616153663257823
+scandinavia,Scandinavia,2016,proglacial_detached,0.6734315276736915,0.1616153663257823
+scandinavia,Scandinavia,2016,supraglacial,2.8282859568656304,0.1616153663257823
+scandinavia,Scandinavia,2017,proglacial_contacted,-1.0533351703116092,0.571901897052087
+scandinavia,Scandinavia,2017,proglacial_detached,-0.3556698357632448,0.571901897052087
+scandinavia,Scandinavia,2017,supraglacial,-0.3135155172230031,0.571901897052087
+scandinavia,Scandinavia,2018,proglacial_contacted,0.2635266418753152,-0.9171036201732808
+scandinavia,Scandinavia,2018,proglacial_detached,0.0249489113617867,-0.9171036201732808
+scandinavia,Scandinavia,2018,supraglacial,-1.341314933030024,-0.9171036201732808
+scandinavia,Scandinavia,2019,proglacial_contacted,1.5768603115317286,0.0702586779557555
+scandinavia,Scandinavia,2019,proglacial_detached,1.3383731445441638,0.0702586779557555
+scandinavia,Scandinavia,2019,supraglacial,0.4864123998965732,0.0702586779557555
+scandinavia,Scandinavia,2020,proglacial_contacted,-1.5640587066568856,0.7596305203684314
+scandinavia,Scandinavia,2020,proglacial_detached,-1.9016050027844933,0.7596305203684314
+scandinavia,Scandinavia,2020,supraglacial,-0.1528446585272449,0.7596305203684314
+scandinavia,Scandinavia,2021,proglacial_contacted,0.9053851586108204,-0.2882057949368103
+scandinavia,Scandinavia,2021,proglacial_detached,1.2015806136150382,-0.2882057949368103
+scandinavia,Scandinavia,2021,supraglacial,1.8109556719021973,-0.2882057949368103
+scandinavia,Scandinavia,2022,proglacial_contacted,0.4098350650628684,0.0524938964696005
+scandinavia,Scandinavia,2022,proglacial_detached,0.5012516548795949,0.0524938964696005
+scandinavia,Scandinavia,2022,supraglacial,0.7482416616922404,0.0524938964696005
+scandinavia,Scandinavia,2023,proglacial_contacted,0.4991987114719332,-0.5572616989898179
+scandinavia,Scandinavia,2023,proglacial_detached,0.568341916377071,-0.5572616989898179
+scandinavia,Scandinavia,2023,supraglacial,-1.38868090551916,-0.5572616989898179
+south_asia_east,South Asia East,2000,proglacial_contacted,0.8938020935228301,0.3703041519358629
+south_asia_east,South Asia East,2000,proglacial_detached,1.095822591501386,0.3703041519358629
+south_asia_east,South Asia East,2000,supraglacial,0.2574229091983562,0.3703041519358629
+south_asia_east,South Asia East,2001,proglacial_contacted,0.1743268547509088,-0.0231193448317246
+south_asia_east,South Asia East,2001,proglacial_detached,0.3381812237091148,-0.0231193448317246
+south_asia_east,South Asia East,2001,supraglacial,-0.632574667667466,-0.0231193448317246
+south_asia_east,South Asia East,2002,proglacial_contacted,-1.79911149844329,0.0516163605404104
+south_asia_east,South Asia East,2002,proglacial_detached,-1.446156324205624,0.0516163605404104
+south_asia_east,South Asia East,2002,supraglacial,-2.4092864294171767,0.0516163605404104
+south_asia_east,South Asia East,2003,proglacial_contacted,-0.8695879157597722,-0.0325142791786439
+south_asia_east,South Asia East,2003,proglacial_detached,-1.0528862419649168,-0.0325142791786439
+south_asia_east,South Asia East,2003,supraglacial,-1.2447675977221595,-0.0325142791786439
+south_asia_east,South Asia East,2004,proglacial_contacted,1.0521132998206937,-0.0887143238389105
+south_asia_east,South Asia East,2004,proglacial_detached,0.9130271707743348,-0.0887143238389105
+south_asia_east,South Asia East,2004,supraglacial,1.1312433310546557,-0.0887143238389105
+south_asia_east,South Asia East,2005,proglacial_contacted,0.7067592891440384,0.1229331934930835
+south_asia_east,South Asia East,2005,proglacial_detached,0.890132903250213,0.1229331934930835
+south_asia_east,South Asia East,2005,supraglacial,0.8152247973677907,0.1229331934930835
+south_asia_east,South Asia East,2006,proglacial_contacted,1.3292997265074322,-0.2140055010706578
+south_asia_east,South Asia East,2006,proglacial_detached,1.5724471408605467,-0.2140055010706578
+south_asia_east,South Asia East,2006,supraglacial,0.7865874333509022,-0.2140055010706578
+south_asia_east,South Asia East,2007,proglacial_contacted,-0.1228222902185005,0.1791503111377119
+south_asia_east,South Asia East,2007,proglacial_detached,0.1132957489553689,0.1791503111377119
+south_asia_east,South Asia East,2007,supraglacial,1.8421136628874584,0.1791503111377119
+south_asia_east,South Asia East,2008,proglacial_contacted,0.2550848119173155,0.141805557398882
+south_asia_east,South Asia East,2008,proglacial_detached,-0.0866771410767511,0.141805557398882
+south_asia_east,South Asia East,2008,supraglacial,0.6488420617232826,0.141805557398882
+south_asia_east,South Asia East,2009,proglacial_contacted,1.0992551039501464,0.0910416924603169
+south_asia_east,South Asia East,2009,proglacial_detached,0.9653715318043486,0.0910416924603169
+south_asia_east,South Asia East,2009,supraglacial,0.5341760666013999,0.0910416924603169
+south_asia_east,South Asia East,2010,proglacial_contacted,-0.5033259525493344,0.197846911480409
+south_asia_east,South Asia East,2010,proglacial_detached,-1.1433601090652783,0.197846911480409
+south_asia_east,South Asia East,2010,supraglacial,-0.4306173843272963,0.197846911480409
+south_asia_east,South Asia East,2011,proglacial_contacted,1.0714652706179302,0.5855248848102277
+south_asia_east,South Asia East,2011,proglacial_detached,0.538163477953967,0.5855248848102277
+south_asia_east,South Asia East,2011,supraglacial,0.5657296641394906,0.5855248848102277
+south_asia_east,South Asia East,2012,proglacial_contacted,-1.6036316513476878,-0.1331432089320272
+south_asia_east,South Asia East,2012,proglacial_detached,-1.5960060312248194,-0.1331432089320272
+south_asia_east,South Asia East,2012,supraglacial,-0.2705971910274262,-0.1331432089320272
+south_asia_east,South Asia East,2013,proglacial_contacted,-0.5300292566237703,0.1858786374830723
+south_asia_east,South Asia East,2013,proglacial_detached,-0.2677766413773815,0.1858786374830723
+south_asia_east,South Asia East,2013,supraglacial,-0.5629251645249057,0.1858786374830723
+south_asia_east,South Asia East,2014,proglacial_contacted,-1.19597386213359,0.0063984564325227
+south_asia_east,South Asia East,2014,proglacial_detached,-1.0436769854598902,0.0063984564325227
+south_asia_east,South Asia East,2014,supraglacial,-0.4799085495412656,0.0063984564325227
+south_asia_east,South Asia East,2015,proglacial_contacted,0.8414768129113607,0.0573867077630096
+south_asia_east,South Asia East,2015,proglacial_detached,0.8261388990779501,0.0573867077630096
+south_asia_east,South Asia East,2015,supraglacial,0.9567240039406648,0.0573867077630096
+south_asia_east,South Asia East,2016,proglacial_contacted,-0.6812076988617605,0.253058255122485
+south_asia_east,South Asia East,2016,proglacial_detached,-0.8205196329901789,0.253058255122485
+south_asia_east,South Asia East,2016,supraglacial,-0.6457570162799553,0.253058255122485
+south_asia_east,South Asia East,2017,proglacial_contacted,-1.3964810411573996,-0.723885854959587
+south_asia_east,South Asia East,2017,proglacial_detached,-1.392922765983908,-0.723885854959587
+south_asia_east,South Asia East,2017,supraglacial,-0.5100924008927323,-0.723885854959587
+south_asia_east,South Asia East,2018,proglacial_contacted,-0.7835082708344531,0.1942546288172745
+south_asia_east,South Asia East,2018,proglacial_detached,-1.097838369246222,0.1942546288172745
+south_asia_east,South Asia East,2018,supraglacial,-0.5872646612713605,0.1942546288172745
+south_asia_east,South Asia East,2019,proglacial_contacted,-1.1528518416896727,-0.1009331534688381
+south_asia_east,South Asia East,2019,proglacial_detached,-0.8692323563811128,-0.1009331534688381
+south_asia_east,South Asia East,2019,supraglacial,-0.2882841841417248,-0.1009331534688381
+south_asia_east,South Asia East,2020,proglacial_contacted,0.3547527964338869,0.1035713686499903
+south_asia_east,South Asia East,2020,proglacial_detached,-0.1976882942510375,0.1035713686499903
+south_asia_east,South Asia East,2020,supraglacial,-0.1481598017898079,0.1035713686499903
+south_asia_east,South Asia East,2021,proglacial_contacted,-0.6102888636059097,0.2172958494369599
+south_asia_east,South Asia East,2021,proglacial_detached,-0.038209803759128,0.2172958494369599
+south_asia_east,South Asia East,2021,supraglacial,0.138859512633475,0.2172958494369599
+south_asia_east,South Asia East,2022,proglacial_contacted,1.499881742474097,-0.6435998676685797
+south_asia_east,South Asia East,2022,proglacial_detached,1.1766771623445664,-0.6435998676685797
+south_asia_east,South Asia East,2022,supraglacial,1.1645706318846332,-0.6435998676685797
+south_asia_east,South Asia East,2023,proglacial_contacted,1.181032503802255,-0.7981514330132513
+south_asia_east,South Asia East,2023,proglacial_detached,1.261144500680492,-0.7981514330132513
+south_asia_east,South Asia East,2023,supraglacial,1.3834322469894138,-0.7981514330132513
+south_asia_west,South Asia West,2000,proglacial_contacted,1.5270531149839854,0.3814170314336787
+south_asia_west,South Asia West,2000,proglacial_detached,1.2616061421939313,0.3814170314336787
+south_asia_west,South Asia West,2000,supraglacial,-0.137469454105889,0.3814170314336787
+south_asia_west,South Asia West,2001,proglacial_contacted,0.2497464639969712,0.0368436645709898
+south_asia_west,South Asia West,2001,proglacial_detached,0.8859546368137545,0.0368436645709898
+south_asia_west,South Asia West,2001,supraglacial,-0.482129499253577,0.0368436645709898
+south_asia_west,South Asia West,2002,proglacial_contacted,-1.001463536912156,0.1053734295025302
+south_asia_west,South Asia West,2002,proglacial_detached,-0.9561456355715604,0.1053734295025302
+south_asia_west,South Asia West,2002,supraglacial,-0.7954175332716418,0.1053734295025302
+south_asia_west,South Asia West,2003,proglacial_contacted,-3.3561632305551155,-0.2198435148142335
+south_asia_west,South Asia West,2003,proglacial_detached,-3.904759421769515,-0.2198435148142335
+south_asia_west,South Asia West,2003,supraglacial,-1.968112411096437,-0.2198435148142335
+south_asia_west,South Asia West,2004,proglacial_contacted,0.7858295706948949,-0.1713284828073717
+south_asia_west,South Asia West,2004,proglacial_detached,0.8819178011733184,-0.1713284828073717
+south_asia_west,South Asia West,2004,supraglacial,-0.5057414952533854,-0.1713284828073717
+south_asia_west,South Asia West,2005,proglacial_contacted,-0.2877828655281581,0.3228555229687028
+south_asia_west,South Asia West,2005,proglacial_detached,0.6037315468255489,0.3228555229687028
+south_asia_west,South Asia West,2005,supraglacial,-1.171847106757922,0.3228555229687028
+south_asia_west,South Asia West,2006,proglacial_contacted,0.5041803531835115,-0.5395342470323697
+south_asia_west,South Asia West,2006,proglacial_detached,0.1638556375369795,-0.5395342470323697
+south_asia_west,South Asia West,2006,supraglacial,0.4392861982568188,-0.5395342470323697
+south_asia_west,South Asia West,2007,proglacial_contacted,-0.3046527678393935,-0.4615459873589448
+south_asia_west,South Asia West,2007,proglacial_detached,-0.1885077393157304,-0.4615459873589448
+south_asia_west,South Asia West,2007,supraglacial,-0.2050837808801763,-0.4615459873589448
+south_asia_west,South Asia West,2008,proglacial_contacted,1.0032704514096356,-0.2885757744340572
+south_asia_west,South Asia West,2008,proglacial_detached,0.6930023137826742,-0.2885757744340572
+south_asia_west,South Asia West,2008,supraglacial,0.8831437074201652,-0.2885757744340572
+south_asia_west,South Asia West,2009,proglacial_contacted,1.885106018176169,0.4772385856095401
+south_asia_west,South Asia West,2009,proglacial_detached,1.4950583014964949,0.4772385856095401
+south_asia_west,South Asia West,2009,supraglacial,2.3227408645758585,0.4772385856095401
+south_asia_west,South Asia West,2010,proglacial_contacted,-0.3746286124301988,0.4416741044700246
+south_asia_west,South Asia West,2010,proglacial_detached,0.2602905382502666,0.4416741044700246
+south_asia_west,South Asia West,2010,supraglacial,0.7676574146683329,0.4416741044700246
+south_asia_west,South Asia West,2011,proglacial_contacted,1.2894818754583697,0.4123752680599949
+south_asia_west,South Asia West,2011,proglacial_detached,0.4001031890289308,0.4123752680599949
+south_asia_west,South Asia West,2011,supraglacial,1.5752165029496823,0.4123752680599949
+south_asia_west,South Asia West,2012,proglacial_contacted,-0.9734285905068698,-0.0689290832465954
+south_asia_west,South Asia West,2012,proglacial_detached,-1.2994634631457618,-0.0689290832465954
+south_asia_west,South Asia West,2012,supraglacial,0.6091033888596132,-0.0689290832465954
+south_asia_west,South Asia West,2013,proglacial_contacted,0.5878871717389936,-0.2094490366537384
+south_asia_west,South Asia West,2013,proglacial_detached,0.402804121442526,-0.2094490366537384
+south_asia_west,South Asia West,2013,supraglacial,0.4632557228244389,-0.2094490366537384
+south_asia_west,South Asia West,2014,proglacial_contacted,0.1074985088518007,0.1544519198709187
+south_asia_west,South Asia West,2014,proglacial_detached,0.0678312586309164,0.1544519198709187
+south_asia_west,South Asia West,2014,supraglacial,0.3980292628376343,0.1544519198709187
+south_asia_west,South Asia West,2015,proglacial_contacted,-0.6421886789635747,0.1477514348574081
+south_asia_west,South Asia West,2015,proglacial_detached,-0.2996269617501224,0.1477514348574081
+south_asia_west,South Asia West,2015,supraglacial,0.3585772061315638,0.1477514348574081
+south_asia_west,South Asia West,2016,proglacial_contacted,-0.284846855833229,-0.17199493214584
+south_asia_west,South Asia West,2016,proglacial_detached,-0.4085090570765121,-0.17199493214584
+south_asia_west,South Asia West,2016,supraglacial,-0.0467407720406593,-0.17199493214584
+south_asia_west,South Asia West,2017,proglacial_contacted,-0.4202358707430597,0.1021375873913503
+south_asia_west,South Asia West,2017,proglacial_detached,-0.2809115791289558,0.1021375873913503
+south_asia_west,South Asia West,2017,supraglacial,0.0358905759135208,0.1021375873913503
+south_asia_west,South Asia West,2018,proglacial_contacted,-0.652212813402241,0.0506819528461125
+south_asia_west,South Asia West,2018,proglacial_detached,0.0603712670210221,0.0506819528461125
+south_asia_west,South Asia West,2018,supraglacial,-0.0369544881937411,0.0506819528461125
+south_asia_west,South Asia West,2019,proglacial_contacted,-0.2947847557544842,0.3170157134754679
+south_asia_west,South Asia West,2019,proglacial_detached,-0.1022006578923283,0.3170157134754679
+south_asia_west,South Asia West,2019,supraglacial,0.3955671914769345,0.3170157134754679
+south_asia_west,South Asia West,2020,proglacial_contacted,0.3177325341733997,0.3562377894888701
+south_asia_west,South Asia West,2020,proglacial_detached,-0.0537397908678928,0.3562377894888701
+south_asia_west,South Asia West,2020,supraglacial,-0.3523276093395418,0.3562377894888701
+south_asia_west,South Asia West,2021,proglacial_contacted,-0.2045823959294326,-0.1415817055685188
+south_asia_west,South Asia West,2021,proglacial_detached,-0.1188510137048226,-0.1415817055685188
+south_asia_west,South Asia West,2021,supraglacial,0.2853484464544824,-0.1415817055685188
+south_asia_west,South Asia West,2022,proglacial_contacted,0.0024366787600327,-0.9401534431389852
+south_asia_west,South Asia West,2022,proglacial_detached,0.1354933034551499,-0.9401534431389852
+south_asia_west,South Asia West,2022,supraglacial,0.3733229498918899,-0.9401534431389852
+south_asia_west,South Asia West,2023,proglacial_contacted,-0.0093978391099463,-0.0931177973449342
+south_asia_west,South Asia West,2023,proglacial_detached,0.0311030109162447,-0.0931177973449342
+south_asia_west,South Asia West,2023,supraglacial,-0.4587800309067872,-0.0931177973449342
+southern_andes,Southern Andes,2000,proglacial_contacted,-0.9752897694909148,0.9759559244173344
+southern_andes,Southern Andes,2000,proglacial_detached,-0.3751097707453655,0.9759559244173344
+southern_andes,Southern Andes,2000,supraglacial,-1.4222370380784863,0.9759559244173344
+southern_andes,Southern Andes,2001,proglacial_contacted,-0.2103960202143624,0.4445296161069015
+southern_andes,Southern Andes,2001,proglacial_detached,-0.3663576194121667,0.4445296161069015
+southern_andes,Southern Andes,2001,supraglacial,-0.765543039586903,0.4445296161069015
+southern_andes,Southern Andes,2002,proglacial_contacted,0.3647975426550306,0.7728416611287766
+southern_andes,Southern Andes,2002,proglacial_detached,1.0153716597876177,0.7728416611287766
+southern_andes,Southern Andes,2002,supraglacial,3.53239639128599,0.7728416611287766
+southern_andes,Southern Andes,2003,proglacial_contacted,-2.043565010263087,-0.0125799739470604
+southern_andes,Southern Andes,2003,proglacial_detached,-1.0770059598614408,-0.0125799739470604
+southern_andes,Southern Andes,2003,supraglacial,-1.2650558771900258,-0.0125799739470604
+southern_andes,Southern Andes,2004,proglacial_contacted,0.8031025871572312,1.0206320523372407
+southern_andes,Southern Andes,2004,proglacial_detached,0.7489218556567432,1.0206320523372407
+southern_andes,Southern Andes,2004,supraglacial,0.3669708848970655,1.0206320523372407
+southern_andes,Southern Andes,2005,proglacial_contacted,1.004655255878206,-0.8001361647165101
+southern_andes,Southern Andes,2005,proglacial_detached,1.457666785033905,-0.8001361647165101
+southern_andes,Southern Andes,2005,supraglacial,0.5834975513526033,-0.8001361647165101
+southern_andes,Southern Andes,2006,proglacial_contacted,0.6855209184600898,0.0399231629905917
+southern_andes,Southern Andes,2006,proglacial_detached,1.0028696243287252,0.0399231629905917
+southern_andes,Southern Andes,2006,supraglacial,-0.2996889580115949,0.0399231629905917
+southern_andes,Southern Andes,2007,proglacial_contacted,-0.5397612019761704,-0.2570765184517657
+southern_andes,Southern Andes,2007,proglacial_detached,-0.8103265256425568,-0.2570765184517657
+southern_andes,Southern Andes,2007,supraglacial,-0.8454109916169594,-0.2570765184517657
+southern_andes,Southern Andes,2008,proglacial_contacted,-0.4890749055992601,0.0701576234757662
+southern_andes,Southern Andes,2008,proglacial_detached,-0.3412632232618254,0.0701576234757662
+southern_andes,Southern Andes,2008,supraglacial,-0.2117596209340598,0.0701576234757662
+southern_andes,Southern Andes,2009,proglacial_contacted,-0.5929399548677609,1.1403027588054635
+southern_andes,Southern Andes,2009,proglacial_detached,-1.6097087002112898,1.1403027588054635
+southern_andes,Southern Andes,2009,supraglacial,-0.1968976224873095,1.1403027588054635
+southern_andes,Southern Andes,2010,proglacial_contacted,0.7921152014573356,-0.7680840957008238
+southern_andes,Southern Andes,2010,proglacial_detached,0.3213781784723277,-0.7680840957008238
+southern_andes,Southern Andes,2010,supraglacial,0.2793164892527004,-0.7680840957008238
+southern_andes,Southern Andes,2011,proglacial_contacted,1.1793657151459902,-1.1719373267622233
+southern_andes,Southern Andes,2011,proglacial_detached,0.8988103661505151,-1.1719373267622233
+southern_andes,Southern Andes,2011,supraglacial,0.9080912693639076,-1.1719373267622233
+southern_andes,Southern Andes,2012,proglacial_contacted,-0.067604771948471,-0.016549354581232
+southern_andes,Southern Andes,2012,proglacial_detached,-1.1250026399378776,-0.016549354581232
+southern_andes,Southern Andes,2012,supraglacial,-0.3615758384596301,-0.016549354581232
+southern_andes,Southern Andes,2013,proglacial_contacted,1.0452820152429108,1.185081438208316
+southern_andes,Southern Andes,2013,proglacial_detached,-0.2915333124390007,1.185081438208316
+southern_andes,Southern Andes,2013,supraglacial,0.5333844900792685,1.185081438208316
+southern_andes,Southern Andes,2014,proglacial_contacted,-0.6163538488553557,1.0937333944241885
+southern_andes,Southern Andes,2014,proglacial_detached,-1.310563209575295,1.0937333944241885
+southern_andes,Southern Andes,2014,supraglacial,-0.9301155216418052,1.0937333944241885
+southern_andes,Southern Andes,2015,proglacial_contacted,-0.1387726075987257,-0.3992796967241044
+southern_andes,Southern Andes,2015,proglacial_detached,0.2628915177644064,-0.3992796967241044
+southern_andes,Southern Andes,2015,supraglacial,-0.4466382071037022,-0.3992796967241044
+southern_andes,Southern Andes,2016,proglacial_contacted,1.0800349943723475,-1.438930195037802
+southern_andes,Southern Andes,2016,proglacial_detached,0.1049474933943988,-1.438930195037802
+southern_andes,Southern Andes,2016,supraglacial,0.3909142784432426,-1.438930195037802
+southern_andes,Southern Andes,2017,proglacial_contacted,-0.2842558873272817,0.1226639189325663
+southern_andes,Southern Andes,2017,proglacial_detached,0.627530271678285,0.1226639189325663
+southern_andes,Southern Andes,2017,supraglacial,-0.3268011653196327,0.1226639189325663
+southern_andes,Southern Andes,2018,proglacial_contacted,0.0902166101529981,-0.5099708302228295
+southern_andes,Southern Andes,2018,proglacial_detached,-0.7450935812645869,-0.5099708302228295
+southern_andes,Southern Andes,2018,supraglacial,-0.0264355284784866,-0.5099708302228295
+southern_andes,Southern Andes,2019,proglacial_contacted,-0.8552343255968966,-0.0752863883978105
+southern_andes,Southern Andes,2019,proglacial_detached,-0.3214557352333551,-0.0752863883978105
+southern_andes,Southern Andes,2019,supraglacial,-0.5712077780597781,-0.0752863883978105
+southern_andes,Southern Andes,2020,proglacial_contacted,0.8868803805874969,-0.0715788497574977
+southern_andes,Southern Andes,2020,proglacial_detached,1.232431874856232,-0.0715788497574977
+southern_andes,Southern Andes,2020,supraglacial,0.5878263168417618,-0.0715788497574977
+southern_andes,Southern Andes,2021,proglacial_contacted,1.9527201478443743,0.0650029749551756
+southern_andes,Southern Andes,2021,proglacial_detached,2.1635188937971788,0.0650029749551756
+southern_andes,Southern Andes,2021,supraglacial,1.1014735426679856,0.0650029749551756
+southern_andes,Southern Andes,2022,proglacial_contacted,0.1614320456533077,-0.5479156957654258
+southern_andes,Southern Andes,2022,proglacial_detached,0.9904115427186236,-0.5479156957654258
+southern_andes,Southern Andes,2022,supraglacial,0.0935970675516339,-0.5479156957654258
+southern_andes,Southern Andes,2023,proglacial_contacted,-0.7991405795482178,-0.8614994357172389
+southern_andes,Southern Andes,2023,proglacial_detached,-0.9294395272994078,-0.8614994357172389
+southern_andes,Southern Andes,2023,supraglacial,0.6857551975029444,-0.8614994357172389
+western_canada_us,Western Canada and USA,2000,proglacial_contacted,-2.3686121768169563,1.1749088735156914
+western_canada_us,Western Canada and USA,2000,proglacial_detached,-2.323197299721889,1.1749088735156914
+western_canada_us,Western Canada and USA,2000,supraglacial,-1.2111334240386586,1.1749088735156914
+western_canada_us,Western Canada and USA,2001,proglacial_contacted,-0.1802517929636199,0.579696987031771
+western_canada_us,Western Canada and USA,2001,proglacial_detached,-0.2486357076944055,0.579696987031771
+western_canada_us,Western Canada and USA,2001,supraglacial,-0.3866950088241866,0.579696987031771
+western_canada_us,Western Canada and USA,2002,proglacial_contacted,-0.4040457792811059,0.8393527950371267
+western_canada_us,Western Canada and USA,2002,proglacial_detached,0.0140921962209131,0.8393527950371267
+western_canada_us,Western Canada and USA,2002,supraglacial,-0.4284839870413285,0.8393527950371267
+western_canada_us,Western Canada and USA,2003,proglacial_contacted,0.2229514500462212,-0.4992531476502022
+western_canada_us,Western Canada and USA,2003,proglacial_detached,0.8945062405778343,-0.4992531476502022
+western_canada_us,Western Canada and USA,2003,supraglacial,-0.2966820051237147,-0.4992531476502022
+western_canada_us,Western Canada and USA,2004,proglacial_contacted,0.4660240641766084,-0.4883165580572912
+western_canada_us,Western Canada and USA,2004,proglacial_detached,0.713582296784496,-0.4883165580572912
+western_canada_us,Western Canada and USA,2004,supraglacial,-0.3383444013353542,-0.4883165580572912
+western_canada_us,Western Canada and USA,2005,proglacial_contacted,0.630876978626248,-0.7936466461494422
+western_canada_us,Western Canada and USA,2005,proglacial_detached,0.6759077368009588,-0.7936466461494422
+western_canada_us,Western Canada and USA,2005,supraglacial,0.1052550625121619,-0.7936466461494422
+western_canada_us,Western Canada and USA,2006,proglacial_contacted,0.9801645348918436,0.1010039537929402
+western_canada_us,Western Canada and USA,2006,proglacial_detached,0.8932005817356964,0.1010039537929402
+western_canada_us,Western Canada and USA,2006,supraglacial,0.4325836996282461,0.1010039537929402
+western_canada_us,Western Canada and USA,2007,proglacial_contacted,-0.1550123481007576,0.8221657073365258
+western_canada_us,Western Canada and USA,2007,proglacial_detached,-0.003532181578059,0.8221657073365258
+western_canada_us,Western Canada and USA,2007,supraglacial,0.6086387356500389,0.8221657073365258
+western_canada_us,Western Canada and USA,2008,proglacial_contacted,0.6697538816514658,0.9384943156752558
+western_canada_us,Western Canada and USA,2008,proglacial_detached,0.7107558998272074,0.9384943156752558
+western_canada_us,Western Canada and USA,2008,supraglacial,0.5687341886426314,0.9384943156752558
+western_canada_us,Western Canada and USA,2009,proglacial_contacted,1.650668892708442,-0.2392499408724112
+western_canada_us,Western Canada and USA,2009,proglacial_detached,1.2323963922353605,-0.2392499408724112
+western_canada_us,Western Canada and USA,2009,supraglacial,1.2978443410869758,-0.2392499408724112
+western_canada_us,Western Canada and USA,2010,proglacial_contacted,0.4604629757535559,1.1465930034008849
+western_canada_us,Western Canada and USA,2010,proglacial_detached,0.4580313980514032,1.1465930034008849
+western_canada_us,Western Canada and USA,2010,supraglacial,0.7033153744846296,1.1465930034008849
+western_canada_us,Western Canada and USA,2011,proglacial_contacted,-0.4491097187402827,1.5894107616267374
+western_canada_us,Western Canada and USA,2011,proglacial_detached,-0.6272358689958427,1.5894107616267374
+western_canada_us,Western Canada and USA,2011,supraglacial,0.0608119348221563,1.5894107616267374
+western_canada_us,Western Canada and USA,2012,proglacial_contacted,-1.1524704384856554,0.7740593213886761
+western_canada_us,Western Canada and USA,2012,proglacial_detached,-1.9919642111350693,0.7740593213886761
+western_canada_us,Western Canada and USA,2012,supraglacial,-0.3397649489069501,0.7740593213886761
+western_canada_us,Western Canada and USA,2013,proglacial_contacted,-0.3168201132497297,-0.5080108978642892
+western_canada_us,Western Canada and USA,2013,proglacial_detached,-0.1923627308677595,-0.5080108978642892
+western_canada_us,Western Canada and USA,2013,supraglacial,0.0453146693517407,-0.5080108978642892
+western_canada_us,Western Canada and USA,2014,proglacial_contacted,0.3528915209713428,-0.6960337984635463
+western_canada_us,Western Canada and USA,2014,proglacial_detached,0.2416738480687559,-0.6960337984635463
+western_canada_us,Western Canada and USA,2014,supraglacial,-0.2002774872777088,-0.6960337984635463
+western_canada_us,Western Canada and USA,2015,proglacial_contacted,0.0406086970173127,-1.474361163191547
+western_canada_us,Western Canada and USA,2015,proglacial_detached,-0.8755158274224508,-1.474361163191547
+western_canada_us,Western Canada and USA,2015,supraglacial,-0.2281694403239108,-1.474361163191547
+western_canada_us,Western Canada and USA,2016,proglacial_contacted,0.3981571219033685,0.0266202049381627
+western_canada_us,Western Canada and USA,2016,proglacial_detached,-0.264148062779803,0.0266202049381627
+western_canada_us,Western Canada and USA,2016,supraglacial,0.1668336416327368,0.0266202049381627
+western_canada_us,Western Canada and USA,2017,proglacial_contacted,-0.2799212443132016,0.3280342607006723
+western_canada_us,Western Canada and USA,2017,proglacial_detached,0.0822702682293538,0.3280342607006723
+western_canada_us,Western Canada and USA,2017,supraglacial,0.1174192350727861,0.3280342607006723
+western_canada_us,Western Canada and USA,2018,proglacial_contacted,0.3197744493686588,0.0206749082476442
+western_canada_us,Western Canada and USA,2018,proglacial_detached,0.4787349109708647,0.0206749082476442
+western_canada_us,Western Canada and USA,2018,supraglacial,0.0923163857867584,0.0206749082476442
+western_canada_us,Western Canada and USA,2019,proglacial_contacted,0.2246105502531241,-0.2751506065119659
+western_canada_us,Western Canada and USA,2019,proglacial_detached,-0.2939899189879697,-0.2751506065119659
+western_canada_us,Western Canada and USA,2019,supraglacial,0.4589948519374095,-0.2751506065119659
+western_canada_us,Western Canada and USA,2020,proglacial_contacted,0.0191469606061244,-0.1868505232366395
+western_canada_us,Western Canada and USA,2020,proglacial_detached,-0.3334044520952111,-0.1868505232366395
+western_canada_us,Western Canada and USA,2020,supraglacial,-0.0284812361416254,-0.1868505232366395
+western_canada_us,Western Canada and USA,2021,proglacial_contacted,-0.5092016611095991,-0.977282991272474
+western_canada_us,Western Canada and USA,2021,proglacial_detached,-0.1388983882306839,-0.977282991272474
+western_canada_us,Western Canada and USA,2021,supraglacial,-0.0405923103661706,-0.977282991272474
+western_canada_us,Western Canada and USA,2022,proglacial_contacted,1.039077116523232,-0.2812913972095349
+western_canada_us,Western Canada and USA,2022,proglacial_detached,1.4897666134089147,-0.2812913972095349
+western_canada_us,Western Canada and USA,2022,supraglacial,1.1381226134521694,-0.2812913972095349
+western_canada_us,Western Canada and USA,2023,proglacial_contacted,1.3260919932858208,-1.921567422212743
+western_canada_us,Western Canada and USA,2023,proglacial_detached,1.5209042647190667,-1.921567422212743
+western_canada_us,Western Canada and USA,2023,supraglacial,1.6364495674377446,-1.921567422212743

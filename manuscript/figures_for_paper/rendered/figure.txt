@@ -1,0 +1,243 @@
+Figure 1：冰川异常 vs 湖泊异常主结果图
+体现了什么
+这张图首先说明：在全球 17 个区域、2000–2023 年、408 个 region-year 的共同样本里，冰川质量平衡异常与湖泊面积异常存在总体负相关关系。
+
+也就是说：
+
+当冰川质量平衡异常更负时，湖泊面积异常更倾向于更高
+这种关系不是单一区域的个例，而是在 pooled global sample 上成立
+你这里的总体结果是：
+
+Pearson r = -0.248
+P = 3.9e-07
+R² = 0.061
+虽然 R² 不算很高，但这在全球跨区域、跨年份、强异质性系统中其实是很正常的。它说明的不是“单变量决定一切”，而是：冰川异常确实是一个稳定存在的背景驱动项。
+
+右侧的 region-level effect 图又补了一层信息：
+
+17 个区域不是完全一致
+但负相关主导是清楚的
+强负相关区域是成组出现的，不是随机噪声
+验证了什么
+这张图验证的是全文最基础的第一层命题：
+
+glacier mass loss / glacier mass-balance anomaly 与 glacier-fed lake expansion 之间确实存在耦合关系。
+
+也就是你这篇文章不是在“假设有关系”，而是已经用正式共同样本证明：
+
+冰川异常可以进入主文主模型
+冰川项是可信的主解释变量之一
+Figure 2：GlaMBIE + monthly warm-season climate 联合模型图
+体现了什么
+这张图告诉我们：只有冰川项还不够，暖季月尺度气候异常也在独立起作用；两者联合时，模型解释力更强。
+
+主响应 total_annual_area_km2_anomaly_z 下，关键结果是：
+
+M1_glambie_only: R² = 0.061
+M2_temp_only: R² = 0.077
+M3_joint_core: R² = 0.092
+M4_joint_plus_precip: R² = 0.119
+这说明几件事：
+
+温暖季温度异常本身就是有效气候项
+
+单独的 temp_only 已经强于 glambie_only
+冰川异常和温度异常不是完全重复信息
+
+因为二者联合后，R² 继续上升
+所以不是“谁替代谁”，而是“两个维度共同解释湖泊异常”
+加入降水后还有进一步增益
+
+但温度依然是月尺度气候块里的核心项
+降水更像辅助修正项，而不是主角
+下面两个 added-variable / residual 图尤其重要，它们说明：
+
+在控制温度和降水后，冰川异常还有独立贡献
+在控制冰川和降水后，暖季温度异常也还有独立贡献
+验证了什么
+这张图验证的是文章标题中的第二层核心命题：
+
+湖泊扩张不是单纯由冰川变化决定，也不是单纯由气候暖异常决定，而是二者耦合驱动。
+
+更准确地说，它验证了：
+
+glacier signal 是独立存在的
+warm-season temperature signal 也是独立存在的
+联合模型优于单因子模型
+这就正式支撑了你题目里的：
+
+coupled glacier mass loss and extreme warmth
+
+至少其中的 “coupled glacier mass loss + warm-season warmth” 这一层已经被扎实验证了。
+
+Figure 3：monthly vs daily extreme 模型比较图
+体现了什么
+这张图是在回答一个非常关键的问题：
+
+真正最值得放在主文里的气候项，到底是 monthly warm-season anomaly，还是 daily extreme indicators？
+
+结果非常清楚：
+
+monthly-only block 强于 daily-only block
+主响应下：
+
+M1_monthly_temp: R² = 0.092
+M2_monthly_temp_precip: R² = 0.119
+而 daily-only block 是：
+
+M3_daily_tx90p: R² = 0.072
+M4_daily_tx90p_wsdi: R² = 0.076
+M5_daily_full: R² = 0.076
+也就是说：
+
+daily extreme 指标没有打败 monthly warm-season anomaly
+单独作为主气候解释块时，monthly 更强、更稳
+hybrid 最好，但只是增量提升
+M6_hybrid_monthly_plus_daily: R² = 0.123
+这比 M2_monthly_temp_precip 只略高一点，说明：
+
+daily extremes 不是没用
+但它们的作用更像是在 monthly 基础上提供额外信息
+而不是把 monthly 完全替代掉
+第三个面板的 region-level distribution 也支持这点：
+
+monthly temp: 平均 r = 0.271，6/17 区显著
+TX90p: 平均 r = 0.217，5/17 区显著
+WSDI: 平均 r = 0.170，2/17 区显著
+extreme-year flag: 平均 r = 0.168，0/17 区显著
+验证了什么
+这张图验证的是主文里气候变量的层级关系：
+
+monthly warm-season temperature anomaly 应该是主气候项；daily extreme indicators 是增量强化证据。
+
+也就是说，它帮你解决了一个非常重要的写作定位问题：
+
+你现在不应该写成：
+
+“daily extremes 比 monthly 更重要”
+而应该写成：
+
+monthly warmth captures the dominant climate signal
+daily extremes provide additional evidence for episodic amplification
+这是全文叙事能否稳定的关键。
+
+Figure 4：区域异质性 / 分层图
+体现了什么
+这张图说明：
+
+全球 glacier–lake anomaly coupling 是真实存在的，但它不是全球所有区域同强、同步、同方向。
+
+你现在把区域分成了三类：
+
+1. core_negative
+6 个区域：
+
+Alaska
+Arctic Canada North
+Caucasus and Middle East
+Greenland Periphery
+Scandinavia
+Western Canada and USA
+这一组是你的核心信号区：
+
+pooled r = -0.550
+R² = 0.302
+极显著
+这说明真正强的 glacier–lake anomaly coupling，主要集中在这一批区域。
+
+2. supporting_negative
+9 个区域：
+
+方向仍然主要是负的
+但强度明显较弱
+pooled r = -0.166
+这一组说明：
+
+主效应不是只有核心区才有
+但很多区域是“同方向支持、强度较弱”
+3. weak_or_opposite
+2 个区域：
+
+New Zealand
+South Asia West
+这一组不是主方向，且不显著。
+
+robustness 面板又补了一个更关键的点
+不同过滤条件下，主效应都还在：
+
+baseline r = -0.248
+usable share ≥ 0.50: r = -0.200
+usable share ≥ 0.70: r = -0.195
+drop suspicious ≥ 100: r = -0.195
+drop low overall quality < 0.60: r = -0.256
+drop both filters: r = -0.203
+这说明主结果不是由低质量数据、低 usable share、或者高 suspicious 区域硬撑出来的。
+
+验证了什么
+这张图验证了全文最容易被审稿人质疑的一点：
+
+这个全球关系不是由少数异常区域伪造的，也不是随机方向拼出来的。
+
+更准确地说，它验证了两件事：
+
+主效应是有结构的全球异质性
+
+不是所有地方都一样
+但核心负相关区成簇存在
+主效应是稳健的
+
+换不同筛选方式，方向不变
+说明结论对数据质量过滤不敏感到失真
+四张图合起来，最终说明了什么？
+如果把四张图连成一条主线，它们共同支持的是：
+
+1. 全球 glacier-fed lake expansion 与冰川质量异常存在统计耦合
+这是 Figure 1 立起来的。
+
+2. 这种耦合不是单因子现象，而是冰川异常与暖季气候异常共同驱动
+这是 Figure 2 立起来的。
+
+3. 在气候变量里，monthly warm-season temperature anomaly 是更核心、更稳定的主气候项
+这是 Figure 3 立起来的。
+
+4. daily extreme warmth 有价值，但更像“增强项”，不是对 monthly anomaly 的替代
+这也是 Figure 3 解决的。
+
+5. 这种耦合关系在全球上不是均一的，而是“全球存在、区域分层”
+这是 Figure 4 立起来的。
+
+6. 主结果对质量过滤和样本过滤是稳健的
+也是 Figure 4 完成的。
+
+所以，这四张图实际上验证了你的什么核心科学命题？
+它们已经基本验证了这篇文章最核心的版本：
+
+Since 2000, glacier-fed lake expansion is associated with coupled glacier mass loss and warm-season warmth, with a globally coherent but regionally structured response.
+
+如果再更贴近你的原始题目，可以拆成三句：
+
+冰川质量变化是湖泊扩张的重要背景驱动
+暖季变暖是关键气候放大项
+极端暖事件有增量作用，但月尺度暖异常仍是主气候信号
+同时，这四张图也告诉你哪些东西没有被“强验证”
+这也很重要，因为写作时要克制。
+
+它们没有验证：
+
+不是所有区域都强响应
+
+所以不能写成全球统一强耦合
+daily extreme 不是压倒性最强气候项
+
+所以不能把全文改写成“极端暖事件主导一切”
+单个模型解释度并不高
+
+说明系统受多因素共同控制
+这反而更符合全球复杂自然系统的现实
+所以最稳的表达不是“完全决定论”，而是：
+
+consistent
+independent
+incremental
+regionally structured
+robust to filtering

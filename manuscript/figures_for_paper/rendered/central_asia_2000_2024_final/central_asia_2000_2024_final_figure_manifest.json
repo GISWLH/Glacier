@@ -1,0 +1,23 @@
+{
+  "tag": "central_asia_2000_2024_final",
+  "source_year_csv": "E:\\Glacier\\manuscript\\figures_for_paper\\central_asia_2000_2024_final_figure_year_source.csv",
+  "source_anomaly_csv": "E:\\Glacier\\manuscript\\figures_for_paper\\central_asia_2000_2024_final_figure_anomaly_source.csv",
+  "source_class_csv": "E:\\Glacier\\manuscript\\figures_for_paper\\central_asia_2000_2024_final_figure_class_source.csv",
+  "figures": {
+    "figure01_year_overview": {
+      "title": "Central Asia annual area and quality overview",
+      "pdf": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\central_asia_2000_2024_final\\central_asia_2000_2024_final_figure01_year_overview.pdf",
+      "png": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\central_asia_2000_2024_final\\central_asia_2000_2024_final_figure01_year_overview.png"
+    },
+    "figure02_trend_anomalies": {
+      "title": "Central Asia trend and anomaly diagnostics",
+      "pdf": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\central_asia_2000_2024_final\\central_asia_2000_2024_final_figure02_trend_anomalies.pdf",
+      "png": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\central_asia_2000_2024_final\\central_asia_2000_2024_final_figure02_trend_anomalies.png"
+    },
+    "figure03_class_trajectories": {
+      "title": "Central Asia class-specific trajectories",
+      "pdf": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\central_asia_2000_2024_final\\central_asia_2000_2024_final_figure03_class_trajectories.pdf",
+      "png": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\central_asia_2000_2024_final\\central_asia_2000_2024_final_figure03_class_trajectories.png"
+    }
+  }
+}

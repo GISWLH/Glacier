@@ -1,0 +1,12 @@
+{
+  "source": "E:\\Glacier\\manuscript\\figures_for_paper\\global_region_overview_figure_source.csv",
+  "figure_style": "Nature-inspired compact two-panel overview; no background grid; color-blind-safe palette; position-first encoding",
+  "sorting": "ascending total_area_change_km2_2020_2024",
+  "priority_color_map": {
+    "high": "#D55E00",
+    "medium": "#E69F00",
+    "low": "#7A7A7A"
+  },
+  "pdf": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\global_region_overview\\global_region_overview_figure01.pdf",
+  "png": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\global_region_overview\\global_region_overview_figure01.png"
+}

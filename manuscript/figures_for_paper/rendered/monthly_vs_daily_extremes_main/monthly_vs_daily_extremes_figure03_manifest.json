@@ -1,0 +1,28 @@
+{
+  "panel_a_source": "E:\\Glacier\\manuscript\\figures_for_paper\\monthly_vs_daily_extremes_figure03_panel_a_source.csv",
+  "panel_b_source": "E:\\Glacier\\manuscript\\figures_for_paper\\monthly_vs_daily_extremes_figure03_panel_b_source.csv",
+  "panel_c_source": "E:\\Glacier\\manuscript\\figures_for_paper\\monthly_vs_daily_extremes_figure03_panel_c_source.csv",
+  "analysis_inputs": [
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_monthly_vs_daily_extremes_v1\\glambie_monthly_vs_daily_extremes_v1_model_tests.csv",
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_monthly_vs_daily_extremes_v1\\glambie_monthly_vs_daily_extremes_v1_regionwise_correlations.csv",
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_monthly_vs_daily_extremes_v1\\glambie_monthly_vs_daily_extremes_v1_analysis_ready_panel.csv"
+  ],
+  "figure_style": "Nature-style three-panel figure comparing monthly and daily-extreme climate model performance",
+  "nature_specs_applied": {
+    "width_mm": 183,
+    "font_family": "Arial",
+    "body_text_pt": "5-7",
+    "panel_label_pt": 8,
+    "vector_text": true,
+    "pdf_fonttype": 42,
+    "line_width_pt_range": "0.25-1",
+    "color_palette": "Okabe-Ito"
+  },
+  "source_notes": {
+    "panel_a": "Nested model ladder on common 408-row sample",
+    "panel_b": "Delta R2 relative to monthly temperature baseline M1",
+    "panel_c": "Regional Pearson correlation distributions for total_annual_area_km2_anomaly_z against monthly and daily climate indicators"
+  },
+  "pdf": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\monthly_vs_daily_extremes_main\\monthly_vs_daily_extremes_figure03.pdf",
+  "png": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\monthly_vs_daily_extremes_main\\monthly_vs_daily_extremes_figure03.png"
+}

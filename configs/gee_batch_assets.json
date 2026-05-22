@@ -1,0 +1,23 @@
+{
+  "ee_project": "ee-winsnowter",
+  "drive_folder": "GlacierAnnualArea",
+  "region_assets": {
+    "alaska": "projects/ee-winsnowter/assets/01_alaska_gee_upload",
+    "western_canada_us": "projects/ee-winsnowter/assets/02_western_canada_us_gee_upload",
+    "arctic_canada_north": "projects/ee-winsnowter/assets/03_arctic_canada_north_gee_upload",
+    "arctic_canada_south": "projects/ee-winsnowter/assets/04_arctic_canada_south_gee_upload",
+    "greenland_periphery": "projects/ee-winsnowter/assets/05_greenland_periphery_gee_upload",
+    "iceland": "projects/ee-winsnowter/assets/06_iceland_gee_upload",
+    "scandinavia": "projects/ee-winsnowter/assets/08_scandinavia_gee_upload",
+    "russian_arctic": "projects/ee-winsnowter/assets/09_russian_arctic_gee_upload",
+    "north_asia": "projects/ee-winsnowter/assets/10_north_asia_gee_upload",
+    "central_europe": "projects/ee-winsnowter/assets/11_central_europe_gee_upload",
+    "caucasus_middle_east": "projects/ee-winsnowter/assets/12_caucasus_middle_east_gee_upload",
+    "central_asia": "projects/ee-winsnowter/assets/13_central_asia_gee_upload",
+    "south_asia_west": "projects/ee-winsnowter/assets/14_south_asia_west_gee_upload",
+    "south_asia_east": "projects/ee-winsnowter/assets/15_south_asia_east_gee_upload",
+    "low_latitudes": "projects/ee-winsnowter/assets/16_low_latitudes_gee_upload",
+    "southern_andes": "projects/ee-winsnowter/assets/17_southern_andes_gee_upload",
+    "new_zealand": "projects/ee-winsnowter/assets/18_new_zealand_gee_upload"
+  }
+}

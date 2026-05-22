@@ -1,0 +1,24 @@
+{
+  "map_sources": [
+    "E:\\Glacier\\data\\raw\\RGI2000\\RGI2000-v7.0-regions\\RGI2000-v7.0-o1regions.shp",
+    "E:\\Glacier\\data\\prepared\\core_region_batches\\core_region_manifest.csv",
+    "E:\\Glacier\\data\\raw\\global_map\\40e47-main\\global_map\\110m_physical\\ne_110m_land.shp",
+    "E:\\Glacier\\data\\raw\\global_map\\40e47-main\\global_map\\110m_physical\\ne_110m_coastline.shp",
+    "E:\\Glacier\\data\\processed\\analysis_lake_master.gpkg"
+  ],
+  "panel_sources": [
+    "E:\\Glacier\\data\\processed\\formal_class_region_year_panel\\formal_class_region_year_panel_v1.csv",
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_class_coupling_v1\\glambie_class_coupling_v1_analysis_ready_panel.csv"
+  ],
+  "exported_panel_source_csv": "E:\\Glacier\\manuscript\\figures_for_paper\\global_class_region_composite_figure01_panel_source.csv",
+  "exported_map_source_csv": "E:\\Glacier\\manuscript\\figures_for_paper\\global_class_region_composite_figure01_map_source.csv",
+  "class_order": [
+    "proglacial_detached",
+    "proglacial_contacted",
+    "supraglacial"
+  ],
+  "anchor_logic": "For each region, anchor uses the real lake point nearest the regional median longitude/latitude of core analysis lakes; falls back to region representative point if needed.",
+  "figure_style": "Global map with 17 regional callout mini-panels arranged around the map; map layer combines land/coast basemap, latitude-longitude reference grid, weak region outlines, class-colored lake spatial distributions, and regional callout anchors. Top mini-panels show class anomaly trajectories and bottom mini-panels show glacier-lake coupling scatters with fit summaries.",
+  "pdf": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\global_class_region_composite\\global_class_region_composite_figure01.pdf",
+  "png": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\global_class_region_composite\\global_class_region_composite_figure01.png"
+}

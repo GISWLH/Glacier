@@ -1,0 +1,4 @@
+subset_name,response,predictor,predictor_family,test_name,n_rows,n_regions,estimate,p_value,slope,intercept,r2,ols_r2,ols_slope,stratum,n_rows_inventory,n_regions_inventory,label
+stratum::core_negative,total_annual_area_km2_anomaly_z,glambie_combined_mwe_anomaly,area_anomaly_primary,pearson,144,6,-0.5498762155601038,9.456276762022129e-13,,,,0.3023638524387013,-0.9025804519606898,core_negative,144,6,Core negative
+stratum::supporting_negative,total_annual_area_km2_anomaly_z,glambie_combined_mwe_anomaly,area_anomaly_primary,pearson,216,9,-0.1663295450609224,0.0143881767994382,,,,0.0276655175601734,-0.3125440773203563,supporting_negative,216,9,Supporting negative
+stratum::weak_or_opposite,total_annual_area_km2_anomaly_z,glambie_combined_mwe_anomaly,area_anomaly_primary,pearson,48,2,0.1896864311950528,0.1965979697563158,,,,0.0359809421795155,0.2686069275177302,weak_or_opposite,48,2,Weak or opposite

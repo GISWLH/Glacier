@@ -1,0 +1,26 @@
+{
+  "panel_a_source": "E:\\Glacier\\manuscript\\figures_for_paper\\glambie_monthly_joint_figure02_panel_a_source.csv",
+  "panel_b_source": "E:\\Glacier\\manuscript\\figures_for_paper\\glambie_monthly_joint_figure02_panel_b_source.csv",
+  "panel_c_source": "E:\\Glacier\\manuscript\\figures_for_paper\\glambie_monthly_joint_figure02_panel_c_source.csv",
+  "analysis_inputs": [
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_era5_joint_anomalies_v1\\glambie_era5_joint_anomalies_v1_model_tests.csv",
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_era5_joint_anomalies_v1\\glambie_era5_joint_anomalies_v1_analysis_ready_panel.csv"
+  ],
+  "figure_style": "Nature-style main-text figure with model-comparison panel plus two added-variable panels",
+  "nature_specs_applied": {
+    "width_mm": 183,
+    "font_family": "Arial",
+    "body_text_pt": "5-7",
+    "panel_label_pt": 8,
+    "vector_text": true,
+    "pdf_fonttype": 42,
+    "line_width_pt_range": "0.25-1",
+    "color_palette": "Okabe-Ito"
+  },
+  "source_notes": {
+    "panel_b": "Residual lake area anomaly and residual glacier anomaly after controlling for warm_season_t2m_anomaly_c and warm_season_precip_anomaly_mm",
+    "panel_c": "Residual lake area anomaly and residual warm_season_t2m_anomaly_c after controlling for glambie_combined_mwe_anomaly and warm_season_precip_anomaly_mm"
+  },
+  "pdf": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\glambie_monthly_joint_main\\glambie_monthly_joint_figure02.pdf",
+  "png": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\glambie_monthly_joint_main\\glambie_monthly_joint_figure02.png"
+}

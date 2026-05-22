@@ -1,0 +1,92 @@
+{
+  "project_name": "global_glacier_fed_lake_annual_area",
+  "version": "0.1.0",
+  "analysis_scope": {
+    "lake_source": "analysis_lake_master",
+    "included_lake_types": ["IUL", "ICL", "SGL"],
+    "included_harmonized_classes": ["proglacial_detached", "proglacial_contacted", "supraglacial"],
+    "analysis_tiers_included": ["core", "supplemental"],
+    "year_start": 2000,
+    "year_end": 2024,
+    "target_metric": "annual_maximum_open_water_extent_km2"
+  },
+  "data_paths": {
+    "region_manifest_csv": "E:\\Glacier\\data\\prepared\\region_batches\\region_manifest.csv",
+    "region_batch_dir": "E:\\Glacier\\data\\prepared\\region_batches",
+    "extraction_task_dir": "E:\\Glacier\\data\\prepared\\extraction_tasks",
+    "raw_output_dir": "E:\\Glacier\\data\\interim\\annual_area_raw",
+    "qc_output_dir": "E:\\Glacier\\data\\interim\\annual_area_qc"
+  },
+  "sensor_strategy": {
+    "primary_sensor": "landsat_collection2_level2",
+    "supplemental_sensor": "sentinel2_level2a",
+    "main_workflow_uses_supplemental_sensor": false
+  },
+  "landsat": {
+    "collections": [
+      "LANDSAT/LT05/C02/T1_L2",
+      "LANDSAT/LE07/C02/T1_L2",
+      "LANDSAT/LC08/C02/T1_L2",
+      "LANDSAT/LC09/C02/T1_L2"
+    ],
+    "scale_m": 30,
+    "qa_strategy": {
+      "mask_cloud": true,
+      "mask_cloud_shadow": true,
+      "mask_snow": true,
+      "mask_fill": true,
+      "mask_dilated_cloud": true,
+      "mask_saturated": true
+    }
+  },
+  "annual_window": {
+    "default_months": [7, 8, 9],
+    "region_overrides": {
+      "alaska": [7, 8, 9],
+      "western_canada_us": [7, 8, 9],
+      "arctic_canada_north": [7, 8, 9],
+      "arctic_canada_south": [7, 8, 9],
+      "greenland_periphery": [7, 8, 9],
+      "iceland": [7, 8, 9],
+      "scandinavia": [7, 8, 9],
+      "russian_arctic": [7, 8, 9],
+      "north_asia": [7, 8, 9],
+      "central_europe": [7, 8, 9],
+      "caucasus_middle_east": [7, 8, 9],
+      "central_asia": [7, 8, 9],
+      "south_asia_west": [7, 8, 9],
+      "south_asia_east": [7, 8, 9],
+      "low_latitudes": [6, 7, 8, 9],
+      "southern_andes": [1, 2, 3],
+      "new_zealand": [1, 2, 3]
+    }
+  },
+  "water_mapping": {
+    "indices": ["NDWI", "MNDWI"],
+    "thresholds": {
+      "NDWI_min": 0.0,
+      "MNDWI_min": 0.0
+    },
+    "logic": "pixel is water when NDWI >= threshold AND MNDWI >= threshold",
+    "post_processing": {
+      "use_connected_pixel_filter": false,
+      "use_morphology": false
+    }
+  },
+  "lake_geometry_handling": {
+    "region_of_interest_buffer_m": 120,
+    "export_geometry_simplify_tolerance_m": 0,
+    "minimum_analysis_area_km2": 0.01
+  },
+  "quality_control": {
+    "minimum_images_per_year": 3,
+    "minimum_valid_observation_fraction": 0.7,
+    "track_image_count": true,
+    "track_valid_pixel_count": true,
+    "track_water_pixel_count": true
+  },
+  "test_regions": [
+    "greenland_periphery",
+    "central_asia"
+  ]
+}

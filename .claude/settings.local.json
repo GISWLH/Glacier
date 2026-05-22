@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python \"E:/Glacier/src/freeze_formal_area_results.py\")"
+    ]
+  }
+}

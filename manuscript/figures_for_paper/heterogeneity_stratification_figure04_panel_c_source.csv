@@ -1,0 +1,7 @@
+subset_name,response,predictor,predictor_family,test_name,n_rows,n_regions,estimate,p_value,slope,intercept,r2,ols_r2,ols_slope,label,significant
+baseline_shared_2000_2023,total_annual_area_km2_anomaly_z,glambie_combined_mwe_anomaly,area_anomaly_primary,pearson,408,17,-0.2479897996555208,3.910920050588928e-07,,,,0.0614989407331854,-0.4250621520115692,Baseline,True
+usable_share_ge_0.50,total_annual_area_km2_anomaly_z,glambie_combined_mwe_anomaly,area_anomaly_primary,pearson,355,17,-0.2004435602051663,0.0001435434075492,,,,0.040177620827722,-0.325847913885395,Usable share ≥ 0.50,True
+usable_share_ge_0.70,total_annual_area_km2_anomaly_z,glambie_combined_mwe_anomaly,area_anomaly_primary,pearson,271,17,-0.1948289572410466,0.0012667487907524,,,,0.0379583225796335,-0.3029650212548193,Usable share ≥ 0.70,True
+drop_high_suspicious_ge_100,total_annual_area_km2_anomaly_z,glambie_combined_mwe_anomaly,area_anomaly_primary,pearson,288,12,-0.1950766885377697,0.0008741056230339,,,,0.0380549144108618,-0.3537447979291503,Drop suspicious ≥ 100,True
+drop_low_overall_quality_lt_0.60,total_annual_area_km2_anomaly_z,glambie_combined_mwe_anomaly,area_anomaly_primary,pearson,384,16,-0.2557538618613334,3.771823515094038e-07,,,,0.065410037856986,-0.4286413886653782,Drop overall quality < 0.60,True
+drop_both_low_quality_and_high_suspicious,total_annual_area_km2_anomaly_z,glambie_combined_mwe_anomaly,area_anomaly_primary,pearson,264,11,-0.2028034621500315,0.0009196001310323,,,,0.0411292442600391,-0.3571481692279813,Drop both filters,True

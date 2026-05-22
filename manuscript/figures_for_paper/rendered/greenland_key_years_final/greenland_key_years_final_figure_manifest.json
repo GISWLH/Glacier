@@ -1,0 +1,22 @@
+{
+  "source_year_csv": "E:\\Glacier\\manuscript\\figures_for_paper\\greenland_key_years_final_figure_year_source.csv",
+  "source_stage_csv": "E:\\Glacier\\manuscript\\figures_for_paper\\greenland_key_years_final_figure_stage_source.csv",
+  "source_class_csv": "E:\\Glacier\\manuscript\\figures_for_paper\\greenland_key_years_final_figure_stage_class_source.csv",
+  "figures": {
+    "figure01_year_overview": {
+      "title": "Greenland Periphery key-year overview",
+      "pdf": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\greenland_key_years_final\\greenland_key_years_final_figure01_year_overview.pdf",
+      "png": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\greenland_key_years_final\\greenland_key_years_final_figure01_year_overview.png"
+    },
+    "figure02_stage_changes": {
+      "title": "Greenland Periphery interval-scale changes",
+      "pdf": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\greenland_key_years_final\\greenland_key_years_final_figure02_stage_changes.pdf",
+      "png": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\greenland_key_years_final\\greenland_key_years_final_figure02_stage_changes.png"
+    },
+    "figure03_class_contributions": {
+      "title": "Greenland Periphery class-specific contributions",
+      "pdf": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\greenland_key_years_final\\greenland_key_years_final_figure03_class_contributions.pdf",
+      "png": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\greenland_key_years_final\\greenland_key_years_final_figure03_class_contributions.png"
+    }
+  }
+}

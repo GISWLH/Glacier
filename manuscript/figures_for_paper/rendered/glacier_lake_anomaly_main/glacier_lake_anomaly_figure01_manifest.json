@@ -1,0 +1,33 @@
+{
+  "panel_a_source": "E:\\Glacier\\manuscript\\figures_for_paper\\glacier_lake_anomaly_figure01_panel_a_source.csv",
+  "panel_b_source": "E:\\Glacier\\manuscript\\figures_for_paper\\glacier_lake_anomaly_figure01_panel_b_source.csv",
+  "analysis_inputs": [
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_coupling_v1\\glambie_coupling_v1_analysis_ready_panel.csv",
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_coupling_v1\\glambie_coupling_v1_panel_tests.csv",
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_coupling_v1\\glambie_coupling_v1_regionwise_correlations.csv",
+    "E:\\Glacier\\data\\processed\\analysis\\glambie_anomaly_robustness_v1\\glambie_anomaly_robustness_v1_stratified_regions.csv"
+  ],
+  "figure_style": "Nature-style double-column figure with pooled anomaly scatter and region-level forest plot",
+  "nature_specs_applied": {
+    "width_mm": 183,
+    "font_family": "Arial",
+    "body_text_pt": "5-7",
+    "panel_label_pt": 8,
+    "vector_text": true,
+    "pdf_fonttype": 42,
+    "color_palette": "Okabe-Ito"
+  },
+  "overall_stats": {
+    "n_rows": 408,
+    "n_regions": 17,
+    "year_min": 2000,
+    "year_max": 2023,
+    "pearson_r": -0.2479897996555208,
+    "p_value": 3.910920050588928e-07,
+    "slope": -0.4250621520115692,
+    "intercept": 0.0165889089403874,
+    "r2": 0.0614989407331854
+  },
+  "pdf": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\glacier_lake_anomaly_main\\glacier_lake_anomaly_figure01.pdf",
+  "png": "E:\\Glacier\\manuscript\\figures_for_paper\\rendered\\glacier_lake_anomaly_main\\glacier_lake_anomaly_figure01.png"
+}

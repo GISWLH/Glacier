@@ -1,0 +1,19 @@
+{
+  "source_volume_root": "/data/xwang/LAKE_AREA/VOLUME_SITES_LANDSAT",
+  "valid_id_file": "/tmp/glacier_volume_match_report/valid_volume_timeseries_lake_ids.txt",
+  "output": "/tmp/glacier_volume_match_report/valid_volume_timeseries_long.csv.gz",
+  "valid_lake_ids_requested": 85622,
+  "unique_lake_ids_in_output": 85622,
+  "rows_written": 2996770,
+  "year_min": 1990,
+  "year_max": 2024,
+  "year_count": 35,
+  "ids_with_no_written_rows": 0,
+  "ids_with_no_written_rows_examples": [],
+  "columns": [
+    "lake_id",
+    "year",
+    "area_km2",
+    "volume_million_m3"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "url": "https://images.codexai.team/assets/codex/8481ff33-da7c-41d5-a7b8-1154488f55b0.png"
+    }
+  ],
+  "created": 1780747235,
+  "usage": {
+    "input_tokens": 429,
+    "output_tokens": 1372,
+    "total_tokens": 1801,
+    "input_tokens_details": {
+      "text_tokens": 429,
+      "image_tokens": 0
+    },
+    "output_tokens_details": {
+      "text_tokens": 0,
+      "image_tokens": 1372
+    }
+  }
+}

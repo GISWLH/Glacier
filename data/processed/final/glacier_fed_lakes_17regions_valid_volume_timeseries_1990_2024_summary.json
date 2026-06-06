@@ -1,0 +1,26 @@
+{
+  "final_csv": "D:\\OneDrive\\GitHub\\Glacier\\data\\processed\\final\\glacier_fed_lakes_17regions_valid_volume_timeseries_1990_2024.csv",
+  "source_inventory_csv": "D:\\OneDrive\\GitHub\\Glacier\\data\\concept_report_assets\\glacier_fed_lakes_17regions_lake_inventory.csv",
+  "source_volume_long_csv_gz": "removed after final export; reproducible from source inventory and source volume CSV directories",
+  "rows": 2996770,
+  "unique_lake_ids": 85622,
+  "year_min": 1990,
+  "year_max": 2024,
+  "year_count": 35,
+  "columns": [
+    "lake_id",
+    "lake_type",
+    "hclass",
+    "rgi_name",
+    "glmb_key",
+    "area0_km2",
+    "elev_m",
+    "lat",
+    "lon",
+    "year",
+    "area_km2",
+    "volume_million_m3"
+  ],
+  "missing_attribute_ids": 0,
+  "id_contract": "lake_id is unique in the source inventory; final CSV is long format with one row per lake_id-year."
+}

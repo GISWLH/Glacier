@@ -1,0 +1,29 @@
+{
+  "shapefile_components": {
+    "glacier_fed_lakes_17regions_merged.cpg": 5,
+    "glacier_fed_lakes_17regions_merged.dbf": 51156035,
+    "glacier_fed_lakes_17regions_merged.prj": 310,
+    "glacier_fed_lakes_17regions_merged.shp": 257379752,
+    "glacier_fed_lakes_17regions_merged.shx": 823532
+  },
+  "attribute_table_rows": 102929,
+  "attribute_table_unique_lake_ids": 102929,
+  "validated_match_table_rows": 102929,
+  "validated_valid_lake_ids": 85622,
+  "validated_valid_unique_lake_ids": 85622,
+  "valid_ids_subset_of_attribute_ids": true,
+  "volume_long_rows": 2996770,
+  "volume_long_unique_lake_ids": 85622,
+  "volume_long_year_min": 1990,
+  "volume_long_year_max": 2024,
+  "volume_long_year_count": 35,
+  "volume_ids_equal_validated_valid_ids": true,
+  "volume_ids_subset_of_attribute_ids": true,
+  "asset_paths": {
+    "shapefile_dir": "D:\\OneDrive\\GitHub\\Glacier\\data\\concept_report_assets\\shapefile",
+    "shapefile_main": "D:\\OneDrive\\GitHub\\Glacier\\data\\concept_report_assets\\shapefile\\glacier_fed_lakes_17regions_merged.shp",
+    "shapefile_attribute_csv": "D:\\OneDrive\\GitHub\\Glacier\\data\\concept_report_assets\\glacier_fed_lakes_17regions_lake_inventory.csv",
+    "validated_match_table": "removed after QA summarization; reproducible from source inventory and source volume CSV directories",
+    "volume_long_table_gzip_csv": "removed after final export; replaced by data\\processed\\final\\glacier_fed_lakes_17regions_valid_volume_timeseries_1990_2024.csv"
+  }
+}

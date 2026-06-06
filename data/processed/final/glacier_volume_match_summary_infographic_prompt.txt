@@ -1,0 +1,27 @@
+Create a clean scientific data QA infographic in English, landscape 16:9, high-resolution, white background with subtle glacier blue and dark charcoal accents.
+
+Title: "Glacier-fed lake volume match QA"
+
+Show a left-to-right data pipeline / funnel with exact numbers:
+1. Source inventory: 102,929 unique lake_id
+2. Volume CSV found: 85,714 lakes
+3. Valid volume time-series: 85,622 lakes
+4. Final long table: 2,996,770 rows
+
+Include small annotations:
+- Years: 1990-2024 (35 years)
+- Join key: lake_id
+- Match rate of inventory: 83.2%
+- Valid rate among matched CSV: 99.9%
+- Invalid volume time-series: 92 lakes (NO_VALID_VOLUME)
+- Missing volume CSV: 17,215 lakes
+
+Add a compact QA checklist panel:
+- lake_id unique in inventory
+- volume IDs subset of inventory IDs
+- final IDs equal validated valid IDs
+- missing attributes: 0
+
+Add a grouped-statistics note: "Diagnostics grouped by glmb_key, rgi_name, hclass, and lake_type".
+
+Style: publication-ready, precise, data-engineering dashboard aesthetic, no cartoon characters, no 3D, no decorative clutter. Use legible typography and make all numbers crisp and readable.

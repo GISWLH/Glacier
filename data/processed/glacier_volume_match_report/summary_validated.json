@@ -1,0 +1,36 @@
+{
+  "inventory_lakes": 102929,
+  "inventory_unique_lakes": 102929,
+  "needed_bucket_dirs": 12,
+  "needed_bucket_names": [
+    "lake_id_1-10000",
+    "lake_id_10001-20000",
+    "lake_id_20001-30000",
+    "lake_id_30001-40000",
+    "lake_id_40001-50000",
+    "lake_id_50001-60000",
+    "lake_id_60001-70000",
+    "lake_id_70001-80000",
+    "lake_id_80001-90000",
+    "lake_id_90001-100000",
+    "lake_id_100001-110000",
+    "lake_id_110001-120000"
+  ],
+  "remote_csv_files_listed_in_needed_buckets": 100285,
+  "matched_lakes_with_csv": 85714,
+  "missing_lakes_without_csv": 17215,
+  "match_rate": 0.8327487879994948,
+  "sample_checked_matched_files": 1000,
+  "sample_files_missing_volume_header": 0,
+  "sample_empty_csv_files": 0,
+  "volume_root": "/data/xwang/LAKE_AREA/VOLUME_SITES_LANDSAT",
+  "match_method": "listed CSV stems in needed 10000-ID bucket directories and intersected with inventory lake_id",
+  "matched_lakes_with_valid_volume_timeseries": 85622,
+  "matched_csv_but_invalid_volume_timeseries": 92,
+  "valid_volume_timeseries_rate_of_inventory": 0.8318549679876419,
+  "valid_volume_timeseries_rate_of_matched_csv": 0.998926663088877,
+  "volume_timeseries_issue_counts": {
+    "NO_VALID_VOLUME": 92
+  },
+  "strict_validation_rule": "CSV must have year and volume_million_m3 columns, at least one data row, at least one valid numeric year, and at least one valid numeric volume_million_m3 value."
+}

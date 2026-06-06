@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>冰川补给湖数据概念验收</title>
+<style>
+:root {
+  --ink:#18222b; --muted:#64727c; --paper:#fbfaf6; --line:#d7ded7;
+  --blue:#346f98; --orange:#f28e2b; --green:#2f6f83; --plum:#8d4b85;
+}
+* { box-sizing:border-box; }
+body { margin:0; background:var(--paper); color:var(--ink); font-family: Arial, "Microsoft YaHei", sans-serif; line-height:1.58; }
+header { padding:42px min(6vw,72px) 28px; background:linear-gradient(180deg,#eef6f3 0%,#fbfaf6 100%); border-bottom:1px solid var(--line); }
+h1 { margin:0; font-size:clamp(28px,4.5vw,54px); line-height:1.05; letter-spacing:0; }
+.subtitle { max-width:980px; margin:16px 0 0; color:#394852; font-size:18px; }
+main { padding:26px min(6vw,72px) 56px; }
+.kpis { display:grid; grid-template-columns:repeat(4,minmax(160px,1fr)); gap:14px; margin:0 0 28px; }
+.kpi { border:1px solid var(--line); border-radius:8px; background:white; padding:16px 18px; box-shadow:0 1px 0 rgba(24,34,43,.04); }
+.kpi b { display:block; font-size:28px; line-height:1.1; }
+.kpi span { color:var(--muted); font-size:13px; }
+section { margin:30px 0 42px; }
+h2 { font-size:24px; margin:0 0 10px; }
+p { max-width:1040px; margin:8px 0; }
+.figure { margin:18px 0 22px; border:1px solid var(--line); border-radius:8px; background:white; padding:12px; }
+.figure img { width:100%; display:block; border-radius:5px; }
+.caption { color:var(--muted); font-size:14px; margin:10px 4px 0; }
+.grid2 { display:grid; grid-template-columns:1fr 1fr; gap:18px; align-items:start; }
+table { width:100%; border-collapse:collapse; background:white; border:1px solid var(--line); border-radius:8px; overflow:hidden; display:table; }
+th,td { padding:10px 12px; border-bottom:1px solid #e7ebe7; text-align:right; font-size:14px; }
+th:first-child,td:first-child { text-align:left; }
+th { background:#eef3ef; color:#2b3840; }
+tr:last-child td { border-bottom:0; }
+.story { display:grid; grid-template-columns:repeat(3,1fr); gap:16px; }
+.story article { border-left:5px solid var(--blue); background:white; border-radius:8px; padding:16px; border-top:1px solid var(--line); border-right:1px solid var(--line); border-bottom:1px solid var(--line); }
+.story article:nth-child(2) { border-left-color:var(--green); }
+.story article:nth-child(3) { border-left-color:var(--orange); }
+.note { border:1px solid #e2d2b8; border-left:5px solid var(--orange); border-radius:8px; background:#fff8ea; padding:14px 16px; max-width:1040px; }
+.flow { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin:16px 0; }
+.flow div { background:white; border:1px solid var(--line); border-radius:8px; padding:14px; }
+.flow b { display:block; color:#253640; margin-bottom:4px; }
+code { background:#eef3ef; padding:2px 5px; border-radius:4px; }
+footer { color:var(--muted); border-top:1px solid var(--line); padding:18px min(6vw,72px) 34px; font-size:13px; }
+@media (max-width:900px) { .kpis,.grid2,.story,.flow { grid-template-columns:1fr; } h1 { font-size:34px; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>冰川补给湖数据：从空间清单到年度脉搏</h1>
+  <p class="subtitle">这份验收页把 <code>data</code> 下的多边形清单、经纬度时序索引和逐湖年度序列串成一个可读的数据概念：哪里有湖，哪些湖已经进入可分析时序，1990-2024 年间面积和库容如何共同起伏。</p>
+</header>
+<main>
+  <div class="kpis">
+    <div class="kpi"><b>102,929</b><span>shapefile 冰川补给湖记录</span></div>
+    <div class="kpi"><b>10,556</b><span>ZIP 内逐湖年度时序 CSV</span></div>
+    <div class="kpi"><b>2,674</b><span>带经纬度的验收时序湖点</span></div>
+    <div class="kpi"><b>1990-2024</b><span>逐湖面积/体积年度范围</span></div>
+  </div>
+
+  <section>
+    <h2>一张图看数据位置</h2>
+    <p>Cartopy 地图中，蓝色半透明点表示 RAR shapefile 中的冰川补给湖全集，橙色点表示 <code>complete_timeseries_ids_with_latlon.csv</code> 中已经具备经纬度和时序 ID 的验收子集。橙色点并不是均匀抽样，而是沿冰川活动区聚集，尤其集中在 Scandinavia、Alaska、Arctic Canada South、Western Canada and USA 等区域。</p>
+    <div class="figure"><img src="concept_report_assets/cartopy_glacier_lake_global_map.png" alt="Cartopy glacier lake global map" /><div class="caption">使用 Cartopy Robinson 投影绘制；点大小按 <code>area0_km2</code> 缩放。</div></div>
+  </section>
+
+  <section class="story">
+    <article><h2>空间底图</h2><p><code>glacier_fed_lakes_17regions_merged.rar</code> 解压后为 5 个 shapefile 组件，包含 102,929 条记录、17 个 RGI/GLAMBIE 区域，字段包括 <code>lake_id</code>、<code>lake_type</code>、<code>hclass</code>、<code>rgi_name</code>、<code>area0_km2</code>、<code>lat/lon</code>。</p></article>
+    <article><h2>时序仓库</h2><p><code>HILANDS_LAKE.zip</code> 内有 10,556 个逐湖 CSV，按文件名去重后为 8,183 个唯一 <code>Hylak_id</code>；字段为 <code>year</code>、<code>area_km2</code>、<code>volume_million_m3</code>，年度长度中位数为 35 年。</p></article>
+    <article><h2>验收索引</h2><p><code>complete_timeseries_ids_with_latlon.csv</code> 提供 2,674 个可直接定位的时序湖点，全部能在 ZIP 中找到对应逐湖文件；它是 ZIP 的一个已定位、已映射子集，不是全部 8,183 个 ZIP 湖泊。</p></article>
+  </section>
+
+  <section>
+    <h2>ID 对账与覆盖关系</h2>
+    <p class="note"><b>核心判断：</b><code>complete_timeseries_ids_with_latlon.csv</code> 与 <code>HILANDS_LAKE.zip</code> 是匹配的，匹配字段是 <code>Hylak_id</code>；但它们并不覆盖 <code>glacier_fed_lakes_17regions_merged.shp</code> 中的所有冰川湖。ZIP 文件名不是 shapefile 的 <code>lake_id</code>，两套 ID 体系需要通过 CSV 中的 <code>Hylak_id → glacier_lake_id</code> 映射连接。</p>
+    <div class="flow">
+      <div><b>HILANDS_LAKE.zip</b><span>10,556 个 CSV 文件；去重后 8,183 个唯一 <code>Hylak_id</code>。</span></div>
+      <div><b>complete_timeseries_ids_with_latlon.csv</b><span>2,674 条 <code>Hylak_id</code>，全部能在 ZIP 中找到，匹配率 100%。</span></div>
+      <div><b>映射到 glacier_lake_id</b><span>2,674 条记录对应 2,622 个唯一冰川湖 ID。</span></div>
+      <div><b>shapefile 全集</b><span>102,929 个唯一 <code>lake_id</code>，其中 100,307 个没有进入当前 HILANDS 映射子集。</span></div>
+    </div>
+    <table><thead><tr><th>对账项</th><th>结果</th><th>解释</th></tr></thead><tbody>
+      <tr><td>CSV 的 Hylak_id 是否都在 ZIP 中</td><td>2,674 / 2,674</td><td>是，二者严格匹配；CSV 是 ZIP 中一部分湖泊的空间索引表。</td></tr>
+      <tr><td>ZIP 文件是否唯一</td><td>10,556 文件；8,183 唯一 ID</td><td>有 2,373 个重复 ID 文件，常见为两个目录下各有一份同名 CSV。</td></tr>
+      <tr><td>CSV 映射到 shapefile</td><td>2,622 / 102,929</td><td>只覆盖冰川湖全集约 2.55%，不能当作全集时序。</td></tr>
+      <tr><td>ZIP 文件名直接匹配 shapefile lake_id</td><td>667 / 8,183</td><td>直接匹配很少，主要原因是 ZIP 用 <code>Hylak_id</code>，shapefile 用 <code>lake_id</code>。</td></tr>
+    </tbody></table>
+  </section>
+
+  <section>
+    <h2>区域结构</h2>
+    <p>全集和验收子集的区域结构并不完全等比例：全集反映全球冰川补给湖空间底盘，CSV 子集更像一批已打通“位置-湖泊ID-年度面积/体积”的可分析样本。</p>
+    <div class="figure"><img src="concept_report_assets/region_inventory_vs_timeseries_counts.png" alt="Regional counts" /></div>
+    <table><thead><tr><th>区域</th><th>shapefile 湖泊数</th><th>shapefile 初始面积 km2</th><th>CSV 湖泊数</th><th>CSV/全集</th></tr></thead><tbody><tr><td>Greenland Periphery</td><td>42,017</td><td>9,818.4</td><td>0</td><td>0.0%</td></tr><tr><td>Western Canada and USA</td><td>8,738</td><td>868.6</td><td>247</td><td>2.8%</td></tr><tr><td>Arctic Canada South</td><td>8,503</td><td>2,370.9</td><td>414</td><td>4.9%</td></tr><tr><td>Central Asia</td><td>7,846</td><td>539.4</td><td>66</td><td>0.8%</td></tr><tr><td>Alaska</td><td>7,436</td><td>2,580.3</td><td>438</td><td>5.9%</td></tr><tr><td>Southern Andes</td><td>6,250</td><td>2,663.7</td><td>47</td><td>0.8%</td></tr><tr><td>Scandinavia</td><td>5,437</td><td>1,309.7</td><td>1,148</td><td>21.1%</td></tr><tr><td>South Asia East</td><td>4,602</td><td>420.0</td><td>159</td><td>3.5%</td></tr><tr><td>South Asia West</td><td>3,775</td><td>193.6</td><td>12</td><td>0.3%</td></tr><tr><td>Low Latitudes</td><td>2,586</td><td>304.0</td><td>114</td><td>4.4%</td></tr><tr><td>North Asia</td><td>2,159</td><td>181.8</td><td>22</td><td>1.0%</td></tr><tr><td>Arctic Canada North</td><td>1,015</td><td>336.6</td><td>0</td><td>0.0%</td></tr></tbody></table>
+  </section>
+
+  <section class="grid2">
+    <div>
+      <h2>年度面积与库容</h2>
+      <p>把 ZIP 中所有逐湖文件按年份汇总后，可以看到年度总面积和估算库容共同构成数据的“脉搏”。这不是最终科学结论，而是验收层面的完整性与可用性检查：年份连续、字段可解析、数量级稳定。</p>
+      <div class="figure"><img src="concept_report_assets/hilands_lake_annual_area_volume.png" alt="Annual total area and volume" /></div>
+    </div>
+    <div>
+      <h2>湖泊类型语义</h2>
+      <p>shapefile 的 <code>hclass</code> 字段给湖泊一个地貌语境，使后续分析可以从单纯面积变化，走向“哪类冰川补给湖在变”的机制描述。</p>
+      <div class="figure"><img src="concept_report_assets/shapefile_hclass_composition.png" alt="hclass composition" /></div>
+      <table><thead><tr><th>hclass</th><th>湖泊数</th><th>占比</th></tr></thead><tbody><tr><td>proglacial_detached</td><td>78,708</td><td>76.5%</td></tr><tr><td>proglacial_contacted</td><td>17,879</td><td>17.4%</td></tr><tr><td>supraglacial</td><td>6,342</td><td>6.2%</td></tr></tbody></table>
+    </div>
+  </section>
+
+  <section>
+    <h2>验收结论</h2>
+    <p>本次验收确认：<code>complete_timeseries_ids_with_latlon.csv</code> 与 <code>HILANDS_LAKE.zip</code> 能通过 <code>Hylak_id</code> 100% 对应；这些记录再通过 <code>glacier_lake_id</code> 连接到 shapefile 中的 2,622 个唯一冰川湖。需要特别说明的是，这只是冰川湖全集中的一个小型时序子集，不是所有 102,929 个冰川湖的一一时序覆盖。Cartopy 地图可正常绘制全球分布，ZIP 中年度面积与体积字段可批量读取并按年汇总。输出资产位于 <code>data/concept_report_assets</code>，机器可读摘要见 <code>glacier_lake_data_summary.json</code> 和 <code>hilands_lake_id_audit.json</code>。</p>
+  </section>
+</main>
+<footer>Generated locally with Python, Matplotlib and Cartopy. Source data remain in <code>data</code>; extracted shapefile assets are stored for reproducible acceptance rendering.</footer>
+</body>
+</html>

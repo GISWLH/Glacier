@@ -1,0 +1,243 @@
+{
+  "zip_csv_files": 10556,
+  "zip_unique_ids": 8183,
+  "zip_duplicate_id_count": 2373,
+  "zip_extra_duplicate_files": 2373,
+  "zip_duplicate_sample": [
+    [
+      "1268387",
+      2
+    ],
+    [
+      "1265207",
+      2
+    ],
+    [
+      "153237",
+      2
+    ],
+    [
+      "1192011",
+      2
+    ],
+    [
+      "679841",
+      2
+    ],
+    [
+      "1276614",
+      2
+    ],
+    [
+      "1380244",
+      2
+    ],
+    [
+      "1049248",
+      2
+    ],
+    [
+      "1176632",
+      2
+    ],
+    [
+      "140931",
+      2
+    ],
+    [
+      "155477",
+      2
+    ],
+    [
+      "84577",
+      2
+    ],
+    [
+      "1382060",
+      2
+    ],
+    [
+      "920413",
+      2
+    ],
+    [
+      "1186700",
+      2
+    ],
+    [
+      "506850",
+      2
+    ],
+    [
+      "1169366",
+      2
+    ],
+    [
+      "1091350",
+      2
+    ],
+    [
+      "1382049",
+      2
+    ],
+    [
+      "637887",
+      2
+    ],
+    [
+      "1049630",
+      2
+    ],
+    [
+      "119296",
+      2
+    ],
+    [
+      "1275353",
+      2
+    ],
+    [
+      "703261",
+      2
+    ],
+    [
+      "58347",
+      2
+    ],
+    [
+      "887824",
+      2
+    ],
+    [
+      "64047",
+      2
+    ],
+    [
+      "1381988",
+      2
+    ],
+    [
+      "1092783",
+      2
+    ],
+    [
+      "1288046",
+      2
+    ]
+  ],
+  "mapping_rows": 2674,
+  "mapping_unique_hylak_id": 2674,
+  "mapping_unique_glacier_lake_id": 2622,
+  "shapefile_records": 102929,
+  "shapefile_unique_lake_id": 102929,
+  "hylak_id_in_zip_from_mapping_csv": 2674,
+  "glacier_lake_id_in_shapefile_from_mapping_csv": 2622,
+  "zip_ids_directly_in_shapefile_lake_id": 667,
+  "zip_unique_ids_not_in_mapping_csv": 5509,
+  "mapping_hylak_ids_not_in_zip": [],
+  "shapefile_lake_ids_not_mapped_count": 100307,
+  "regional_mapped_coverage": [
+    {
+      "region": "Greenland Periphery",
+      "shapefile_lakes": 42017,
+      "mapped_to_hilands_zip": 0,
+      "coverage_percent": 0.0
+    },
+    {
+      "region": "Western Canada and USA",
+      "shapefile_lakes": 8738,
+      "mapped_to_hilands_zip": 246,
+      "coverage_percent": 2.81528953994049
+    },
+    {
+      "region": "Arctic Canada South",
+      "shapefile_lakes": 8503,
+      "mapped_to_hilands_zip": 397,
+      "coverage_percent": 4.668940373985652
+    },
+    {
+      "region": "Central Asia",
+      "shapefile_lakes": 7846,
+      "mapped_to_hilands_zip": 66,
+      "coverage_percent": 0.8411929645679326
+    },
+    {
+      "region": "Alaska",
+      "shapefile_lakes": 7436,
+      "mapped_to_hilands_zip": 416,
+      "coverage_percent": 5.594405594405594
+    },
+    {
+      "region": "Southern Andes",
+      "shapefile_lakes": 6250,
+      "mapped_to_hilands_zip": 46,
+      "coverage_percent": 0.736
+    },
+    {
+      "region": "Scandinavia",
+      "shapefile_lakes": 5437,
+      "mapped_to_hilands_zip": 1138,
+      "coverage_percent": 20.930660290601434
+    },
+    {
+      "region": "South Asia East",
+      "shapefile_lakes": 4602,
+      "mapped_to_hilands_zip": 158,
+      "coverage_percent": 3.43328987396784
+    },
+    {
+      "region": "South Asia West",
+      "shapefile_lakes": 3775,
+      "mapped_to_hilands_zip": 12,
+      "coverage_percent": 0.31788079470198677
+    },
+    {
+      "region": "Low Latitudes",
+      "shapefile_lakes": 2586,
+      "mapped_to_hilands_zip": 114,
+      "coverage_percent": 4.408352668213457
+    },
+    {
+      "region": "North Asia",
+      "shapefile_lakes": 2159,
+      "mapped_to_hilands_zip": 22,
+      "coverage_percent": 1.0189902732746643
+    },
+    {
+      "region": "Arctic Canada North",
+      "shapefile_lakes": 1015,
+      "mapped_to_hilands_zip": 0,
+      "coverage_percent": 0.0
+    },
+    {
+      "region": "Central Europe",
+      "shapefile_lakes": 804,
+      "mapped_to_hilands_zip": 5,
+      "coverage_percent": 0.6218905472636816
+    },
+    {
+      "region": "Iceland",
+      "shapefile_lakes": 669,
+      "mapped_to_hilands_zip": 0,
+      "coverage_percent": 0.0
+    },
+    {
+      "region": "Russian Arctic",
+      "shapefile_lakes": 643,
+      "mapped_to_hilands_zip": 0,
+      "coverage_percent": 0.0
+    },
+    {
+      "region": "Caucasus and Middle East",
+      "shapefile_lakes": 254,
+      "mapped_to_hilands_zip": 0,
+      "coverage_percent": 0.0
+    },
+    {
+      "region": "New Zealand",
+      "shapefile_lakes": 195,
+      "mapped_to_hilands_zip": 2,
+      "coverage_percent": 1.0256410256410255
+    }
+  ]
+}

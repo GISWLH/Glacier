@@ -1,0 +1,116 @@
+{
+  "shapefile_records": 102929,
+  "shapefile_regions": 17,
+  "shapefile_area0_sum_km2": 22484.539236144938,
+  "shapefile_bounds_lonlat": [
+    -179.442,
+    -55.4561,
+    179.699,
+    82.6609
+  ],
+  "point_csv_records": 2674,
+  "point_csv_regions": 12,
+  "point_csv_lake_area_sum_km2": 3009.63,
+  "point_csv_area0_sum_km2": 4627.834000274559,
+  "zip_csv_files": 10556,
+  "zip_matched_point_ids": 2674,
+  "zip_year_min": 1990,
+  "zip_year_max": 2024,
+  "zip_series_length_median": 35.0,
+  "zip_total_area_first_last": [
+    8580.556377341385,
+    9538.27919694694
+  ],
+  "zip_total_volume_first_last": [
+    150158.63129212937,
+    207221.40716495522
+  ],
+  "top_regions": [
+    {
+      "region": "Greenland Periphery",
+      "shapefile_count": 42017,
+      "csv_count": 0,
+      "shapefile_area0_km2": 9818.407398825764
+    },
+    {
+      "region": "Western Canada and USA",
+      "shapefile_count": 8738,
+      "csv_count": 247,
+      "shapefile_area0_km2": 868.6274282087646
+    },
+    {
+      "region": "Arctic Canada South",
+      "shapefile_count": 8503,
+      "csv_count": 414,
+      "shapefile_area0_km2": 2370.883172837028
+    },
+    {
+      "region": "Central Asia",
+      "shapefile_count": 7846,
+      "csv_count": 66,
+      "shapefile_area0_km2": 539.3708947323926
+    },
+    {
+      "region": "Alaska",
+      "shapefile_count": 7436,
+      "csv_count": 438,
+      "shapefile_area0_km2": 2580.257326891073
+    },
+    {
+      "region": "Southern Andes",
+      "shapefile_count": 6250,
+      "csv_count": 47,
+      "shapefile_area0_km2": 2663.7482224449973
+    },
+    {
+      "region": "Scandinavia",
+      "shapefile_count": 5437,
+      "csv_count": 1148,
+      "shapefile_area0_km2": 1309.7160026051909
+    },
+    {
+      "region": "South Asia East",
+      "shapefile_count": 4602,
+      "csv_count": 159,
+      "shapefile_area0_km2": 419.9809666999346
+    },
+    {
+      "region": "South Asia West",
+      "shapefile_count": 3775,
+      "csv_count": 12,
+      "shapefile_area0_km2": 193.6159984532708
+    },
+    {
+      "region": "Low Latitudes",
+      "shapefile_count": 2586,
+      "csv_count": 114,
+      "shapefile_area0_km2": 303.9856041320209
+    },
+    {
+      "region": "North Asia",
+      "shapefile_count": 2159,
+      "csv_count": 22,
+      "shapefile_area0_km2": 181.77729993495151
+    },
+    {
+      "region": "Arctic Canada North",
+      "shapefile_count": 1015,
+      "csv_count": 0,
+      "shapefile_area0_km2": 336.5778600978281
+    }
+  ],
+  "top_hclass": [
+    [
+      "proglacial_detached",
+      78708
+    ],
+    [
+      "proglacial_contacted",
+      17879
+    ],
+    [
+      "supraglacial",
+      6342
+    ]
+  ]
+}
